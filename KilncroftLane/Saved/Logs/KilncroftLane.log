@@ -1,0 +1,952 @@
+﻿Log file open, 02/04/21 10:53:33
+LogInit: Display: Running engine for game: KilncroftLane
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.157375
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i5-4670 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 760
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line:  -EpicPortal -epicusername=Modking09 -epicuserid=20dbcb50ac26415ca68c4c5831fbc894 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.02.04-10.53.35:295][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.02.04-10.53.35:295][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.02.04-10.53.35:295][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Saved/Config/Windows/Engine.ini]
+[2021.02.04-10.53.35:295][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.02.04-10.53.35:295][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Saved/Config/Windows/Engine.ini]
+[2021.02.04-10.53.35:295][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Saved/Config/Windows/Engine.ini]
+[2021.02.04-10.53.35:295][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.02.04-10.53.35:295][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.02.04-10.53.35:295][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.02.04-10.53.35:295][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.02.04-10.53.35:295][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.02.04-10.53.35:295][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.02.04-10.53.35:295][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.02.04-10.53.35:295][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.02.04-10.53.35:295][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.02.04-10.53.35:295][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.02.04-10.53.35:295][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.02.04-10.53.35:295][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.02.04-10.53.35:295][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.02.04-10.53.35:296][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.02.04-10.53.35:296][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Saved/Config/Windows/Engine.ini]
+[2021.02.04-10.53.35:296][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.02.04-10.53.35:296][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.02.04-10.53.35:296][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.02.04-10.53.35:296][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.02.04-10.53.35:296][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.02.04-10.53.35:296][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.02.04-10.53.35:296][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.02.04-10.53.35:296][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.02.04-10.53.35:296][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.02.04-10.53.35:296][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.02.04-10.53.35:296][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.02.04-10.53.35:296][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.02.04-10.53.35:296][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.02.04-10.53.35:296][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Saved/Config/Windows/Engine.ini]
+[2021.02.04-10.53.35:296][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Saved/Config/Windows/Engine.ini]
+[2021.02.04-10.53.35:306][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.02.04-10.53.35:306][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.04-10.53.35:306][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.04-10.53.35:306][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.02.04-10.53.35:306][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.04-10.53.35:306][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.02.04-10.53.35:306][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.04-10.53.35:306][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.04-10.53.35:307][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.04-10.53.35:308][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.04-10.53.35:309][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.04-10.53.35:309][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.04-10.53.35:309][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.04-10.53.35:309][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.04-10.53.35:309][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.04-10.53.35:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.04-10.53.35:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.02.04-10.53.35:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.04-10.53.35:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.04-10.53.35:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.04-10.53.35:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.02.04-10.53.35:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.04-10.53.35:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.02.04-10.53.35:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.04-10.53.35:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.04-10.53.35:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.04-10.53.35:309][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.02.04-10.53.35:309][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.04-10.53.35:309][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.04-10.53.35:309][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.02.04-10.53.35:309][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.02.04-10.53.35:309][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.02.04-10.53.35:309][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.02.04-10.53.35:309][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.02.04-10.53.35:309][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.02.04-10.53.35:309][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.02.04-10.53.35:309][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.02.04-10.53.35:309][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.04-10.53.35:309][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.02.04-10.53.35:309][  0]LogHAL: Display: Platform has ~ 8 GB [8525746176 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.02.04-10.53.35:309][  0]LogInit: Going up to parent DeviceProfile []
+[2021.02.04-10.53.35:310][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.04-10.53.35:310][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.04-10.53.35:311][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.02.04-10.53.35:312][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.02.04-10.53.35:345][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.02.04-10.53.35:345][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.02.04-10.53.35:346][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.02.04-10.53.35:346][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Saved/Config/Windows/Engine.ini]
+[2021.02.04-10.53.35:346][  0]LogInit: Computer: JOHNNY-5
+[2021.02.04-10.53.35:346][  0]LogInit: User: Modking09
+[2021.02.04-10.53.35:346][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.02.04-10.53.35:346][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.02.04-10.53.35:346][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.02.04-10.53.35:346][  0]LogMemory: Platform Memory Stats for Windows
+[2021.02.04-10.53.35:346][  0]LogMemory: Process Physical Memory: 117.34 MB used, 117.35 MB peak
+[2021.02.04-10.53.35:346][  0]LogMemory: Process Virtual Memory: 95.55 MB used, 95.55 MB peak
+[2021.02.04-10.53.35:346][  0]LogMemory: Physical Memory: 5868.72 MB used,  2262.06 MB free, 8130.79 MB total
+[2021.02.04-10.53.35:346][  0]LogMemory: Virtual Memory: 5094.76 MB used,  134212632.00 MB free, 134217728.00 MB total
+[2021.02.04-10.53.35:428][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.02.04-10.53.35:856][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.02.04-10.53.35:889][  0]LogInit: Using OS detected language (en-GB).
+[2021.02.04-10.53.35:889][  0]LogInit: Using OS detected locale (en-GB).
+[2021.02.04-10.53.36:313][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.02.04-10.53.37:058][  0]LogInit: Setting process to per monitor DPI aware
+[2021.02.04-10.53.37:578][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.02.04-10.53.37:578][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.02.04-10.53.41:710][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2021.02.04-10.53.41:710][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.02.04-10.53.41:710][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.02.04-10.53.41:710][  0]LogD3D11RHI: D3D11 adapters:
+[2021.02.04-10.53.41:981][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760' (Feature Level 11_0)
+[2021.02.04-10.53.41:981][  0]LogD3D11RHI:       2007/0/4065 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.02.04-10.53.42:031][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.02.04-10.53.42:031][  0]LogD3D11RHI:       0/0/4065 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.02.04-10.53.42:031][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.02.04-10.53.42:038][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.02.04-10.53.42:039][  0]LogD3D11RHI:     GPU DeviceId: 0x1187 (for the marketing name, search the web for "GPU Device Id")
+[2021.02.04-10.53.42:039][  0]LogWindows: EnumDisplayDevices:
+[2021.02.04-10.53.42:039][  0]LogWindows:    0. 'NVIDIA GeForce GTX 760' (P:0 D:1)
+[2021.02.04-10.53.42:039][  0]LogWindows:    1. 'NVIDIA GeForce GTX 760' (P:1 D:1)
+[2021.02.04-10.53.42:040][  0]LogWindows:    2. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2021.02.04-10.53.42:041][  0]LogWindows:    3. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2021.02.04-10.53.42:041][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.02.04-10.53.42:041][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760
+[2021.02.04-10.53.42:041][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.02.04-10.53.42:041][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.02.04-10.53.42:041][  0]LogRHI: Texture pool is 1404 MB (70% of 2007 MB)
+[2021.02.04-10.53.42:106][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.02.04-10.53.42:106][  0]LogD3D11RHI: Async texture creation enabled
+[2021.02.04-10.53.42:132][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.02.04-10.53.42:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.02.04-10.53.42:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.02.04-10.53.42:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.02.04-10.53.42:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.02.04-10.53.42:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.02.04-10.53.42:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.02.04-10.53.42:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.02.04-10.53.42:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.02.04-10.53.42:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.02.04-10.53.42:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.02.04-10.53.42:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.02.04-10.53.42:935][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.02.04-10.53.42:935][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.02.04-10.53.42:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.02.04-10.53.43:317][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.02.04-10.53.43:347][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.02.04-10.53.43:367][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.02.04-10.53.43:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.02.04-10.53.43:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.02.04-10.53.43:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.02.04-10.53.43:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.02.04-10.53.43:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.02.04-10.53.43:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.02.04-10.53.43:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.02.04-10.53.43:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.02.04-10.53.43:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.02.04-10.53.43:675][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.02.04-10.53.43:693][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.02.04-10.53.43:693][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.02.04-10.53.43:777][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.02.04-10.53.44:500][  0]LogShaderCompilers: Guid format shader working directory is -59 characters bigger than the processId version (../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Intermediate/Shaders/WorkingDirectory/32/).
+[2021.02.04-10.53.44:500][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Modking09/AppData/Local/Temp/UnrealShaderWorkingDir/192F8CE142DE0A40422C2A94A1FB7B05/'.
+[2021.02.04-10.53.44:527][  0]LogXGEController: Cleaning working directory: C:/Users/Modking09/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.02.04-10.53.44:528][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.02.04-10.53.44:528][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.02.04-10.53.44:528][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.02.04-10.53.48:429][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.02.04-10.53.49:192][  0]LogDerivedDataCache: Loaded boot cache 0.76s 77MB C:/Users/Modking09/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.02.04-10.53.49:192][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Modking09/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.02.04-10.53.49:192][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.02.04-10.53.49:192][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.02.04-10.53.49:193][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.04-10.53.49:193][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.02.04-10.53.49:204][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.02.04-10.53.49:205][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.04-10.53.49:205][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.02.04-10.53.49:206][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Modking09/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.02.04-10.53.49:206][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.02.04-10.53.49:206][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.02.04-10.53.49:267][  0]LogSlate: Using FreeType 2.10.0
+[2021.02.04-10.53.49:390][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.02.04-10.53.50:788][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2021.02.04-10.53.51:146][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.04-10.53.52:165][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.02.04-10.53.52:165][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.02.04-10.53.52:165][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.02.04-10.53.52:165][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.02.04-10.53.52:165][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.02.04-10.53.52:270][  0]LogNetVersion: KilncroftLane 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2375302961)
+[2021.02.04-10.54.09:358][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000019C6B1CE980), frame # 0
+[2021.02.04-10.54.09:358][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019C6B0C8A40), frame # 0
+[2021.02.04-10.54.09:360][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019C6B1D6800), frame # 0
+[2021.02.04-10.54.09:419][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.050599 seconds
+[2021.02.04-10.54.09:425][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.02.04-10.54.09:425][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.02.04-10.54.09:425][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.02.04-10.54.14:559][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.02.04-10.54.14:626][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.02.04-10.54.15:538][  0]SourceControl: Source control is disabled
+[2021.02.04-10.54.15:538][  0]SourceControl: Source control is disabled
+[2021.02.04-10.54.15:687][  0]SourceControl: Source control is disabled
+[2021.02.04-10.54.15:734][  0]SourceControl: Source control is disabled
+[2021.02.04-10.54.15:808][  0]SourceControl: Source control is disabled
+[2021.02.04-10.54.18:960][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.02.04-10.54.19:258][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.04-10.54.19:258][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.04-10.54.19:645][  0]LogOcInput: OculusInput pre-init called
+[2021.02.04-10.54.19:721][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.02.04-10.54.19:722][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.02.04-10.54.20:122][  0]LogEngine: Initializing Engine...
+[2021.02.04-10.54.20:156][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2021.02.04-10.54.20:157][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.02.04-10.54.20:158][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.02.04-10.54.20:318][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.02.04-10.54.20:408][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.02.04-10.54.20:408][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019C7552DC00), frame # 0
+[2021.02.04-10.54.20:408][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019C74578F40), frame # 0
+[2021.02.04-10.54.20:496][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.04-10.54.20:496][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.04-10.54.20:496][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.04-10.54.20:496][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.04-10.54.20:497][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.04-10.54.20:497][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.04-10.54.20:497][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.04-10.54.20:497][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.04-10.54.20:497][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.04-10.54.20:497][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.04-10.54.20:732][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.04-10.54.20:732][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.02.04-10.54.20:834][  0]LogAudioMixer: Display: Using Audio Device 24W_LCD_TV (NVIDIA High Definition Audio)
+[2021.02.04-10.54.20:837][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.04-10.54.20:840][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.04-10.54.20:840][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.04-10.54.20:841][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.04-10.54.20:842][  0]LogInit: FAudioDevice initialized.
+[2021.02.04-10.54.20:842][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.02.04-10.54.25:765][  0]LogDerivedDataCache: Saved boot cache 4.92s 77MB C:/Users/Modking09/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.02.04-10.54.25:791][  0]LogInit: Texture streaming: Enabled
+[2021.02.04-10.54.26:110][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.02.04-10.54.26:110][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.02.04-10.54.26:131][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.02.04-10.54.26:416][  0]LogInit: Transaction tracking system initialized
+[2021.02.04-10.54.26:798][  0]BlueprintLog: New page: Editor Load
+[2021.02.04-10.54.27:942][  0]LocalizationService: Localization service is disabled
+[2021.02.04-10.54.29:602][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.02.04-10.54.29:603][  0]LogCook: Display: Mobile HDR setting 1
+[2021.02.04-10.54.29:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/' took 0.00s
+[2021.02.04-10.54.31:505][  0]SourceControl: Source control is disabled
+[2021.02.04-10.54.31:505][  0]LogUnrealEdMisc: Loading editor; pre map load, took 94.949
+[2021.02.04-10.54.31:849][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.25/FeaturePacks/StarterContent.upack)
+[2021.02.04-10.54.32:285][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.02.04-10.54.32:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2021.02.04-10.54.32:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2021.02.04-10.54.32:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2021.02.04-10.54.32:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2021.02.04-10.54.32:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2021.02.04-10.54.32:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2021.02.04-10.54.32:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2021.02.04-10.54.32:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2021.02.04-10.54.32:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2021.02.04-10.54.32:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2021.02.04-10.54.32:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2021.02.04-10.54.32:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Audio/Collapse01.uasset"
+[2021.02.04-10.54.32:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Audio/Collapse02.uasset"
+[2021.02.04-10.54.32:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2021.02.04-10.54.32:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Audio/Explosion01.uasset"
+[2021.02.04-10.54.32:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Audio/Explosion02.uasset"
+[2021.02.04-10.54.32:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2021.02.04-10.54.33:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Audio/Fire01.uasset"
+[2021.02.04-10.54.33:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2021.02.04-10.54.33:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2021.02.04-10.54.33:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2021.02.04-10.54.33:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Audio/Light01.uasset"
+[2021.02.04-10.54.33:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2021.02.04-10.54.33:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Audio/Light02.uasset"
+[2021.02.04-10.54.33:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2021.02.04-10.54.33:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Audio/Smoke01.uasset"
+[2021.02.04-10.54.33:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2021.02.04-10.54.33:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2021.02.04-10.54.34:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2021.02.04-10.54.34:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2021.02.04-10.54.34:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2021.02.04-10.54.35:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2021.02.04-10.54.35:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2021.02.04-10.54.35:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Audio/Steam01.uasset"
+[2021.02.04-10.54.35:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2021.02.04-10.54.35:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2021.02.04-10.54.35:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2021.02.04-10.54.35:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2021.02.04-10.54.36:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2021.02.04-10.54.36:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2021.02.04-10.54.36:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2021.02.04-10.54.36:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2021.02.04-10.54.36:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2021.02.04-10.54.36:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2021.02.04-10.54.36:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2021.02.04-10.54.36:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2021.02.04-10.54.36:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2021.02.04-10.54.36:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2021.02.04-10.54.36:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2021.02.04-10.54.36:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2021.02.04-10.54.36:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2021.02.04-10.54.39:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2021.02.04-10.54.39:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2021.02.04-10.54.39:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2021.02.04-10.54.39:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Maps/Minimal_Default.umap"
+[2021.02.04-10.54.40:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2021.02.04-10.54.40:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Maps/StarterMap.umap"
+[2021.02.04-10.54.41:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2021.02.04-10.54.41:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2021.02.04-10.54.41:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2021.02.04-10.54.41:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2021.02.04-10.54.41:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2021.02.04-10.54.41:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2021.02.04-10.54.41:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2021.02.04-10.54.41:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2021.02.04-10.54.41:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2021.02.04-10.54.41:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2021.02.04-10.54.41:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2021.02.04-10.54.42:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2021.02.04-10.54.42:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2021.02.04-10.54.42:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2021.02.04-10.54.42:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2021.02.04-10.54.42:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2021.02.04-10.54.42:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2021.02.04-10.54.42:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2021.02.04-10.54.42:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Glass.uasset"
+[2021.02.04-10.54.42:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2021.02.04-10.54.42:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2021.02.04-10.54.42:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2021.02.04-10.54.42:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2021.02.04-10.54.42:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2021.02.04-10.54.42:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2021.02.04-10.54.42:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2021.02.04-10.54.42:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2021.02.04-10.54.42:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2021.02.04-10.54.42:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2021.02.04-10.54.42:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2021.02.04-10.54.42:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2021.02.04-10.54.43:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2021.02.04-10.54.43:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2021.02.04-10.54.43:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2021.02.04-10.54.43:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2021.02.04-10.54.43:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2021.02.04-10.54.43:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2021.02.04-10.54.43:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2021.02.04-10.54.43:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2021.02.04-10.54.43:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2021.02.04-10.54.43:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2021.02.04-10.54.43:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2021.02.04-10.54.43:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2021.02.04-10.54.43:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2021.02.04-10.54.43:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2021.02.04-10.54.43:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Particles/P_Explosion.uasset"
+[2021.02.04-10.54.43:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Particles/P_Fire.uasset"
+[2021.02.04-10.54.44:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Particles/P_Smoke.uasset"
+[2021.02.04-10.54.44:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Particles/P_Sparks.uasset"
+[2021.02.04-10.54.44:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2021.02.04-10.54.44:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2021.02.04-10.54.44:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2021.02.04-10.54.44:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2021.02.04-10.54.44:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2021.02.04-10.54.44:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2021.02.04-10.54.44:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2021.02.04-10.54.44:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2021.02.04-10.54.44:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2021.02.04-10.54.44:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2021.02.04-10.54.44:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2021.02.04-10.54.44:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/MaterialSphere.uasset"
+[2021.02.04-10.54.44:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/SM_Bush.uasset"
+[2021.02.04-10.54.44:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/SM_Chair.uasset"
+[2021.02.04-10.54.45:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2021.02.04-10.54.45:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/SM_Couch.uasset"
+[2021.02.04-10.54.45:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/SM_Door.uasset"
+[2021.02.04-10.54.45:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2021.02.04-10.54.45:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2021.02.04-10.54.45:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2021.02.04-10.54.45:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2021.02.04-10.54.45:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2021.02.04-10.54.45:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2021.02.04-10.54.45:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2021.02.04-10.54.45:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/SM_Rock.uasset"
+[2021.02.04-10.54.45:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/SM_Shelf.uasset"
+[2021.02.04-10.54.45:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/SM_Stairs.uasset"
+[2021.02.04-10.54.46:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/SM_Statue.uasset"
+[2021.02.04-10.54.46:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/SM_TableRound.uasset"
+[2021.02.04-10.54.46:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2021.02.04-10.54.46:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2021.02.04-10.54.46:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2021.02.04-10.54.46:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2021.02.04-10.54.46:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2021.02.04-10.54.46:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2021.02.04-10.54.46:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2021.02.04-10.54.46:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2021.02.04-10.54.46:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2021.02.04-10.54.46:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2021.02.04-10.54.46:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2021.02.04-10.54.47:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2021.02.04-10.54.47:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2021.02.04-10.54.47:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2021.02.04-10.54.47:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2021.02.04-10.54.47:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2021.02.04-10.54.47:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2021.02.04-10.54.47:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2021.02.04-10.54.47:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2021.02.04-10.54.47:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2021.02.04-10.54.47:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2021.02.04-10.54.47:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2021.02.04-10.54.47:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2021.02.04-10.54.47:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2021.02.04-10.54.47:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2021.02.04-10.54.47:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2021.02.04-10.54.47:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2021.02.04-10.54.47:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2021.02.04-10.54.47:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2021.02.04-10.54.47:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2021.02.04-10.54.47:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2021.02.04-10.54.47:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2021.02.04-10.54.48:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2021.02.04-10.54.49:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2021.02.04-10.54.49:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2021.02.04-10.54.49:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2021.02.04-10.54.50:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2021.02.04-10.54.50:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2021.02.04-10.54.51:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2021.02.04-10.54.51:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2021.02.04-10.54.52:461][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2021.02.04-10.54.52:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2021.02.04-10.54.53:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2021.02.04-10.54.53:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2021.02.04-10.54.53:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2021.02.04-10.54.54:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2021.02.04-10.54.54:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2021.02.04-10.54.54:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2021.02.04-10.54.54:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2021.02.04-10.54.54:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2021.02.04-10.54.54:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2021.02.04-10.54.54:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2021.02.04-10.54.54:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2021.02.04-10.54.55:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2021.02.04-10.54.55:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2021.02.04-10.54.56:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2021.02.04-10.54.56:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2021.02.04-10.54.56:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2021.02.04-10.54.56:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2021.02.04-10.54.57:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2021.02.04-10.54.57:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2021.02.04-10.54.58:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2021.02.04-10.54.58:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2021.02.04-10.54.58:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2021.02.04-10.54.59:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2021.02.04-10.55.00:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2021.02.04-10.55.00:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2021.02.04-10.55.00:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2021.02.04-10.55.00:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2021.02.04-10.55.00:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2021.02.04-10.55.01:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2021.02.04-10.55.01:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Door_M.uasset"
+[2021.02.04-10.55.01:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Door_N.uasset"
+[2021.02.04-10.55.01:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2021.02.04-10.55.01:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2021.02.04-10.55.01:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2021.02.04-10.55.01:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2021.02.04-10.55.01:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2021.02.04-10.55.01:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2021.02.04-10.55.01:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2021.02.04-10.55.01:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2021.02.04-10.55.02:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2021.02.04-10.55.02:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2021.02.04-10.55.03:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2021.02.04-10.55.03:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2021.02.04-10.55.04:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2021.02.04-10.55.04:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2021.02.04-10.55.04:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2021.02.04-10.55.05:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2021.02.04-10.55.05:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2021.02.04-10.55.06:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2021.02.04-10.55.06:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2021.02.04-10.55.06:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2021.02.04-10.55.07:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2021.02.04-10.55.07:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2021.02.04-10.55.08:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2021.02.04-10.55.08:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2021.02.04-10.55.09:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2021.02.04-10.55.09:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2021.02.04-10.55.09:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2021.02.04-10.55.10:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2021.02.04-10.55.10:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2021.02.04-10.55.11:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2021.02.04-10.55.11:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2021.02.04-10.55.12:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2021.02.04-10.55.12:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2021.02.04-10.55.13:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2021.02.04-10.55.14:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2021.02.04-10.55.14:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2021.02.04-10.55.14:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2021.02.04-10.55.17:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2021.02.04-10.55.17:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2021.02.04-10.55.17:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2021.02.04-10.55.18:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2021.02.04-10.55.18:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2021.02.04-10.55.18:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2021.02.04-10.55.18:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2021.02.04-10.55.18:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2021.02.04-10.55.18:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2021.02.04-10.55.18:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2021.02.04-10.55.18:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2021.02.04-10.55.18:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2021.02.04-10.55.18:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2021.02.04-10.55.18:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2021.02.04-10.55.19:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Water_M.uasset"
+[2021.02.04-10.55.19:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Water_N.uasset"
+[2021.02.04-10.55.20:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2021.02.04-10.55.20:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2021.02.04-10.55.20:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2021.02.04-10.55.23:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2021.02.04-10.55.23:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2021.02.04-10.55.24:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2021.02.04-10.55.24:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2021.02.04-10.55.25:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2021.02.04-10.55.25:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2021.02.04-10.55.26:425][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2021.02.04-10.55.26:674][  0]LogStaticMesh: Built static mesh [0.25s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.02.04-10.55.29:340][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.02.04-10.55.32:082][  0]LogSavePackage: Moving '../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Saved/Floor_400x400A76E0646431339DDCA686EBD6BD64D58.tmp' to '../../../../../../Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2021.02.04-10.55.32:387][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2021.02.04-10.55.32:476][  0]LightingResults: New page: Lighting Build
+[2021.02.04-10.55.32:769][  0]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.02.04-10.55.32:769][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.02.04-10.55.32:906][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.04-10.55.33:010][  0]MapCheck: New page: Map Check
+[2021.02.04-10.55.33:010][  0]LightingResults: New page: Lighting Build
+[2021.02.04-10.55.34:465][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019C7552DC00), frame # 0
+[2021.02.04-10.55.34:466][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019C74578F40), frame # 0
+[2021.02.04-10.55.34:503][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.02.04-10.55.54:537][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2021.02.04-10.55.54:537][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2021.02.04-10.55.54:537][  0]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 2048X2048)
+[2021.02.04-10.55.54:537][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2021.02.04-10.55.54:537][  0]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 64X64)
+[2021.02.04-10.55.54:537][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2021.02.04-10.55.54:537][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2021.02.04-10.55.54:537][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2021.02.04-10.55.54:537][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 2048X2048)
+[2021.02.04-10.55.54:537][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 64X64)
+[2021.02.04-10.55.54:537][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2021.02.04-10.55.54:537][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2021.02.04-10.55.54:537][  0]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 2048X1024)
+[2021.02.04-10.55.54:537][  0]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 2048X1024)
+[2021.02.04-10.55.54:537][  0]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 64X32)
+[2021.02.04-10.55.54:537][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X1024)
+[2021.02.04-10.55.54:537][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X1024)
+[2021.02.04-10.55.54:537][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X1024)
+[2021.02.04-10.55.54:537][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X1024)
+[2021.02.04-10.55.54:537][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X1024)
+[2021.02.04-10.55.54:537][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 32X32)
+[2021.02.04-10.55.54:537][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X1024)
+[2021.02.04-10.55.54:537][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
+[2021.02.04-10.55.54:555][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.02.04-10.55.54:555][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019C7F967C00), frame # 0
+[2021.02.04-10.55.54:556][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019C7F7E51C0), frame # 0
+[2021.02.04-10.55.56:696][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.04-10.55.57:145][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.02.04-10.55.57:168][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.04-10.55.57:168][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.207ms to complete.
+[2021.02.04-10.55.57:169][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 24.780
+[2021.02.04-10.55.59:378][  0]LogUnrealEdMisc: Total Editor Startup Time, took 182.822
+[2021.02.04-10.56.00:383][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.04-10.56.00:393][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.04-10.56.00:401][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.04-10.56.00:408][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.04-10.56.00:563][  0]LogCollectionManager: Loaded 0 collections in 0.001773 seconds
+[2021.02.04-10.56.00:863][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Saved/Collections/' took 0.00s
+[2021.02.04-10.56.00:863][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/Developers/Modking09/Collections/' took 0.00s
+[2021.02.04-10.56.00:863][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Modking09/Desktop/Collab Practice Documents/Kilncroft Lane/Kilncroft-Lane/KilncroftLane/Content/Collections/' took 0.00s
+[2021.02.04-10.56.00:863][  0]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 3427 classes and 821 folders.
+[2021.02.04-10.56.01:094][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.02.04-10.56.03:110][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.02.04-10.56.03:235][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.02.04-10.56.03:874][  0]LogSlate: Took 0.011378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.02.04-10.56.03:951][  0]LogSlate: Took 0.013459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.02.04-10.56.04:082][  0]LogSlate: Took 0.026111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.02.04-10.56.04:535][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.02.04-10.56.05:112][  0]LogSlate: Took 0.009866 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.04-10.56.05:757][  0]LogSlate: Window 'Tutorials' being destroyed
+[2021.02.04-10.56.06:134][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.02.04-10.56.06:134][  0]LogLoad: (Engine Initialization) Total time: 189.58 seconds
+[2021.02.04-10.56.06:134][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.02.04-10.56.06:706][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2021.02.04-10.56.06:706][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.02.04-10.56.12:199][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.02.04-10.56.12:692][  1]LogAssetRegistry: Asset discovery search completed in 141.9040 seconds
+[2021.02.04-10.56.12:718][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
