@@ -1,0 +1,1408 @@
+--------- beginning of system
+02-15 11:18:24.402  1022  4018 I ActivityTaskManager: START u0 {flg=0x10000000 cmp=com.YourCompany.KilncroftLane/com.epicgames.ue4.GameActivity} from uid 2000
+--------- beginning of main
+02-15 11:18:24.411   680  4979 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:24.414   680  4981 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:24.417   680  4983 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:24.420   680  4985 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:24.422   724   724 E WifiHAL : handleResponse: OTHER_RX_MULTICAST_CNT not found
+02-15 11:18:24.423   680  4987 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:24.424   720   791 D android.hardware.power@1.3-service-libperfmgr: LAUNCH ON
+02-15 11:18:24.425   680  4989 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:24.427   724   724 E WifiHAL : wifi_get_ring_data: Error -5 happened. 
+02-15 11:18:24.428   680  4991 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:24.430   680  4993 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:24.432  1022  1771 E WifiVendorHal: getRingBufferData(l.1675) failed {.code = ERROR_INVALID_ARGS, .description = }
+02-15 11:18:24.433   680  4995 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:24.435   680  4998 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:24.438   680  5000 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:24.438  3215  3256 I Clay    : [I]: EnvironmentStateSystem: Clearing IR due to pausing
+02-15 11:18:24.438  3215  3256 I Clay    : [I]: Exiting VR mode
+02-15 11:18:24.438  3215  3256 I VrApi   : ---------- vrapi_LeaveVrMode [start] ----------
+02-15 11:18:24.438  3278  3278 D [SEO] ShellEnvOverlayService: Message Handler: onPause
+02-15 11:18:24.441   680  5002 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:24.442  3215  3256 D VrApi   : targetSDKVersion 25
+02-15 11:18:24.444  3215  3256 I VrRuntimeClient: DEVICE MODEL NUMBER = Quest 2
+02-15 11:18:24.444  3215  3256 I VrRuntimeClient: DEVICE HARDWARE = hollywood
+02-15 11:18:24.444  3215  3256 I VrRuntimeClient: DEVICE BUILD NAME = user-1396980.8370.0
+02-15 11:18:24.444  3215  3256 I VrRuntimeClient: DEVICE BUILD TYPE = user
+02-15 11:18:24.444  3215  3256 I VrRuntimeClient: DEVICE OS VERSION = 10
+02-15 11:18:24.444  3215  3256 I VrRuntimeClient: VRRUNTIME VERSION = VRAPI_VERSION_BEGIN { 1.1.42.0-270435163-270435163 Jan 28 2021 12:41:13 Development } RELEASE
+02-15 11:18:24.444  3215  3256 I VrRuntimeClient: API LOADER VERSION = 1.1.34.0
+02-15 11:18:24.444  3215  3256 I VrRuntimeClient: VRDRIVER VERSION = 25.0.0.72.658
+02-15 11:18:24.444  3215  3256 I VrRuntimeClient: APP NAME = ShellEnv
+02-15 11:18:24.444  3215  3256 I VrRuntimeClient: APP VERSION = 25.0.0.72.658 versionCode 270437171 internalVersionName 25.0.0.72.658.29e017684e5b 2021_01_28_12_53
+02-15 11:18:24.444  3215  3256 I VrRuntimeClient: APP VR TYPE = vr_only
+02-15 11:18:24.444  3215  3256 I VrRuntimeClient: APP MODE TYPE = <none>
+02-15 11:18:24.444  3215  3256 I VrRuntimeClient: APP PACKAGE NAME = com.oculus.shellenv
+02-15 11:18:24.444  3215  3256 I VrRuntimeClient: APP ACTIVITY CLASS = com.oculus.shellenv.ShellEnvActivity
+02-15 11:18:24.444   680  5004 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:24.444  3215  3256 D BatteryReceiver: Unregistering battery receiver
+02-15 11:18:24.446   680  5006 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:24.447  1022  4018 W InputReader: Device has associated, but no associated display id.
+02-15 11:18:24.447  1022  4018 I chatty  : uid=1000(system) Binder:1022_E identical 1 line
+02-15 11:18:24.448  1022  4018 W InputReader: Device has associated, but no associated display id.
+02-15 11:18:24.448  2617  2617 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@5eee812
+02-15 11:18:24.449  3215  3352 I VrApi   : FPS=79/90,Prd=32ms,Tear=0,Early=1,Stale=33,VSnc=1,Lat=1,Fov=0,CPU4/GPU=4/3,2419/490MHz,OC=FF,TA=0/70/0,SP=N/F/N,Mem=2092MHz,Free=3721MB,PLS=0,Temp=35.2C/0.0C,TW=4.39ms,App=8.60ms,GD=0.00ms,CPU&GPU=20.38ms,LCnt=4,GPU%=0.96,CPU%=0.50(W0.55),DSF=1.00
+02-15 11:18:24.449  1022  4018 W InputReader: Device has associated, but no associated display id.
+02-15 11:18:24.449   680  5008 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:24.452   680  5010 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:24.454   734  2375 D AF::TrackHandle: OpPlayAudio: track:58 uid:10026 pkg:com.oculus.systemux usage:10 not muted
+02-15 11:18:24.454   680  5012 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:24.455   734  1848 D AF::TrackHandle: OpPlayAudio: track:57 uid:10020 pkg:com.oculus.vrshell usage:1 not muted
+02-15 11:18:24.456   734  1848 D AF::TrackHandle: OpPlayAudio: track:58 uid:10026 pkg:com.oculus.systemux usage:10 not muted
+02-15 11:18:24.457   734  1009 D AF::TrackHandle: OpPlayAudio: track:56 uid:10014 pkg:com.oculus.shellenv usage:1 muted
+02-15 11:18:24.457   680  5014 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:24.459   734  2375 D AF::TrackHandle: OpPlayAudio: track:57 uid:10020 pkg:com.oculus.vrshell usage:1 not muted
+02-15 11:18:24.459   734  1009 D AF::TrackHandle: OpPlayAudio: track:56 uid:10014 pkg:com.oculus.shellenv usage:1 muted
+02-15 11:18:24.459   680  5016 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:24.464   680  5018 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:24.466  1022  1771 D wifi-jni: no kernel logs
+02-15 11:18:24.467   680  5021 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:24.470   680  5023 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:24.474  3215  3256 I VrApi   : OVR::Stats thread stopped
+02-15 11:18:24.474  3215  3256 I InputDeviceManager: ovrInputDeviceManager::~ovrInputDeviceManager
+02-15 11:18:24.480   698   919 D msm8974_platform: platform_split_snd_device: snd_device(2) num devices(1) new_snd_devices(0)
+02-15 11:18:24.480   698   919 D ACDB-LOADER: ACDB -> send_audvoltable
+02-15 11:18:24.480   698   919 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_INSTANCE_GAIN_DEP_STEP_TABLE_SIZE
+02-15 11:18:24.480   698   919 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_INSTANCE_GAIN_DEP_STEP_TABLE, vol index 11
+02-15 11:18:24.480   698   919 D ACDB-LOADER: ACDB -> AUDIO_SET_VOL_CAL cal type = 40
+02-15 11:18:24.481   698   919 D msm8974_platform: platform_split_snd_device: snd_device(2) num devices(1) new_snd_devices(0)
+02-15 11:18:24.481   698   919 D ACDB-LOADER: ACDB -> send_audvoltable
+02-15 11:18:24.481   698   919 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_INSTANCE_GAIN_DEP_STEP_TABLE_SIZE
+02-15 11:18:24.481   698   919 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_INSTANCE_GAIN_DEP_STEP_TABLE, vol index 11
+02-15 11:18:24.481  3215  3351 I ClientInputThread_Internal: InputThreadRun ShutdownRequest received
+02-15 11:18:24.481   698   919 D ACDB-LOADER: ACDB -> AUDIO_SET_VOL_CAL cal type = 40
+02-15 11:18:24.497  2617  2617 I VrApiLoader: VrApi Loader Version: 1.1.34.0-0-0 Apr 10 2020 14:33:54 
+02-15 11:18:24.503  2617  2617 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.hidl.base-V1.0-java.jar
+02-15 11:18:24.503  2617  2617 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.hidl.manager-V1.0-java.jar
+02-15 11:18:24.503  2617  2617 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.hidl.base-V1.0-java.jar
+02-15 11:18:24.504  2617  2617 I ssioncontrolle: The ClassLoaderContext is a special shared library.
+02-15 11:18:24.507  2617  2617 V VrDriver: Loading 64-bit VrDriver.
+02-15 11:18:24.509  2617  2617 I Distortion: SetLensPositions - iad=0.063, left offset=0.000250001,0, right offset=-0.000250001,0
+02-15 11:18:24.509  2617  2617 I Distortion: SetLensPositions - iad=0.063, left offset=0.000250001,0, right offset=-0.000250001,0
+02-15 11:18:24.513  2617  2617 I VrApi_DriverLoader: nativeSetClassLoader:0x2696
+02-15 11:18:24.513  2617  2617 I VrApi   : ----------- vrapi_Initialize [start] ----------
+02-15 11:18:24.513  2617  2617 I AdrenoGLES-0: QUALCOMM build                   : 09c6a36, I5e696c022b
+02-15 11:18:24.513  2617  2617 I AdrenoGLES-0: Build Date                       : 12/07/20
+02-15 11:18:24.513  2617  2617 I AdrenoGLES-0: OpenGL ES Shader Compiler Version: EV031.35.01.02
+02-15 11:18:24.513  2617  2617 I AdrenoGLES-0: Local Branch                     : 
+02-15 11:18:24.513  2617  2617 I AdrenoGLES-0: Remote Branch                    : refs/tags/AU_LINUX_ANDROID_LA.UM.8.12.R1.10.00.00.561.144
+02-15 11:18:24.513  2617  2617 I AdrenoGLES-0: Remote Branch                    : NONE
+02-15 11:18:24.513  2617  2617 I AdrenoGLES-0: Reconstruct Branch               : NOTHING
+02-15 11:18:24.513  2617  2617 I AdrenoGLES-0: Build Config                     : S P 8.0.12 AArch64
+02-15 11:18:24.513  2617  2617 I AdrenoGLES-0: Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so
+02-15 11:18:24.516  2617  2617 I AdrenoGLES-0: PFP: 0x016dd093, ME: 0x00000000
+02-15 11:18:24.524  3215  3256 I InputHooks_Internal: Disabling Native Input Hooks
+02-15 11:18:24.525  2617  2617 I VrApi   : Client type: 0 flags: 0x0 placement: 0
+02-15 11:18:24.525  1936  1996 D VrRuntimeService: enableRendering: 3215:com.oculus.shellenv: null enable: false
+02-15 11:18:24.525  1936  1996 I ClientMgr: ClientMgr::EnableRendering 3215:com.oculus.shellenv : type 0 comp-id 5: disable
+02-15 11:18:24.525  1936  1996 I VrRuntimeServer: DisableCompositorClient: 5
+02-15 11:18:24.525  1936  1996 I TimeWarp: Disable client 5
+02-15 11:18:24.525  1936  1996 I TimeWarp: DisableClient: frame flush required: 1
+02-15 11:18:24.532  2617  2617 D VrApi   : isActivityFocusAware context = com.oculus.os.DialogContext@ebd79c2
+02-15 11:18:24.532  2617  2617 D FocusAwarenessUtil: isActivityFocusAware
+02-15 11:18:24.532  2617  2617 D FocusAwarenessUtil: isActivityFocusAware passesFocusAwarenessPushRolloutGk = true
+02-15 11:18:24.532  2617  2617 D FocusAwarenessUtil: isSystemApp = true for com.android.permissioncontroller
+02-15 11:18:24.532  2617  2617 D FocusAwarenessUtil: No Activity manifest entry for com.android.permissioncontroller
+02-15 11:18:24.532  2617  2617 D FocusAwarenessUtil: No activity manifest entry, checking application manifest entry
+02-15 11:18:24.532  2617  2617 D FocusAwarenessUtil: No Application manifest entry for com.android.permissioncontroller
+02-15 11:18:24.532  2617  2617 D FocusAwarenessUtil: isSystemApp so returning manifest value for com.android.permissioncontroller as DISABLED
+02-15 11:18:24.532  2617  2617 I VrApi   : isActivityFocusAware = 0
+02-15 11:18:24.532  2617  2617 I RuntimeHelpers: OSSDKTRACKING Setting ResultUseOSSDKTracking to 0
+02-15 11:18:24.532  2617  2617 I RuntimeHelpers: OSSDKTRACKING Setting ResultUseOSSDKTracking to 0
+02-15 11:18:24.532  2617  2617 I VrRuntimeClient: VrRuntimeClient: Init
+02-15 11:18:24.533  2617  2617 I RuntimeHelpers: OSSDKTRACKING Setting ResultUseOSSDKTracking to 0
+02-15 11:18:24.533  2617  2617 I DeviceProperties: ovrDeviceProperties::Initialize
+02-15 11:18:24.533  2617  2617 I DeviceProperties: Device Model: 'hollywood'
+02-15 11:18:24.533  2617  2617 I DeviceProperties: Device Region: 'US'
+02-15 11:18:24.534  2617  2617 I DeviceProperties: GPU Type: 'ADRENO_650'
+02-15 11:18:24.536  2617  2617 I DeviceProperties: Num Refresh Rates Supported 4
+02-15 11:18:24.536  2617  2617 I DeviceProperties: Refresh Rate (0): 90.000000Hz
+02-15 11:18:24.536  2617  2617 I DeviceProperties: Refresh Rate (1): 80.000000Hz
+02-15 11:18:24.536  2617  2617 I DeviceProperties: Refresh Rate (2): 72.000000Hz
+02-15 11:18:24.536  2617  2617 I DeviceProperties: Refresh Rate (3): 60.000000Hz
+02-15 11:18:24.541  2617  2617 I DeviceProperties: DisplayParms.ScanoutDirection = 0
+02-15 11:18:24.541  2617  2617 I DeviceProperties: DisplayParms.ShutterType = 1
+02-15 11:18:24.541  2617  2617 I DeviceProperties: DisplayParms.timing = 0.700000 0.700000
+02-15 11:18:24.541  2617  2617 I DeviceProperties: DisplayParms.prediction = (2.000000 2.000000) (2.000000 2.000000)
+02-15 11:18:24.542  2617  2617 I DeviceProperties: getDisplayDimensions returned: 3664, 1920
+02-15 11:18:24.542  2617  2617 I DeviceProperties: ovrDeviceProperties: OVR_DEVICE_CAPABILITY_POSITIONAL_TRACKING_BIT
+02-15 11:18:24.542  2617  2617 I DeviceProperties: ovrDeviceProperties: OVR_DEVICE_CAPABILITY_PASSTHROUGH_CAMERA_BIT
+02-15 11:18:24.542  2617  2617 I DeviceProperties: ovrDeviceProperties: OVR_DEVICE_CAPABILITY_DYNAMIC_DISPLAY_REFRESH_RATE_BIT
+02-15 11:18:24.542  2617  2617 I DeviceProperties: ovrDeviceProperties: OVR_DEVICE_CAPABILITY_MEMORY_EXPORT_BIT
+02-15 11:18:24.542  2617  2617 I DeviceProperties: ovrDeviceProperties: OVR_DEVICE_CAPABILITY_FIXED_FOVEATED_RENDERING_BIT
+02-15 11:18:24.542  2617  2617 I DeviceProperties: ovrDeviceProperties: OVR_DEVICE_CAPABILITY_SUBSAMPLED_LAYOUT_BIT
+02-15 11:18:24.542  2617  2617 I VrRuntimeClient: RuntimeService Enabled
+02-15 11:18:24.542  2617  2617 I RuntimeHelpers: ShouldEnableOOPComposition: oopc_enabled_prop = -1
+02-15 11:18:24.542  2617  2617 I RuntimeHelpers: IsOopCompositionEnabled: enabled
+02-15 11:18:24.542  2617  2617 I VrRuntimeClient: DevicesSupported : 1 devices, quest
+02-15 11:18:24.542  2617  2617 I VrRuntimeClient: IsFocusAware: 0
+02-15 11:18:24.542  2193  2214 W LibraryProvider: Cannot find entitlement for com.android.permissioncontroller
+02-15 11:18:24.543  1554  1621 W OVRLibrary: null cursor received for query content://com.oculus.ocms.library/apps/com.android.permissioncontroller
+02-15 11:18:24.552  1936  1996 I UnifiedTelemetryWrapper: Stopped UT session render:com.oculus.shellenv
+02-15 11:18:24.552  1936  2295 I ClientMgr: Non-overlay clients rendering status has changed: prev=3, curr=4, enabled=0
+02-15 11:18:24.552  1936  2295 I TimeWarp: Enable client 0
+02-15 11:18:24.552  1936  2295 I VrRuntimeServer: EnableCompositorClient client(0): layer placement(4294967291) flags(0) sm(0x71133dd220)
+02-15 11:18:24.553  3215  3354 I FenceChecker: FenceChecker::MainLoop - ended
+02-15 11:18:24.553  3215  3256 I TrackingServiceClient: OVR::TrackingService::ClientSetInterface
+02-15 11:18:24.553  3215  3256 D TrackingServiceConnectionNative: onClientDisconnect
+--------- beginning of tracking
+02-15 11:18:24.553   802   802 I TrackingService: Unregistering client by ITrackingService.unregisterClient
+02-15 11:18:24.553   802   802 I TrackingService: TrackingServiceHost Unregistering client: com.oculus.shellenv#3215
+02-15 11:18:24.554  3215  3256 D BinderConnection: Disconnecting from TrackingService service
+02-15 11:18:24.554  3215  3256 D TrackingServiceConnectionNative: onDisconnected
+02-15 11:18:24.554  3215  3256 I TrackingServiceClient: OVR::TrackingService::ClientSetInterface
+02-15 11:18:24.554  3215  3256 I VrApi   : ---------- vrapi_LeaveVrMode [end] ----------
+02-15 11:18:24.554  3215  3256 I Clay    : [I]: OculusVRSystem:configureRendering: releasing primary render target
+02-15 11:18:24.557  1936  3375 I VrRuntimeService: DestroySwapChain: swapchain=134
+02-15 11:18:24.557  1936  3375 I VrRuntimeServer: DestroyTextureSwapChain: result destroyswapchain 1
+02-15 11:18:24.557  3215  3256 I Clay    : [I]: BaseApp: Entering hibernation in 30 frames
+02-15 11:18:24.558  3278  3384 I [OAR] ShellApp: 0xc1e52b88 msg: pause
+02-15 11:18:24.558  3278  3384 I [OAR] ShellApp: ShellApp::LeaveVrMode()
+02-15 11:18:24.559  3278  3384 W VrApi   : ovr_SubmitFrameInternal: FrameIndex discontinuity: Expected 2175, Received 2174
+02-15 11:18:24.559  2617  2617 I VrRuntimeClient: spaceWarpGateKeeper 0
+02-15 11:18:24.559  2617  2617 I AudioCapture: AudioCapture::Init
+02-15 11:18:24.560  2617  2617 I AudioCapture: AudioCapture::Init -> Initializing audio capture using direct OS Callbacks
+02-15 11:18:24.560  2617  2617 I AudioCapture: AudioCapture::Init COMPLETE
+02-15 11:18:24.567  2617  2617 W Foveation: Forcing on dynamic foveation
+02-15 11:18:24.567  2617  2617 D VrRuntimeClient: VrRuntimeClient: initialize. inContext: com.oculus.os.DialogContext@ebd79c2
+02-15 11:18:24.568  1936  1936 D VrRuntimeService: onStartCommand
+02-15 11:18:24.569  2617  2617 I ipcLoader: RuntimeIPC: Loader: IPC Service API Loader Version: 19 Jan 26 2021 10:14:37
+02-15 11:18:24.569  2617  2617 I ipcLoader: RuntimeIPC: Loader: Calling LibLoader::Initialize
+02-15 11:18:24.569  2617  2617 I libloader: LibLoader::Initialize. Version: 1 Jan 26 2021 10:14:37, packageName: com.oculus.systemdriver
+02-15 11:18:24.569  2617  2617 I libloader: LibLoader: selecting 64-bit ABI.
+02-15 11:18:24.569  2617  2617 V LibLoaderImpl: Loading 64-bit LibLoaderImpl.
+02-15 11:18:24.569  2617  2617 V LibLoaderImpl: internalGetAPIFunction: loadLibrary 'loaderimpl'
+02-15 11:18:24.569  2617  2617 V LibLoaderImpl: Using System.loadLibrary
+02-15 11:18:24.569  3278  3384 I [OAR] VrShellDesktopBase: Backgrounding all active monitors on desktop
+02-15 11:18:24.569  3278  3384 I [OAR] PanelAppHost: OnBackground
+02-15 11:18:24.569  3278  3384 I [OAR] PanelAppHost: Panel app 3 (com.oculus.explore/com.oculus.explore.PanelService) changing state from foreground to background
+02-15 11:18:24.570  3278  3384 D [SEO] ShellApplication: notify OS to set com.oculus.explore/com.oculus.explore.PanelService to BACKGROUND
+02-15 11:18:24.570  2617  2617 I libloaderimpl: nativeSetClassLoader:0x2786
+02-15 11:18:24.570  2617  2617 V LibLoaderImpl: internalGetAPIFunction: calling nativeGetAPIFunction
+02-15 11:18:24.570  2617  2617 I libloaderimpl: LibLoaderImpl nativeGetAPIFunction.
+02-15 11:18:24.570  2617  2617 I libloaderimpl: LibLoaderHandle SUCCESS
+02-15 11:18:24.570  2617  2617 I libloaderimpl: LibLoaderImpl GetAPIFunction. libName: libruntimeipcserviceclient.so, funcName: ipc_GetAPIFunction
+02-15 11:18:24.571  2617  2617 I RuntimeIPCApi: ipc_Initialize
+02-15 11:18:24.571  3278  3384 I [OAR] PanelAppHost: com.oculus.explore/com.oculus.explore.PanelService:3 is now backgrounded due to: paused
+02-15 11:18:24.571  4378  4416 I RCTVR   : AppState backgroundReason [paused]
+02-15 11:18:24.571  4378  4416 I RCTVR_Shutdown: Initiated webserver shutdown
+02-15 11:18:24.571  4378  4416 I RCTVR_Shutdown: Webby shutdown
+02-15 11:18:24.572  3278  3384 I [OAR] ShellEnvSwapChainApi: Destroying SwapChain:0xbc373b00
+02-15 11:18:24.572  2617  2617 D RuntimeIPCServiceClient: initialize. inContext: com.oculus.os.DialogContext@ebd79c2processName: com.android.permissioncontroller
+02-15 11:18:24.573  3278  3384 I [OAR] ShellVideoPlayer: OnPanelBackground called with reason paused and for context without video
+02-15 11:18:24.573  3278  3384 I [OAR] ShellVideoPlayer: StopVideo
+02-15 11:18:24.574  3278  3384 I [OAR] SystemAssistant: OnModeChanged from FullShell to ImmersiveAppFocused
+02-15 11:18:24.574  3278  3384 I [OAR] AudioMixer: Disabling AudioPlayer.
+02-15 11:18:24.576  1962  1962 D RuntimeIPCService: onStartCommand
+02-15 11:18:24.576  2617  5032 I AsyncTaskMgr: MainLoop starting
+02-15 11:18:24.576  2617  2617 I AsyncTaskMgr: Init SUCCESS
+02-15 11:18:24.576  2617  2617 I ServerStateMgr: Init
+02-15 11:18:24.576  2617  2617 I ServerStateMgr: Init
+02-15 11:18:24.576  2617  2617 I RuntimeIPCServiceMethods: EnsureServiceConnection
+02-15 11:18:24.576  2617  2617 D RuntimeIPCServiceClient: connectToService
+02-15 11:18:24.576  2617  2617 D RuntimeIPCServiceClient: creating new service
+02-15 11:18:24.579  4378  4416 I RCTVR_Shutdown: AppState went background
+02-15 11:18:24.579  4378  4416 I RCTVR_Shutdown: Headset status changed
+02-15 11:18:24.587  1962  1962 D RuntimeIPCService: onStartCommand
+02-15 11:18:24.590  2617  2617 D RuntimeIPCServiceClient: Waiting on ipc connection...
+02-15 11:18:24.590  2617  5031 D RuntimeIPCServiceClient: Service connected: android.os.BinderProxy@c1fb609
+02-15 11:18:24.590  1962  1995 D RuntimeIPCService: createClient: ProcessName: com.android.permissioncontroller
+02-15 11:18:24.590  1962  1995 I RuntimeIPCService: nativeCreateClient
+02-15 11:18:24.590  1962  1995 I RuntimeIPCService: CreateClient: 2617:com.android.permissioncontroller:com.android.permissioncontroller
+02-15 11:18:24.590  1962  1995 I SharedMemoryServer: SharedMemoryServer::MapMemory: Allocated shared memory fd 154 (IPCRegisteredServer)
+02-15 11:18:24.591  1962  1995 I RuntimeIPCService: RPCServiceClientHandler: Init SUCCESS: 2617:com.android.permissioncontroller:com.android.permissioncontroller
+02-15 11:18:24.591  1962  1995 D RuntimeIPCService: createClient: -1726176869, android.os.BinderProxy@c6b6a63, com.android.permissioncontroller
+02-15 11:18:24.591  2617  2617 D RuntimeIPCServiceClient: ipc connectionIsReady: true
+02-15 11:18:24.591  2617  2617 D RuntimeIPCServiceClient: ipc context.bindService SUCCESS
+02-15 11:18:24.591  2617  2617 I RuntimeIPCServiceClient: nativeConnected: 1
+02-15 11:18:24.591  2617  2617 I RuntimeIPCServiceClient: nativeConnected complete: 1
+02-15 11:18:24.591  2617  2617 I RuntimeIPCServiceMethods: EnsureServiceConnection success
+02-15 11:18:24.591  2617  5034 I RuntimeIPCServiceClient: IPCMainLoopHandler: MainLoop Start
+02-15 11:18:24.591  2617  2617 I RuntimeIPCServiceClient: IPCMainLoopHandler: Init SUCCESS
+02-15 11:18:24.591  2617  2617 I RuntimeIPCApi: Overriding args (before): com.oculus.systemdriver, com.oculus.vrguardianservice.VrGuardianService
+02-15 11:18:24.591  2617  2617 I RuntimeIPCApi: Overriding args (after): com.oculus.guardian, com.oculus.vrguardianservice.VrGuardianService
+02-15 11:18:24.591  2617  2617 D RuntimeIPCServiceClient: ensureServiceStarted: com.oculus.guardian, com.oculus.vrguardianservice.VrGuardianService
+02-15 11:18:24.592  2617  2617 D RuntimeIPCServiceClient: ensureServiceStarted SUCCESS: com.oculus.guardian, com.oculus.vrguardianservice.VrGuardianService
+02-15 11:18:24.592  2617  2617 I RuntimeIPCApi: Overriding args (before): com.oculus.systemdriver, com.oculus.vrguardianservice.VrGuardianUserService
+02-15 11:18:24.592  2617  2617 I RuntimeIPCApi: Overriding args (after): com.oculus.guardian, com.oculus.vrguardianservice.VrGuardianUserService
+02-15 11:18:24.592  2617  2617 D RuntimeIPCServiceClient: ensureServiceStarted: com.oculus.guardian, com.oculus.vrguardianservice.VrGuardianUserService
+02-15 11:18:24.592  2352  2352 D VrGuardianService: onStartCommand
+02-15 11:18:24.592  2617  2617 D RuntimeIPCServiceClient: ensureServiceStarted SUCCESS: com.oculus.guardian, com.oculus.vrguardianservice.VrGuardianUserService
+02-15 11:18:24.592  2617  2617 I RuntimeIPCApi: Overriding args (before): com.oculus.systemdriver, com.oculus.vrguardianservice, guardianserver
+02-15 11:18:24.592  2617  2617 I RuntimeIPCApi: Overriding args (after): com.oculus.guardian, com.oculus.vrguardianservice, guardianserver
+02-15 11:18:24.592  2352  2352 D VrGuardianUserService: onStartCommandIntent { cmp=com.oculus.guardian/com.oculus.vrguardianservice.VrGuardianUserService }
+02-15 11:18:24.593  3278  3478 I [OAR] AudioMixer: Notifying VrThread to shutdown.
+02-15 11:18:24.593  3278  3384 I [OAR] AudioMixer: Successful shutdown.
+02-15 11:18:24.593  3278  3384 I [OAR] AudioEngine: virtual void AudioLibrary::AudioEngine::DisablePlayer()
+02-15 11:18:24.593  3278  3384 I [OAR] AudioEngine: Setting ShuttingDown.
+02-15 11:18:24.593  2617  2617 I RuntimeIPCClientMgr: SyncClientWithService: Client: com.android.permissioncontroller:com.android.permissioncontroller, Server: com.oculus.guardian:com.oculus.vrguardianservice (guardianserver)
+02-15 11:18:24.593  1962  1995 I SharedMemoryServer: SharedMemoryServer::MapMemory: Allocated shared memory fd 159 (IPCService_RPCPrivateReadWrite)
+02-15 11:18:24.593  1962  1995 I RuntimeIPCService: ConnectToServer: 2617:com.android.permissioncontroller:com.android.permissioncontroller (com.oculus.guardian:com.oculus.vrguardianservice (guardianserver))
+02-15 11:18:24.593  2617  2617 I RuntimeIPCClientMgr: InitRPCToServer SUCCESS in 0.371979 ms
+02-15 11:18:24.593  1962  1995 I RuntimeIPCService: GetServerRequestPipeAsClient: 2617:com.android.permissioncontroller:com.android.permissioncontroller (com.oculus.guardian:com.oculus.vrguardianservice (guardianserver))
+02-15 11:18:24.593  1962  1995 I RuntimeIPCService: GetServerResponsePipeAsClient: 2617:com.android.permissioncontroller:com.android.permissioncontroller (com.oculus.guardian:com.oculus.vrguardianservice (guardianserver))
+02-15 11:18:24.594  2617  2617 I RuntimeIPCClientMgr: InitRPCPipeToServer SUCCESS in 0.266615 ms
+02-15 11:18:24.594  1962  1995 I RuntimeIPCService: GetServerStateFdAsClient: Client: com.android.permissioncontroller:com.android.permissioncontroller, Server: com.oculus.guardian:com.oculus.vrguardianservice (guardianserver)
+02-15 11:18:24.594  2617  2617 I RuntimeIPCClientMgr: InitServerStateForClient SUCCESS in 0.117396 ms
+02-15 11:18:24.594  2617  2617 I RuntimeIPCClientMgr: InitServerStateForClient: SUCCESS. Client: com.android.permissioncontroller:com.android.permissioncontroller, Server: com.oculus.guardian:com.oculus.vrguardianservice (guardianserver)
+02-15 11:18:24.594  2617  2617 I RuntimeIPCClientMgr: SyncClientWithService: SUCCESS. Client: com.android.permissioncontroller:com.android.permissioncontroller, Server: com.oculus.guardian:com.oculus.vrguardianservice (guardianserver)
+02-15 11:18:24.594  2617  2617 I RuntimeIPCClientMgr: ConnectToServer: SUCCESS: Client: com.android.permissioncontroller:com.android.permissioncontroller, Server: com.oculus.guardian:com.oculus.vrguardianservice (guardianserver)
+02-15 11:18:24.594  2617  2617 I VrGuardianClient: g_GuardianSDKClient connected.
+02-15 11:18:24.594  2617  2617 I ipcLoader: RuntimeIPC: Loader: IPC Service API Loader Version: 19 Jan 26 2021 10:14:37
+02-15 11:18:24.594  2617  2617 I ipcLoader: RuntimeIPC: Loader: Re-using vtable
+02-15 11:18:24.594  2617  2617 I RuntimeIPCApi: ipc_Initialize
+02-15 11:18:24.594  2617  2617 I RuntimeIPCServiceClient: Init: Already initialized.
+02-15 11:18:24.594  2617  2617 D RuntimeIPCServiceClient: ensureServiceStarted: com.oculus.systemdriver, com.oculus.vrruntimeservice.VrRuntimeService
+02-15 11:18:24.595  2617  2617 D RuntimeIPCServiceClient: ensureServiceStarted SUCCESS: com.oculus.systemdriver, com.oculus.vrruntimeservice.VrRuntimeService
+02-15 11:18:24.595  1936  1936 D VrRuntimeService: onStartCommand
+02-15 11:18:24.595  2617  2617 I RuntimeIPCClientMgr: SyncClientWithService: Client: com.android.permissioncontroller:com.android.permissioncontroller, Server: com.oculus.systemdriver:com.oculus.vrruntimeservice (RuntimeServiceServer)
+02-15 11:18:24.595  1962  1995 I SharedMemoryServer: SharedMemoryServer::MapMemory: Allocated shared memory fd 164 (IPCService_RPCPrivateReadWrite)
+02-15 11:18:24.595  1962  1995 I RuntimeIPCService: ConnectToServer: 2617:com.android.permissioncontroller:com.android.permissioncontroller (com.oculus.systemdriver:com.oculus.vrruntimeservice (RuntimeServiceServer))
+02-15 11:18:24.595  2617  2617 I RuntimeIPCClientMgr: InitRPCToServer SUCCESS in 0.265625 ms
+02-15 11:18:24.596  1962  1995 I RuntimeIPCService: GetServerRequestPipeAsClient: 2617:com.android.permissioncontroller:com.android.permissioncontroller (com.oculus.systemdriver:com.oculus.vrruntimeservice (RuntimeServiceServer))
+02-15 11:18:24.596  1962  1995 I RuntimeIPCService: GetServerResponsePipeAsClient: 2617:com.android.permissioncontroller:com.android.permissioncontroller (com.oculus.systemdriver:com.oculus.vrruntimeservice (RuntimeServiceServer))
+02-15 11:18:24.596  2617  2617 I RuntimeIPCClientMgr: InitRPCPipeToServer SUCCESS in 0.259219 ms
+02-15 11:18:24.596  1962  1995 I RuntimeIPCService: GetServerStateFdAsClient: Client: com.android.permissioncontroller:com.android.permissioncontroller, Server: com.oculus.systemdriver:com.oculus.vrruntimeservice (RuntimeServiceServer)
+02-15 11:18:24.596  2617  2617 I RuntimeIPCClientMgr: InitServerStateForClient SUCCESS in 0.104062 ms
+02-15 11:18:24.596  2617  2617 I RuntimeIPCClientMgr: InitServerStateForClient: SUCCESS. Client: com.android.permissioncontroller:com.android.permissioncontroller, Server: com.oculus.systemdriver:com.oculus.vrruntimeservice (RuntimeServiceServer)
+02-15 11:18:24.596  2617  2617 I RuntimeIPCClientMgr: SyncClientWithService: SUCCESS. Client: com.android.permissioncontroller:com.android.permissioncontroller, Server: com.oculus.systemdriver:com.oculus.vrruntimeservice (RuntimeServiceServer)
+02-15 11:18:24.596  2617  2617 I RuntimeIPCClientMgr: ConnectToServer: SUCCESS: Client: com.android.permissioncontroller:com.android.permissioncontroller, Server: com.oculus.systemdriver:com.oculus.vrruntimeservice (RuntimeServiceServer)
+02-15 11:18:24.596  2617  2617 I VrRuntimeClient: g_RuntimeServiceSDKClient.InitClient SUCCESS. Version: 1.0, Custom: 1.0
+02-15 11:18:24.596  2617  2617 D VrRuntimeClient: connectToService
+02-15 11:18:24.596  2617  2617 D VrRuntimeClient: VrRuntimeClient: creating new service
+02-15 11:18:24.598  1936  1936 D VrRuntimeService: onStartCommand
+02-15 11:18:24.599  2617  5030 D VrRuntimeClient: VrRuntimeClient: Service connected.
+02-15 11:18:24.599  2617  2617 D VrRuntimeClient: VrRuntimeClient: Waiting on connection...
+02-15 11:18:24.599  1936  1996 I ClientMgr: ClientMgr::CreateClient: 2617:com.android.permissioncontroller
+02-15 11:18:24.599  1936  1996 I ClientMgr: CliengMgr: Client session placement = 0
+02-15 11:18:24.599  1936  1996 I TimeWarp: Register client 7
+02-15 11:18:24.599  1936  1996 I VrRuntimeServer: RegisterCompositorClient client(7)
+02-15 11:18:24.599  1936  1996 I SharedMemoryServer: SharedMemoryServer::MapMemory: Allocated shared memory fd 173 (VrRuntimeService_PrivateReadWrite_com.android.permissioncontroller)
+02-15 11:18:24.599  1936  1996 I ClientMgr: CreateClient: Sending PrimaryPackageChangeEvent outside of normal operation for OS dialog.
+02-15 11:18:24.599  1936  1996 I ServiceInputManager: ServiceInputManager::SetPrimaryPackageName 'com.android.permissioncontroller' 'com.android.permissioncontroller'  updated AnytimeUI processname 0
+02-15 11:18:24.599  1936  1996 I VrRuntimeService: RuntimeIPC: SendPrimaryPackageChangeEvent: PostClientEvent SUCCESS: com.oculus.vrshell:com.oculus.vrshell:EnvOverlay:3278, com.android.permissioncontroller, com.android.permissioncontroller
+02-15 11:18:24.599  1936  1996 I VrRuntimeService: RuntimeIPC: SendPrimaryPackageChangeEvent: PostClientEvent SUCCESS: com.oculus.vrshell:com.oculus.vrshell:3161, com.android.permissioncontroller, com.android.permissioncontroller
+02-15 11:18:24.599  1936  1996 I VrRuntimeService: RuntimeIPC: SendPrimaryPackageChangeEvent: PostClientEvent SUCCESS: com.oculus.mrservice:com.oculus.mrservice:1696, com.android.permissioncontroller, com.android.permissioncontroller
+02-15 11:18:24.599  1936  1996 I VrRuntimeService: RuntimeIPC: SendPrimaryPackageChangeEvent: PostClientEvent SUCCESS: com.oculus.guardian:com.oculus.vrguardianservice:2352, com.android.permissioncontroller, com.android.permissioncontroller
+02-15 11:18:24.599  1936  1996 I VrRuntimeService: RuntimeIPC: SendPrimaryPackageChangeEvent: PostClientEvent SUCCESS: com.oculus.shellenv:com.oculus.shellenv:3215, com.android.permissioncontroller, com.android.permissioncontroller
+02-15 11:18:24.599  1936  1996 I VrRuntimeService: RuntimeIPC: SendPrimaryPackageChangeEvent: PostClientEvent SUCCESS: android.uid.systemui:10056:com.android.systemui:1381, com.android.permissioncontroller, com.android.permissioncontroller
+02-15 11:18:24.599  1936  1996 I VrRuntimeService: RuntimeIPC: SendPrimaryPackageChangeEvent: PostClientEvent SUCCESS: com.oculus.vrshell:com.oculus.vrshell:Overlay:2299, com.android.permissioncontroller, com.android.permissioncontroller
+02-15 11:18:24.599  1936  1996 D VrRuntimeService: sendPrimaryPackageChangeBroadcast
+02-15 11:18:24.601  2299  2299 D [OAO] ShellOverlayService: screenStateReceiver Received broadcast: com.oculus.vrshell.intent.action.PRIMARY_PACKAGE_CHANGED
+02-15 11:18:24.601  2299  2299 I [OAO] ShellOverlayServiceJNI: NativeSendOverlayCommand
+02-15 11:18:24.601  2299  2299 I [OAO] ShellOverlayServiceJNI: NativeWake
+02-15 11:18:24.601  2299  2299 I [OAO] ShellOverlayMain: WakeVrThread
+02-15 11:18:24.601  2299  2299 I [OAO] ShellOverlayMain: WakeVrThread - notifying vr thread
+02-15 11:18:24.601  2299  2342 I [OAO] ShellOverlayApp: VrThread woke up
+02-15 11:18:24.601  2299  2342 I [OAO] ShellOverlayApp: 0xc1c35bf0 msg: overlayCommand:
+02-15 11:18:24.601  2299  2342 I [OAO] ShellOverlayApp: command = primaryPackageChanged
+02-15 11:18:24.601  2299  2342 I [OAO] ShellOverlayApp: Process_OverlayCommand command : primaryPackageChanged
+02-15 11:18:24.601  2299  2342 I [OAO] ShellOverlayApp: UpdatePrimaryPackage
+02-15 11:18:24.602  2299  2342 I [OAO] ShellOverlayApp: UpdatePrimaryPackage Requested for PackageName:com.android.permissioncontroller  IsFocusAware:0
+02-15 11:18:24.602  2299  2342 I [OAO] ShellOverlayApp: UpdatePrimaryPackage Package change detected. Previous package:[com.oculus.shellenv]
+02-15 11:18:24.602  2299  2342 I [OAO] OverlayFlowController: OnPrimaryPackageChange primaryPackage:com.android.permissioncontroller immersiveAppChanged:1
+02-15 11:18:24.602  2299  2342 I [OAO] OverlayFlowController: Non system primary client change: ready to sleep
+02-15 11:18:24.602  2299  2342 I [OAO] OverlayFlowController: Reset resetReason : 3
+02-15 11:18:24.602  2299  2342 I [OAO] DialogController: CloseDialogs() old: 0, pendingUri: systemux://dialog/none, pendingComponent: 
+02-15 11:18:24.602  2299  2342 I [OAO] SystemTabletController: Reset, reason: 3, taskBarVisibility: 1
+02-15 11:18:24.602  2299  2342 I [OAO] SystemDialogController: Reset
+02-15 11:18:24.602  2299  2342 I [OAO] DialogControllerManager: Reset
+02-15 11:18:24.602  2299  2342 I VrApi   : Unhandled ovrRuntime Event 13
+02-15 11:18:24.602  2299  2342 I [OAO] ShellOverlayApp: Start sleep timeout. Now:44.833972, Timeout:46.833972
+02-15 11:18:24.608  2352  2439 I GuardianSystem: runtimeServiceSDKClient_.PackageChangeEvent: com.android.permissioncontroller
+02-15 11:18:24.609  2352  2439 I GuardianSystem: SetCurrentPackageName: com.android.permissioncontroller, previous PackageName: com.oculus.shellenv
+02-15 11:18:24.609  2352  2439 I GuardianSystem: SetCurrentPackageName: Return package changed: com.android.permissioncontroller
+02-15 11:18:24.612  3278  3478 I [OAR] AudioMixer: Notifying VrThread to shutdown.
+02-15 11:18:24.612  3278  3478 I [OAR] AudioEngine: Fading final buffer
+02-15 11:18:24.615  1936  1996 I UnifiedTelemetryWrapper: Started UT session lifetime:com.android.permissioncontroller
+02-15 11:18:24.616  1936  1996 D VrRuntimeService: IVrRuntimeClient.Stub().getSharedMemoryFileDescriptor()
+02-15 11:18:24.616  1936  1996 I VrRuntimeService: SharedMemoryDebug: nativeGetSharedMemoryPublicReadOnlyFd: 33
+02-15 11:18:24.616  1936  1996 D VrRuntimeService: getSharedMemoryFileDescriptor fd (VrRuntimeService) 33
+02-15 11:18:24.616  1936  1996 D VrRuntimeService: IVrRuntimeClient.Stub().getSharedMemoryPrivateReadWriteFileDescriptor()
+02-15 11:18:24.616  1936  1996 I VrRuntimeService: SharedMemoryDebug: nativeGetSharedMemoryPrivateReadWriteFd: 173
+02-15 11:18:24.616  1936  1996 D VrRuntimeService: getSharedMemoryPrivateReadWriteFileDescriptor fd (VrRuntimeService) 173
+02-15 11:18:24.616  2617  5030 I VrRuntimeClient: nativeRuntimeServiceConnected: publicReadOnlyFd=66, privateReadWriteFd=67
+02-15 11:18:24.616  2617  2617 D VrRuntimeClient: VrRuntimeClient: connectionIsReady: true
+02-15 11:18:24.616  2617  2617 D VrRuntimeClient: VrRuntimeClient: context.bindService SUCCESS
+02-15 11:18:24.616  2617  2617 I VrApi   : vrapi_Initialize: Connected to VrRuntimeService after 0.020096s
+02-15 11:18:24.616  2617  2617 D SystemActivitiesReceiver: Registering Oculus System Activity receiver
+02-15 11:18:24.621  2617  2617 I Distortion: Initializing Mesh Decenter Correction
+02-15 11:18:24.622  2617  2617 I Distortion: EYE_DECENTER ipdMin 58.1364 left H: -8.1595 v: 3.6616  right  H: -4.9562 v: 0.1797
+02-15 11:18:24.622  2617  2617 I Distortion: EYE_DECENTER ipdMid 63.0543 left H: 0.7277 v: 2.5898  right  H: 1.0983 v: 2.3797
+02-15 11:18:24.622  2617  2617 I Distortion: EYE_DECENTER ipdMax 67.9727 left H: 1.9973 v: 1.518  right  H: -0.1126 v: 2.3797
+02-15 11:18:24.622  2617  2617 I Distortion: EYE_DECENTER PIXELS(4) left H: -0.7277 V: -2.5898  right H: -1.0983 V: -2.3797
+02-15 11:18:24.622  2617  2617 I Distortion: EYE_DECENTER iad: 0.065, left H: -2.99923e-05 V: -8.50749e-05  right H: -2.99923e-05 V: -7.81732e-05
+02-15 11:18:24.622  2617  2617 I Distortion: SetLensPositions - iad=0.065, left offset=0.000769582,-0.00133337, right offset=-0.000829566,-0.00132647
+02-15 11:18:24.622  2617  2617 I Distortion: Initializing Mesh Decenter Correction
+02-15 11:18:24.622  2617  2617 I Distortion: EYE_DECENTER ipdMin 58.1364 left H: -8.1595 v: 3.6616  right  H: -4.9562 v: 0.1797
+02-15 11:18:24.622  2617  2617 I Distortion: EYE_DECENTER ipdMid 63.0543 left H: 0.7277 v: 2.5898  right  H: 1.0983 v: 2.3797
+02-15 11:18:24.622  2617  2617 I Distortion: EYE_DECENTER ipdMax 67.9727 left H: 1.9973 v: 1.518  right  H: -0.1126 v: 2.3797
+02-15 11:18:24.622  2617  2617 I Distortion: EYE_DECENTER PIXELS(4) left H: -0.7277 V: -2.5898  right H: -1.0983 V: -2.3797
+02-15 11:18:24.623  2617  2617 I Distortion: EYE_DECENTER iad: 0.065, left H: -2.99923e-05 V: -8.50749e-05  right H: -2.99923e-05 V: -7.81732e-05
+02-15 11:18:24.623  2617  2617 I Distortion: SetLensPositions - iad=0.065, left offset=0.000769582,-0.00133337, right offset=-0.000829566,-0.00132647
+02-15 11:18:24.623  2617  2617 I Distortion: Created custom distortion mesh.
+02-15 11:18:24.623  2617  2617 I Distortion: ovrDistortionMeshHeader::magic = 0x56347807
+02-15 11:18:24.623  2617  2617 I Distortion: ovrDistortionMeshHeader::deviceModel = 0x200
+02-15 11:18:24.623  2617  2617 I Distortion: ovrDistortionMeshHeader::headsetModel = 0x104
+02-15 11:18:24.623  2617  2617 I Distortion: ovrDistortionMeshHeader::eyeBlocksWide = 32
+02-15 11:18:24.623  2617  2617 I Distortion: ovrDistortionMeshHeader::eyeBlocksHigh = 32
+02-15 11:18:24.623  2617  2617 I Distortion: ovrDistortionMeshHeader::lensSeparationMeters = 0.065000
+02-15 11:18:24.623  2617  2617 I Distortion: ovrDistortionMeshHeader::horizontalOffsetMeters = -0.000030
+02-15 11:18:24.623  2617  2617 I Distortion: ovrDistortionMeshHeader::displayWidthMeters = 0.120362
+02-15 11:18:24.623  2617  2617 I Distortion: ovrDistortionMeshHeader::displayHeightMeters = 0.063072
+02-15 11:18:24.623  2617  2617 I Distortion: ovrDistortionMeshHeader::displayWidthPixels = 3664
+02-15 11:18:24.623  2617  2617 I Distortion: ovrDistortionMeshHeader::displayHeightPixels = 1920
+02-15 11:18:24.623  2617  2617 I Distortion: ovrDistortionMeshHeader::eyeTextureWidthPixels = 1440
+02-15 11:18:24.623  2617  2617 I Distortion: ovrDistortionMeshHeader::eyeTextureHeightPixels = 1584
+02-15 11:18:24.623  2617  2617 I Distortion: ovrDistortionMeshHeader::leftEye = up 48.000000 / down 50.000000 / left 49.000000 / right 45.000000
+02-15 11:18:24.623  2617  2617 I Distortion: ovrDistortionMeshHeader::rightEye = up 48.000000 / down 50.000000 / left 45.000000 / right 49.000000
+02-15 11:18:24.623  2617  2617 I RemoteTracking: Successfully created ConnectedRemoteFactory!
+02-15 11:18:24.623  2617  2617 I TrackingServiceClient: initialize
+02-15 11:18:24.625  2617  2617 W TrackingServiceClient2: No package metadata available for com.android.permissioncontroller
+02-15 11:18:24.631  2617  2617 I ClientInputInterface: SetChordedSystemButtonGKFlag 1
+02-15 11:18:24.633  3278  3478 I [OAR] AudioEngine: Notifying VrThread to shutdown.
+02-15 11:18:24.633  3278  3478 D         : PlayerBase::stop() from IPlayer
+02-15 11:18:24.633  3278  3478 D AudioTrack: stop(13): called with 1341120 frames delivered
+02-15 11:18:24.633  3278  3384 I [OAR] AudioEngine: Stopping player
+02-15 11:18:24.633  3278  3384 D         : PlayerBase::stop() from IPlayer
+02-15 11:18:24.634  1306  1306 V AvrcpMediaPlayerList: onPlaybackConfigChanged(): Configs list size=4
+02-15 11:18:24.635  3278  3384 D [SEO] ShellApplication: abandonAudioFocus
+02-15 11:18:24.636  1022  1771 I MediaFocusControl: abandonAudioFocus() from uid/pid 10020/3278 clientId=android.media.AudioManager@8d7937ecom.oculus.vrshell.ShellAudioFocusHandler@42e60df
+02-15 11:18:24.638  1306  1306 V AvrcpMediaPlayerList: onPlaybackConfigChanged(): Configs list size=3
+02-15 11:18:24.653  2617  2617 I ClientInputSettings: SYSTEMBUTTONSPACE GKS freeze '0'  freezeAPI '0'  eattrigger '0'
+02-15 11:18:24.653  2617  2617 I ClientInputSettings: SYSTEMBUTTONSPACE 'com.android.permissioncontroller' Freeze input '0' eat trigger '0'  on home button down
+02-15 11:18:24.662  2617  2617 I ClientInputSettings: HANDTRACKING: YES! You are on the Hand Tracking Frequency GK :D
+02-15 11:18:24.663  2617  2617 I ClientInputInterface: HANDTRACKING sethandtrackingfrequency 0
+02-15 11:18:24.664  1936  2293 I RuntimeIPCServerMgr: RegisterClient: Client: com.android.permissioncontroller:com.android.permissioncontroller:2617, Server: com.oculus.systemdriver:com.oculus.vrruntimeservice (RuntimeServiceServer)
+02-15 11:18:24.664  1936  5035 I RuntimeIPCServerMgr: RPCClientHandler::MainLoop: Starting: Client: com.android.permissioncontroller:com.android.permissioncontroller:2617, Server: com.oculus.systemdriver:com.oculus.vrruntimeservice (RuntimeServiceServer)
+02-15 11:18:24.664  1936  5035 I JniUtils: Creating temporary JNIEnv. This is a heavy operation and should be infrequent. To optimize, use JNI AttachCurrentThread on calling thread
+02-15 11:18:24.665  1962  1995 I RuntimeIPCService: GetServerRequestPipeAsServer: 2617:com.android.permissioncontroller:com.android.permissioncontroller (com.oculus.systemdriver:com.oculus.vrruntimeservice (RuntimeServiceServer))
+02-15 11:18:24.665  1936  5035 I JniUtils: Creating temporary JNIEnv. This is a heavy operation and should be infrequent. To optimize, use JNI AttachCurrentThread on calling thread
+02-15 11:18:24.665  1962  1995 I RuntimeIPCService: GetServerRequestPipeAsServer: 2617:com.android.permissioncontroller:com.android.permissioncontroller (com.oculus.systemdriver:com.oculus.vrruntimeservice (RuntimeServiceServer))
+02-15 11:18:24.665  1936  5035 I JniUtils: Creating temporary JNIEnv. This is a heavy operation and should be infrequent. To optimize, use JNI AttachCurrentThread on calling thread
+02-15 11:18:24.665  1962  1995 I RuntimeIPCService: GetServerResponsePipeAsServer: 2617:com.android.permissioncontroller:com.android.permissioncontroller (com.oculus.systemdriver:com.oculus.vrruntimeservice (RuntimeServiceServer))
+02-15 11:18:24.665  1936  5035 I JniUtils: Creating temporary JNIEnv. This is a heavy operation and should be infrequent. To optimize, use JNI AttachCurrentThread on calling thread
+02-15 11:18:24.665  1962  1995 I RuntimeIPCService: GetServerFdAsServer: 2617:com.android.permissioncontroller:com.android.permissioncontroller (com.oculus.systemdriver:com.oculus.vrruntimeservice (RuntimeServiceServer))
+02-15 11:18:24.665  1936  2293 I RuntimeIPCServerMgr: RPCClientHandler::Init SUCCESS: Client: com.android.permissioncontroller:com.android.permissioncontroller:2617, Server: com.oculus.systemdriver:com.oculus.vrruntimeservice (RuntimeServiceServer)
+02-15 11:18:24.665  1936  5035 I VrRuntimeService: RuntimeIPC: IPC_SYSTEM_EVENT_CLIENT_CONNECTED: com.android.permissioncontroller:2617, Version: 1.0, Custom: 1.0
+02-15 11:18:24.671  2617  2617 I VrRuntimeClient: HANDTRACKING handtrackingsmallfingeropeningpinchenabled 0
+02-15 11:18:24.671  2617  2617 I ClientInputSettings: HANDTRACKING: Not on the Hand Tracking Small Finger Opening Pinch GK.
+02-15 11:18:24.671  2617  2617 I ClientInputSettings: SetInhibitHandleHomeKey = true for com.android.permissioncontroller
+02-15 11:18:24.671  2617  2617 I ClientInputInterface: SetInhibitHandleHomeKey 1
+02-15 11:18:24.671  2617  2617 I InputHooks: InitializeInputHooks
+02-15 11:18:24.671  2617  2617 I InputHooks: InitializeInputHooks create
+02-15 11:18:24.671  2617  2617 D VrRuntimeClient: getClient6dofEntitlementMode for com.android.permissioncontroller
+02-15 11:18:24.674  2193  2214 W PublicLibraryProvider: Cannot find entitlement for com.android.permissioncontroller
+02-15 11:18:24.676  2617  2617 I TREX    : Initializing TREX for client ed81dad0d7823498...
+02-15 11:18:24.676  2617  2617 I TREX    : deviceType_ = 2
+02-15 11:18:24.676  2617  2617 I TREX    : Initializing system...
+02-15 11:18:24.676  2617  2617 I TREX    : Plugin 'com.oculus.superres:libsuperres_plugin.so': No GK killswitch check!
+02-15 11:18:24.676  2617  2617 I TREX    : Loading plugin com.oculus.superres:libsuperres_plugin.so
+02-15 11:18:24.676  2617  2617 E TREX    : Package 'com.oculus.superres' was not found!
+02-15 11:18:24.676  2617  2617 E TREX    : Package com.oculus.superres has an invalid signature!
+02-15 11:18:24.676  2617  2617 E TREX    : Skipping load of package com.oculus.superres due to an invalid signature!
+02-15 11:18:24.676  2617  2617 I TREX    : Plugin 'com.oculus.superres:libsuperres_plugin.so' not loaded.
+02-15 11:18:24.676  2617  2617 I VrApi   : ----------- vrapi_Initialize [end] ----------
+02-15 11:18:24.693  3278  3384 W [OAR] AudioMixer: StopWavFile: Couldn't find attached sound for clientId controllerp0xb285b000
+02-15 11:18:24.693  3278  3384 W [OAR] AudioMixer: StopWavFile: Couldn't find attached sound for clientId controllerp0xb26fd000
+02-15 11:18:24.694  3278  3384 D [SEO] ShellApplication: setOverlayInputFocus: inputFocus=false shouldSupportIME=false
+02-15 11:18:24.695  3278  3384 D [SEO] BaseOverlayService: setOverlayInputFocus : entrypoint - inputFocus=false shouldSupportIME=false
+02-15 11:18:24.695  3278  3384 I VrApi   : ---------- vrapi_LeaveVrMode [start] ----------
+02-15 11:18:24.696  3278  3278 D [SEO] BaseOverlayService: detachServiceWindowView
+02-15 11:18:24.697   698   920 D msm8974_platform: platform_split_snd_device: snd_device(2) num devices(1) new_snd_devices(0)
+02-15 11:18:24.697   698   920 D ACDB-LOADER: ACDB -> send_audvoltable
+02-15 11:18:24.697   698   920 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_INSTANCE_GAIN_DEP_STEP_TABLE_SIZE
+02-15 11:18:24.697   698   920 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_INSTANCE_GAIN_DEP_STEP_TABLE, vol index 1
+02-15 11:18:24.697   698   920 D ACDB-LOADER: ACDB -> AUDIO_SET_VOL_CAL cal type = 40
+02-15 11:18:24.697   698   920 D msm8974_platform: platform_split_snd_device: snd_device(2) num devices(1) new_snd_devices(0)
+02-15 11:18:24.697   698   920 D ACDB-LOADER: ACDB -> send_audvoltable
+02-15 11:18:24.697   698   920 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_INSTANCE_GAIN_DEP_STEP_TABLE_SIZE
+02-15 11:18:24.697   698   920 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_INSTANCE_GAIN_DEP_STEP_TABLE, vol index 1
+02-15 11:18:24.697   698   920 D ACDB-LOADER: ACDB -> AUDIO_SET_VOL_CAL cal type = 40
+02-15 11:18:24.701  3278  3384 D VrApi   : targetSDKVersion 27
+02-15 11:18:24.710  3278  3384 I VrRuntimeClient: DEVICE MODEL NUMBER = Quest 2
+02-15 11:18:24.711  3278  3384 I VrRuntimeClient: DEVICE HARDWARE = hollywood
+02-15 11:18:24.711  3278  3384 I VrRuntimeClient: DEVICE BUILD NAME = user-1396980.8370.0
+02-15 11:18:24.711  3278  3384 I VrRuntimeClient: DEVICE BUILD TYPE = user
+02-15 11:18:24.711  3278  3384 I VrRuntimeClient: DEVICE OS VERSION = 10
+02-15 11:18:24.711  3278  3384 I VrRuntimeClient: VRRUNTIME VERSION = VRAPI_VERSION_BEGIN { 1.1.42.0-270435163-270435163 Jan 28 2021 12:41:12 Development } RELEASE
+02-15 11:18:24.711  3278  3384 I VrRuntimeClient: API LOADER VERSION = 1.1.34.0
+02-15 11:18:24.711  3278  3384 I VrRuntimeClient: VRDRIVER VERSION = 25.0.0.72.658
+02-15 11:18:24.711  3278  3384 I VrRuntimeClient: APP NAME = Oculus App Runtime
+02-15 11:18:24.711  3278  3384 I VrRuntimeClient: APP VERSION = 25.0.0.72.658 versionCode 270434738 internalVersionName 25.0.0.72.658.29e017684e5b 2021_01_28_12_31
+02-15 11:18:24.711  3278  3384 I VrRuntimeClient: APP VR TYPE = vr_only
+02-15 11:18:24.711  3278  3384 I VrRuntimeClient: APP MODE TYPE = VR
+02-15 11:18:24.711  3278  3384 I VrRuntimeClient: APP PACKAGE NAME = com.oculus.vrshell
+02-15 11:18:24.711  3278  3384 I VrRuntimeClient: APP ACTIVITY CLASS = com.oculus.os.WindowTokenContext
+02-15 11:18:24.711  1022  1022 W TelecomManager: Telecom Service not found.
+02-15 11:18:24.716  1596  1596 D OculusNotificationListenerService: Notification removed: 0|android|0|com.android.server.wm.AlertWindowNotification - com.oculus.vrshell|1000
+02-15 11:18:24.717  2299  2299 I [OAO] VrNotificationListenerService: onNotificationRemoved(): key = 0|android|0|com.android.server.wm.AlertWindowNotification - com.oculus.vrshell|1000, type = third_party
+02-15 11:18:24.717  2299  2299 I [OAO] VrNotificationListenerService: onNotificationRemoved(): user|package|tag|id = UserHandle{0}|android|com.android.server.wm.AlertWindowNotification - com.oculus.vrshell|0
+02-15 11:18:24.723  3278  3384 D BatteryReceiver: Unregistering battery receiver
+02-15 11:18:24.733  3278  3278 D [SEO] BaseOverlayService: setOverlayInputFocus : completed - inputFocus=false shouldSupportIME=false actionTaken:true
+02-15 11:18:24.750  2299  2299 D VrNotificationAnalytics: logNotificationRemoved(third_party)
+02-15 11:18:24.754  1936  1936 D VrRuntimeService: onFocusedWindowChanged: focusedWindowToken=android.os.BinderProxy@7c074ea, focusedWindowUid=10011, focusedWindowPid=2617
+02-15 11:18:24.754  1936  1936 W ClientMgr: ClientMgr::SetFocusedClient: No focused client
+02-15 11:18:24.754  1936  1936 I ClientMgr: Releasing clocks.
+02-15 11:18:24.755  1936  2295 I PerformanceManager: SetClockLevels: Force releasing clocks
+02-15 11:18:24.756  1936  2295 I PerformanceManager: SetClockLevels: Apply pending clock request change: 4,3 -> -1,-1
+02-15 11:18:24.756  1936  2034 I Clocks  : ReleaseClocks - start
+02-15 11:18:24.756  1936  2034 I Clocks  : ReleaseClocks - end (0.4 ms)
+02-15 11:18:24.756   720   791 D android.hardware.power@1.3-service-libperfmgr: Unset hint for clock domain: 0
+02-15 11:18:24.756   720   789 W libperfmgr: Failed to write to node: /sys/class/devfreq/soc:qcom,cpu-cpu-llcc-bw/max_freq with value: 2288, fd: 11
+02-15 11:18:24.756   720   789 W libperfmgr: Failed to write to node: /sys/class/devfreq/soc:qcom,cpu-llcc-ddr-bw/max_freq with value: 762, fd: 9
+02-15 11:18:24.756   720   789 W libperfmgr: Failed to write to node: /sys/class/devfreq/soc:qcom,cpu-cpu-llcc-bw/max_freq with value: 2288, fd: 9
+02-15 11:18:24.756   720   789 W libperfmgr: Failed to write to node: /sys/class/devfreq/soc:qcom,cpu-llcc-ddr-bw/max_freq with value: 762, fd: 10
+02-15 11:18:24.756   720   791 D android.hardware.power@1.3-service-libperfmgr: Unset hint for clock domain: 1
+02-15 11:18:24.767  1936  2295 I PerformanceManager: SetClockLevels: Apply pending clock request change: -1,-1 -> 2,3
+02-15 11:18:24.767  1936  2034 I Clocks  : LockClocks( cpu=2, gpu=3 ) - start
+02-15 11:18:24.767  1936  2034 I Clocks  : CPU levels [0, 4]
+02-15 11:18:24.767  1936  2034 I Clocks  : GPU levels [0, 5]
+02-15 11:18:24.767  1936  2034 I Clocks  : LockClocks( cpu=2, gpu=3 ) - end (0.5 ms)
+02-15 11:18:24.767   720   791 D android.hardware.power@1.3-service-libperfmgr: set performance level 2, domain 0
+02-15 11:18:24.767   720   791 D android.hardware.power@1.3-service-libperfmgr: set performance level 3, domain 1
+02-15 11:18:24.773  1022  1086 W InputReader: Device has associated, but no associated display id.
+02-15 11:18:24.774  2617  5036 I VrApi   : ---------- vrapi_EnterVrMode [start] ----------
+02-15 11:18:24.774  2617  5036 I VrRuntimeClient: Tracing is disabled
+02-15 11:18:24.774  2617  5036 I VrRuntimeClient: SysProp debug mode is disabled on Client side
+02-15 11:18:24.777  3099  3099 D [SUI] NotificationBroadcastReceiver: action: com.oculus.intent.action.NOTIF_CHANGE
+02-15 11:18:24.777  3099  3099 I NotificationManagerSourceHandler: Dataset has changed
+02-15 11:18:24.780  2617  5036 D VrApi   : targetSDKVersion 29
+02-15 11:18:24.782  2617  5036 I VrRuntimeClient: DEVICE MODEL NUMBER = Quest 2
+02-15 11:18:24.782  2617  5036 I VrRuntimeClient: DEVICE HARDWARE = hollywood
+02-15 11:18:24.782  2617  5036 I VrRuntimeClient: DEVICE BUILD NAME = user-1396980.8370.0
+02-15 11:18:24.782  2617  5036 I VrRuntimeClient: DEVICE BUILD TYPE = user
+02-15 11:18:24.782  2617  5036 I VrRuntimeClient: DEVICE OS VERSION = 10
+02-15 11:18:24.782  2617  5036 I VrRuntimeClient: VRRUNTIME VERSION = VRAPI_VERSION_BEGIN { 1.1.42.0-270435163-270435163 Jan 28 2021 12:41:13 Development } RELEASE
+02-15 11:18:24.782  2617  5036 I VrRuntimeClient: API LOADER VERSION = 1.1.34.0
+02-15 11:18:24.782  2617  5036 I VrRuntimeClient: VRDRIVER VERSION = 25.0.0.72.658
+02-15 11:18:24.782  2617  5036 I VrRuntimeClient: APP NAME = Permission controller
+02-15 11:18:24.782  2617  5036 I VrRuntimeClient: APP VERSION = 29 system image versionCode 299900000 internalVersionName <none>
+02-15 11:18:24.782  2617  5036 I VrRuntimeClient: APP VR TYPE = <none>
+02-15 11:18:24.782  2617  5036 I VrRuntimeClient: APP MODE TYPE = <none>
+02-15 11:18:24.782  2617  5036 I VrRuntimeClient: APP PACKAGE NAME = com.android.permissioncontroller
+02-15 11:18:24.782  2617  5036 I VrRuntimeClient: APP ACTIVITY CLASS = com.oculus.os.DialogContext
+02-15 11:18:24.782  2617  5036 D BatteryReceiver: Registering battery receiver
+02-15 11:18:24.792  1022  1156 V DisplayPowerController: Brightness [255] reason changing to: 'override', previous reason: 'manual'.
+02-15 11:18:24.795  3278  3473 D VrApi   : targetSDKVersion 27
+02-15 11:18:24.808  2617  5036 D HeadsetReceiver: getCurrentHeadsetState: false
+02-15 11:18:24.808  2617  5036 I DeviceStatus: nativeHeadsetEvent(0)
+02-15 11:18:24.809  2617  5036 I LatencySequenceLogger: handPoseLatency0 - Logger reset. Session ID: 2016784214264462326
+02-15 11:18:24.809  2617  5036 I LatencySequenceLogger: pointerPoseLatency0 - Logger reset. Session ID: -2436647622717709250
+02-15 11:18:24.809  2617  5036 I LatencySequenceLogger: handPoseLatency1 - Logger reset. Session ID: -6951888618355561211
+02-15 11:18:24.809  2617  5036 I LatencySequenceLogger: pointerPoseLatency1 - Logger reset. Session ID: -6267016259896870683
+02-15 11:18:24.809  2617  5036 I LatencySequenceLogger: gfrLatency - Logger reset. Session ID: 2768948010702319000
+02-15 11:18:24.809  2617  5036 I LatencySequenceLogger: trackedRemoteLatency0 - Logger reset. Session ID: 6698366998894228699
+02-15 11:18:24.809  2617  5036 I LatencySequenceLogger: trackedRemoteLatency1 - Logger reset. Session ID: -2710476170456360024
+02-15 11:18:24.811  2617  5036 I ClientInputInterface: DEADRECKONING SetControllerTrackingExtendedDeadreckoning 0
+02-15 11:18:24.811  2617  5036 D InputHooksJava: Enabling Java Input Hooks
+02-15 11:18:24.811  2299  2299 D DeviceHelper: isScreenOn = true
+02-15 11:18:24.812  2299  2299 D [OAO] ShellOverlayBroadcastReceiver: onReceive with ShellOverlayService native pointer 3974212088, action com.oculus.vrshell.intent.action.DISMISS_NOTIFICATION
+02-15 11:18:24.812  2299  2299 D [OAO] RssdkHelper: getCurrentPackageInfo
+02-15 11:18:24.812  2299  2299 I [OAO] RssdkHelperJNI: Java_com_oculus_common_navigation_RssdkHelper_nativeGetCurrentPackageInfo
+02-15 11:18:24.812  2299  2299 I [OAO] RssdkHelperJNI: NativeGetCurrentPackageInfo - str combined: 'com.android.permissioncontroller false'
+02-15 11:18:24.812  2299  2299 D [OAO] PrimaryPackage: Shell backgrounded or not running.
+02-15 11:18:24.812  2299  2299 I [OAO] ShellOverlayServiceJNI: NativeWake
+02-15 11:18:24.812  2299  2299 I [OAO] ShellOverlayMain: WakeVrThread
+02-15 11:18:24.812  2299  2299 I [OAO] ShellOverlayMain: WakeVrThread - notifying vr thread
+02-15 11:18:24.812  2299  2342 I [OAO] ShellOverlayApp: 0xc1c35bf0 msg: broadcastIntent:
+02-15 11:18:24.812  2299  2342 I [OAO] ShellOverlayApp: intent_action = com.oculus.vrshell.intent.action.DISMISS_NOTIFICATION
+02-15 11:18:24.812  2299  2342 I [OAO] ShellOverlayApp: status_bar_notification = 0|android|0|com.android.server.wm.AlertWindowNotification - com.oculus.vrshell|1000
+02-15 11:18:24.812  2299  2342 I [OAO] ShellOverlayApp: ProcessMessage_Broadcast: com.oculus.vrshell.intent.action.DISMISS_NOTIFICATION
+02-15 11:18:24.816  3161  3161 D [OAR] RssdkHelper: getCurrentPackageInfo
+02-15 11:18:24.816  3161  3161 I [OAR] RssdkHelperJNI: Java_com_oculus_common_navigation_RssdkHelper_nativeGetCurrentPackageInfo
+02-15 11:18:24.817  3161  3161 I [OAR] RssdkHelperJNI: NativeGetCurrentPackageInfo - str combined: 'com.android.permissioncontroller false'
+02-15 11:18:24.817  3161  3161 D [OAR] ShellControlProtectedReceiver: onReceive with MainActivity native pointer 0, action com.oculus.vrshell.intent.action.DISMISS_NOTIFICATION
+02-15 11:18:24.818  2617  5036 I RuntimeHelpers: OSSDKTRACKING Setting ResultUseOSSDKTracking to 0
+02-15 11:18:24.818  2617  5036 I InputDeviceManager: ovrInputDeviceManager::Initialize
+02-15 11:18:24.818  2617  5036 I RuntimeHelpers: OSSDKTRACKING Setting ResultUseOSSDKTracking to 0
+02-15 11:18:24.818  2617  5036 I InputDeviceManager: HANDTRACKING packagename is com.android.permissioncontroller
+02-15 11:18:24.819  2617  5037 I RuntimeHelpers: OSSDKTRACKING Setting ResultUseOSSDKTracking to 0
+02-15 11:18:24.820  2617  5036 I InputDeviceManager: HANDTRACKING: Manifest Permission request for com.android.permissioncontroller
+02-15 11:18:24.824  3161  3161 D DeviceHelper: isScreenOn = true
+02-15 11:18:24.824  3161  3161 D [OAR] PrimaryPackage: ShellEnv is backgrounded or not running.
+02-15 11:18:24.824  2617  5036 I InputDeviceManager: HANDTRACKING:  'com.android.permissioncontroller' Is hands or controller.
+02-15 11:18:24.824  2617  5036 I InputDeviceManager: HANDTRACKING: feature flag set to 2
+02-15 11:18:24.824  2617  5036 I ClientInputInterface: HANDTRACKING sethandmanifest 2
+02-15 11:18:24.824  2617  5036 D TrackingServiceConnectionNative: onClientConnect
+02-15 11:18:24.824  2617  5036 D BinderConnection: Connecting to TrackingService
+02-15 11:18:24.827  2617  5036 D TrackingServiceConnectionNative: onConnected
+02-15 11:18:24.827   802   802 I TrackingService: TrackingService::getSharedMemoryFileDescriptor
+02-15 11:18:24.829  2617  5036 I TrackingServiceClient: OVR::TrackingService::ClientSetInterface
+02-15 11:18:24.829  2617  5036 I TrackingServiceClient: TrackingService client: roFd(74)
+02-15 11:18:24.829  2617  5036 I TrackingServiceClient: TrackingService client: connected to interface version 14.
+02-15 11:18:24.829  2617  5036 I TrackingServiceClient: TrackingService client: last prediction time is 0.004112 seconds old
+02-15 11:18:24.829  2617  5036 I TrackingServiceClient: TrackingService client: provided by pid=802
+02-15 11:18:24.829   802   802 I TrackingService: TrackingService::registerClient
+02-15 11:18:24.831   802   802 I TrackingService: Registering client with TrackingServiceHost (com.android.permissioncontroller#2617)
+02-15 11:18:24.831   802   802 I TrackingService: Notifying client com.android.permissioncontroller#2617 of new remote b298f93898a8d8b4
+02-15 11:18:24.831   802   802 I TrackingService: Notifying client com.android.permissioncontroller#2617 of new remote d1a68fb151f50abc
+02-15 11:18:24.831   802   802 I TrackingService: TrackingServiceHost GetSharedMemoryFileDescriptor for client com.android.permissioncontroller#2617
+02-15 11:18:24.831   802   802 I TrackingService: TrackingServiceHost registered common client; there are 0 secure clients
+02-15 11:18:24.831  2617  5036 I TrackingServiceClient: ClientConnectComplete
+02-15 11:18:24.831  2617  5036 I Distortion: Initializing Mesh Decenter Correction
+02-15 11:18:24.832  2617  5036 I Distortion: EYE_DECENTER ipdMin 58.1364 left H: -8.1595 v: 3.6616  right  H: -4.9562 v: 0.1797
+02-15 11:18:24.832  2617  5036 I Distortion: EYE_DECENTER ipdMid 63.0543 left H: 0.7277 v: 2.5898  right  H: 1.0983 v: 2.3797
+02-15 11:18:24.832  2617  5036 I Distortion: EYE_DECENTER ipdMax 67.9727 left H: 1.9973 v: 1.518  right  H: -0.1126 v: 2.3797
+02-15 11:18:24.832  2617  5036 I Distortion: EYE_DECENTER PIXELS(4) left H: 8.1595 V: -3.6616  right H: 4.9562 V: -0.1797
+02-15 11:18:24.832  2617  5036 I Distortion: EYE_DECENTER iad: 0.0582248, left H: 0.000215424 V: -0.000120284  right H: 0.000215424 V: -5.90315e-06
+02-15 11:18:24.832  2617  5036 I Distortion: SetLensPositions - iad=0.0582248, left offset=-0.00237258,-0.00136858, right offset=0.00280344,-0.0012542
+02-15 11:18:24.832  2617  5036 I Distortion: Initializing Mesh Decenter Correction
+02-15 11:18:24.832  2617  5037 I InputDeviceManager: HANDTRACKING Pose filter profile changed to: 0
+02-15 11:18:24.832  2617  5037 I InputDeviceManager: HANDTRACKING Pose filter profile changed to: 0
+02-15 11:18:24.833  2617  5036 I Distortion: EYE_DECENTER ipdMin 58.1364 left H: -8.1595 v: 3.6616  right  H: -4.9562 v: 0.1797
+02-15 11:18:24.833  2617  5036 I Distortion: EYE_DECENTER ipdMid 63.0543 left H: 0.7277 v: 2.5898  right  H: 1.0983 v: 2.3797
+02-15 11:18:24.833  2617  5036 I Distortion: EYE_DECENTER ipdMax 67.9727 left H: 1.9973 v: 1.518  right  H: -0.1126 v: 2.3797
+02-15 11:18:24.833  2617  5036 I Distortion: EYE_DECENTER PIXELS(4) left H: 8.1595 V: -3.6616  right H: 4.9562 V: -0.1797
+02-15 11:18:24.833  2617  5036 I Distortion: EYE_DECENTER iad: 0.0582248, left H: 0.000215424 V: -0.000120284  right H: 0.000215424 V: -5.90315e-06
+02-15 11:18:24.833  2617  5036 I Distortion: SetLensPositions - iad=0.0582248, left offset=-0.00237258,-0.00136858, right offset=0.00280344,-0.0012542
+02-15 11:18:24.833  2617  5036 I Distortion: Created custom distortion mesh.
+02-15 11:18:24.833  2617  5036 I Distortion: ovrDistortionMeshHeader::magic = 0x56347807
+02-15 11:18:24.833  2617  5036 I Distortion: ovrDistortionMeshHeader::deviceModel = 0x200
+02-15 11:18:24.833  2617  5036 I Distortion: ovrDistortionMeshHeader::headsetModel = 0x104
+02-15 11:18:24.833  2617  5036 I Distortion: ovrDistortionMeshHeader::eyeBlocksWide = 32
+02-15 11:18:24.833  2617  5036 I Distortion: ovrDistortionMeshHeader::eyeBlocksHigh = 32
+02-15 11:18:24.833  2617  5036 I Distortion: ovrDistortionMeshHeader::lensSeparationMeters = 0.058225
+02-15 11:18:24.833  2617  5036 I Distortion: ovrDistortionMeshHeader::horizontalOffsetMeters = 0.000215
+02-15 11:18:24.833  2617  5036 I Distortion: ovrDistortionMeshHeader::displayWidthMeters = 0.120362
+02-15 11:18:24.833  2617  5036 I Distortion: ovrDistortionMeshHeader::displayHeightMeters = 0.063072
+02-15 11:18:24.833  2617  5036 I Distortion: ovrDistortionMeshHeader::displayWidthPixels = 3664
+02-15 11:18:24.833  2617  5036 I Distortion: ovrDistortionMeshHeader::displayHeightPixels = 1920
+02-15 11:18:24.833  2617  5036 I Distortion: ovrDistortionMeshHeader::eyeTextureWidthPixels = 1440
+02-15 11:18:24.833  2617  5036 I Distortion: ovrDistortionMeshHeader::eyeTextureHeightPixels = 1584
+02-15 11:18:24.833  2617  5036 I Distortion: ovrDistortionMeshHeader::leftEye = up 48.000000 / down 50.000000 / left 52.000000 / right 42.000000
+02-15 11:18:24.833  2617  5036 I Distortion: ovrDistortionMeshHeader::rightEye = up 48.000000 / down 50.000000 / left 42.000000 / right 52.000000
+02-15 11:18:24.833  2617  5036 I VrApi   : ovrModeParms::VRAPI_MODE_FLAG_RESET_WINDOW_FULLSCREEN = 1
+02-15 11:18:24.833  2617  5036 I VrApi   : ovrModeParms::VRAPI_MODE_FLAG_NATIVE_WINDOW = 1
+02-15 11:18:24.833  2617  5036 I VrApi   : ovrModeParms::VRAPI_MODE_FLAG_FRONT_BUFFER_SRGB = 0
+02-15 11:18:24.833  2617  5036 I VrApi   : ovrModeParms::VRAPI_MODE_FLAG_CREATE_CONTEXT_NO_ERROR = 0
+02-15 11:18:24.833  2617  5036 I VrApi   : ovrModeParms::VRAPI_MODE_FLAG_PHASE_SYNC = 0
+02-15 11:18:24.833  2617  5036 I VrApi   : ovrModeParms::VRAPI_MODE_FLAG_APP_SPACE_WARP = 0
+02-15 11:18:24.833  2617  5036 I VrRuntimeClient: SetPhaseSyncMode 0
+02-15 11:18:24.833  2617  5036 I VrApi   : PhaseSync disabled
+02-15 11:18:24.833  2617  5036 I VrApi   : HMD sensor attached.
+02-15 11:18:24.833  2617  5036 I GL_Utils: egl = 1.5
+02-15 11:18:24.833  2617  5036 I GL_Utils: es3 = TRUE
+02-15 11:18:24.833  2617  5036 I GL_Utils: Found: GL_OES_vertex_array_object
+02-15 11:18:24.833  2617  5036 I GL_Utils: Found: GL_QCOM_tiled_rendering
+02-15 11:18:24.833  2617  5036 I GL_Utils: Found: GL_EXT_sRGB_write_control
+02-15 11:18:24.833  2617  5036 I GL_Utils: Found: GL_EXT_disjoint_timer_query
+02-15 11:18:24.833  2617  5036 I GL_Utils: Found: GL_EXT_memory_object
+02-15 11:18:24.833  2617  5036 I GL_Utils: Found: GL_EXT_memory_object_fd
+02-15 11:18:24.833  2617  5036 I GL_Utils: Found: GL_QCOM_texture_foveated
+02-15 11:18:24.833  2617  5036 I GL_Utils: Found: GL_KHR_debug
+02-15 11:18:24.833  2617  5036 I GL_Utils: Found: GL_EXT_texture_border_clamp
+02-15 11:18:24.833  2617  5036 I GL_Utils: Found: GL_EXT_texture_filter_anisotropic
+02-15 11:18:24.833  2617  5036 I GL_Utils: Found: GL_OES_texture_view
+02-15 11:18:24.833  2617  5036 I GL_Utils: Found: GL_EXT_texture_format_sRGB_override
+02-15 11:18:24.834  2617  5036 D VrRuntimeClient: pokeGuardianUserServiceForThisClient: com.android.permissioncontroller:10011
+02-15 11:18:24.835  2617  5036 D VrRuntimeClient: VrRuntimeClient: enableRendering: dialog client
+02-15 11:18:24.835  2352  2352 D VrGuardianUserService: onStartCommandIntent { act=FOREGROUND_CLIENT cmp=com.oculus.guardian/com.oculus.vrguardianservice.VrGuardianUserService (has extras) }
+02-15 11:18:24.835  2617  5036 D VrRuntimeClient: VrRuntimeClient: enableRendering: Using clientWindow=android.os.BinderProxy@8b19fe2
+02-15 11:18:24.836  1936  1996 I ClientMgr: ClientMgr::SetFocusedClient: 2617:com.android.permissioncontroller type 0
+02-15 11:18:24.836  1936  1996 D VrRuntimeService: enableRendering: 2617:com.android.permissioncontroller: android.os.BinderProxy@7c074ea enable: true
+02-15 11:18:24.836  1936  1996 I ClientMgr: ClientMgr::EnableRendering 2617:com.android.permissioncontroller : type 0 comp-id 7: enable
+02-15 11:18:24.836  1936  1996 I TimeWarp: CheckDebuggerConnected: debugger 0
+02-15 11:18:24.836  1936  1996 I VrRuntimeServer: SysProp debug mode is disabled on Server side
+02-15 11:18:24.844  1936  1996 I UnifiedTelemetryWrapper: Started UT session render:com.android.permissioncontroller
+02-15 11:18:24.844  1936  2295 I ClientMgr: Non-overlay clients rendering status has changed: prev=4, curr=5, enabled=1
+02-15 11:18:24.844  1936  2295 I ClientMgr: Primary Client is not valid.
+02-15 11:18:24.844  1936  2295 I ClientMgr: Primary client determined to be the current enabled client 7
+02-15 11:18:24.844  1936  2295 I ClientMgr: Setting Primary Client to 7
+02-15 11:18:24.844  1936  2295 I ClientMgr: Primary Client ID changed
+02-15 11:18:24.845  2617  5036 I ScreenCaptureHelper: Advertising com.android.permissioncontroller as streamable
+02-15 11:18:24.845  2617  5036 I VrApi   : OVR::Stats thread started
+02-15 11:18:24.845  2617  5036 I XrRuntimeSystem_Client: BeginSession
+02-15 11:18:24.845  2617  5036 I VrApi   : ---------- vrapi_EnterVrMode [end] ----------
+02-15 11:18:24.845  2617  5036 I ClientInputSettings: SetInhibitHandleHomeKey = true for com.android.permissioncontroller
+02-15 11:18:24.845  2617  5036 I ClientInputInterface: SetInhibitHandleHomeKey 1
+02-15 11:18:24.846  1936  5035 I VrRuntimeService: CreateSwapChain: 2568790427
+02-15 11:18:24.846  1936  5035 I VrRuntimeService: CreateSwapChain: api:gles 0 0x8c43 16 16 1 1 1 0 14
+02-15 11:18:24.846  1936  5035 I VrRuntimeServer: CreateTextureSwapChain: result importswapchaingles 1
+02-15 11:18:24.847  2617  5038 D VrApi   : VrApi::isWifiConnected exception: Make sure android.permission.ACCESS_NETWORK_STATE is set in the manifest.
+02-15 11:18:24.849  2617  5038 D VrApi   : targetSDKVersion 29
+02-15 11:18:24.850  2617  5038 I JniUtils: ovr_GetCurrentPackageSignature 
+02-15 11:18:24.852  2617  5038 I Metrics : device name = Oculus Quest 2
+02-15 11:18:24.852  1936  2295 W ClientMgr: ClientMgr::GetClientPermissionFlagsById: Client missing proper permissions: com.android.permissioncontroller, 2
+02-15 11:18:24.852  1936  2295 I ClientMgr: ClientMgr::SetPrimaryCompositorClient: com.android.permissioncontroller
+02-15 11:18:24.852  1936  2295 I TimeWarp: Enable client 7
+02-15 11:18:24.852  1936  2295 I VrRuntimeServer: EnableCompositorClient client(7): layer placement(0) flags(1) sm(0x7167b03010)
+02-15 11:18:24.852  1936  2295 I ServiceInputManager: ServiceInputManager::SetPrimaryPackageName 'com.android.permissioncontroller' 'com.android.permissioncontroller'  updated AnytimeUI processname 0
+02-15 11:18:24.852  1936  2295 D VrRuntimeService: sendPrimaryPackageChangeBroadcast
+02-15 11:18:24.853  2352  2439 I GuardianSystem: runtimeServiceSDKClient_.ForceShowGuardianEvent
+02-15 11:18:24.853  2352  2439 I GuardianSystem: ForceShowGuardian: false, 0.00
+02-15 11:18:24.854  1936  2295 I AADT    : SetAADTLutDataX: 0
+02-15 11:18:24.854  1936  2295 I AADT    : SetAADTLutDataY: 0
+02-15 11:18:24.854  1936  2295 I ServiceInputManager: DEADRECKONING deadReckoning mode on ClientMgr from server is 0
+02-15 11:18:24.854  1936  2295 I ServiceInputManager: HAPTICS: Informing non focused app that remote is connected.
+02-15 11:18:24.856  1936  5035 I VrRuntimeService: CreateSwapChain: 2568790427
+02-15 11:18:24.856  1936  5035 I VrRuntimeService: CreateSwapChain: api:gles 3 0x8058 1000 1000 1 1 1 0 14
+02-15 11:18:24.857  2299  2299 D [OAO] ShellOverlayService: screenStateReceiver Received broadcast: com.oculus.vrshell.intent.action.PRIMARY_PACKAGE_CHANGED
+02-15 11:18:24.857  2299  2299 I [OAO] ShellOverlayServiceJNI: NativeSendOverlayCommand
+02-15 11:18:24.857  1936  5035 I VrRuntimeServer: CreateTextureSwapChain: result importswapchaingles 1
+02-15 11:18:24.857  2299  2299 I [OAO] ShellOverlayServiceJNI: NativeWake
+02-15 11:18:24.857  2299  2299 I [OAO] ShellOverlayMain: WakeVrThread
+02-15 11:18:24.857  2299  2299 I [OAO] ShellOverlayMain: WakeVrThread - notifying vr thread
+02-15 11:18:24.860  2617  5037 I InputDevice_TrackedRemote: REMOTE: Hand=2 IndexAnalog=0.00 GripAnalog=0.00 Buttons=0x00000000
+02-15 11:18:24.860  2617  5037 I InputDevice_TrackedRemote: REMOTE: Hand=1 IndexAnalog=0.00 GripAnalog=0.00 Buttons=0x00000000
+02-15 11:18:24.862  1936  2081 I TimeWarp: SetSchedFifo( tid=3256, pol=2, pri=0 ) succeeded
+02-15 11:18:24.862   808   808 E VrApiService: Error set scheduler for process 1936 thread 3354 to 2 : No such process (3)
+02-15 11:18:24.862  1936  2081 I TimeWarp: SetSchedFifo( tid=3354, pol=2, pri=0 ) succeeded
+02-15 11:18:24.862  1936  2081 I AADT    : SetAADTLutDataX. Thread. SizeX: 0
+02-15 11:18:24.862  1936  2081 I AADT    : SetAADTLutDataY. Thread. SizeY: 0
+02-15 11:18:24.863  1696  2914 I InputDevice_TrackedRemote: REMOTE: Hand=0 IndexAnalog=0.00 GripAnalog=0.00 Buttons=0x00000000
+02-15 11:18:24.863  1696  2914 I InputDevice_TrackedRemote: REMOTE: Hand=0 IndexAnalog=0.00 GripAnalog=0.00 Buttons=0x00000000
+02-15 11:18:24.864  1936  5035 I VrRuntimeService: CreateSwapChain: 2568790427
+02-15 11:18:24.864  1936  5035 I VrRuntimeService: CreateSwapChain: api:gles 0 0x8c43 1440 1584 1 3 1 0 14
+02-15 11:18:24.865  1936  5035 I VrRuntimeServer: CreateTextureSwapChain: result importswapchaingles 1
+02-15 11:18:24.865   720   791 D android.hardware.power@1.3-service-libperfmgr: LAUNCH OFF
+02-15 11:18:24.870  1936  5035 I VrRuntimeService: CreateSwapChain: 2568790427
+02-15 11:18:24.870  1936  5035 I VrRuntimeService: CreateSwapChain: api:gles 0 0x8c43 1440 1584 1 3 1 0 14
+02-15 11:18:24.871  2193  2214 W LibraryProvider: Cannot find entitlement for com.oculus.shellenv
+02-15 11:18:24.871  1936  5035 I VrRuntimeServer: CreateTextureSwapChain: result importswapchaingles 1
+02-15 11:18:24.872  2133  2133 W OVRLibrary: null cursor received for query content://com.oculus.ocms.library/apps/com.oculus.shellenv
+02-15 11:18:24.883  2133  2133 I PlatformPlugin: [PlatformPluginManager] SetSystemVoipPassthrough 0
+02-15 11:18:24.883  2133  2133 I OVRPlatform: [PartyChatWebRTC] PartyChatSetPassthrough 0
+02-15 11:18:24.883  2133  3941 I OVRPlatform: [PartyChatWebRTC] Updating playback mode to 1
+02-15 11:18:24.891  3215  3256 I Clay    : [I]: EnvironmentSystem: computed visibility changed from Visible to Unload (reason: Paused)
+02-15 11:18:24.891  3215  3256 I Clay    : [I]: EnvironmentSystem: environment path not valid, resetting to default scene
+02-15 11:18:24.891  3215  3256 I Clay    : [I]: EnvironmentSystem: setCurrentEnvironment from 'apk://com.oculus.environment.prod.spacestation/assets/scene.zip' to ''
+02-15 11:18:24.893  2133  2133 E OVRPlatform: [PartiesAPI] ovr_Party_PluginGetSharedMemHandle: This function is deprecated, do not use
+02-15 11:18:24.894  2617  5036 D VrRuntimeClient: loadDriverResource - resourceName: 'hand_left' 
+02-15 11:18:24.895  2133  2133 E OVRMediaServiceManager: LivestreamingManager Not initialized
+02-15 11:18:24.899  2617  5036 I VrApi_Input: vrapi_GetMeshForHand_Internal: mesh->Header.Version = df000001 mesh->NumVertices = 1360 mesh->NumIndices = 6942
+02-15 11:18:24.902  2617  5036 D VrRuntimeClient: loadDriverResource - resourceName: 'hand_right' 
+02-15 11:18:24.907  2352  2405 I RuntimeIPCServerMgr: RegisterClient: Client: com.android.permissioncontroller:com.android.permissioncontroller:2617, Server: com.oculus.guardian:com.oculus.vrguardianservice (guardianserver)
+02-15 11:18:24.909  2299  2342 I [OAO] ShellOverlayApp: 0xc1c35bf0 msg: overlayCommand:
+02-15 11:18:24.909  2299  2342 I [OAO] ShellOverlayApp: command = primaryPackageChanged
+02-15 11:18:24.909  2299  2342 I [OAO] ShellOverlayApp: Process_OverlayCommand command : primaryPackageChanged
+02-15 11:18:24.909  2299  2342 I [OAO] ShellOverlayApp: UpdatePrimaryPackage
+02-15 11:18:24.909  2299  2342 I [OAO] ShellOverlayApp: UpdatePrimaryPackage Requested for PackageName:com.android.permissioncontroller  IsFocusAware:0
+02-15 11:18:24.909  2299  2342 I [OAO] ShellOverlayApp: UpdatePrimaryPackage Ignored as no change for packageName:[com.android.permissioncontroller]
+02-15 11:18:24.909  2193  2214 W LibraryProvider: Cannot find entitlement for com.android.permissioncontroller
+02-15 11:18:24.909  2133  2133 W OVRLibrary: null cursor received for query content://com.oculus.ocms.library/apps/com.android.permissioncontroller
+02-15 11:18:24.913  2352  5045 I RuntimeIPCServerMgr: RPCClientHandler::MainLoop: Starting: Client: com.android.permissioncontroller:com.android.permissioncontroller:2617, Server: com.oculus.guardian:com.oculus.vrguardianservice (guardianserver)
+02-15 11:18:24.913  2352  5045 I JniUtils: Creating temporary JNIEnv. This is a heavy operation and should be infrequent. To optimize, use JNI AttachCurrentThread on calling thread
+02-15 11:18:24.917  2193  2214 W LibraryProvider: Cannot find entitlement for com.android.permissioncontroller
+02-15 11:18:24.917  2133  2133 W OVRLibrary: null cursor received for query content://com.oculus.ocms.library/apps/com.android.permissioncontroller
+02-15 11:18:24.919  2133  2133 I PlatformPlugin: [PlatformPluginManager] SetSystemVoipPassthrough 0
+02-15 11:18:24.919  2133  2133 I OVRPlatform: [PartyChatWebRTC] PartyChatSetPassthrough 0
+02-15 11:18:24.919  2133  3941 I OVRPlatform: [PartyChatWebRTC] Updating playback mode to 1
+02-15 11:18:24.925  1962  1995 I RuntimeIPCService: GetServerRequestPipeAsServer: 2617:com.android.permissioncontroller:com.android.permissioncontroller (com.oculus.guardian:com.oculus.vrguardianservice (guardianserver))
+02-15 11:18:24.937  2133  2133 E OVRPlatform: [PartiesAPI] ovr_Party_PluginGetSharedMemHandle: This function is deprecated, do not use
+02-15 11:18:24.938  2133  2133 E OVRMediaServiceManager: LivestreamingManager Not initialized
+02-15 11:18:24.952  2352  5045 I JniUtils: Creating temporary JNIEnv. This is a heavy operation and should be infrequent. To optimize, use JNI AttachCurrentThread on calling thread
+02-15 11:18:24.953  2617  5036 I VrApi_Input: vrapi_GetMeshForHand_Internal: mesh->Header.Version = df000001 mesh->NumVertices = 1360 mesh->NumIndices = 6942
+02-15 11:18:24.954  1962  1995 I RuntimeIPCService: GetServerRequestPipeAsServer: 2617:com.android.permissioncontroller:com.android.permissioncontroller (com.oculus.guardian:com.oculus.vrguardianservice (guardianserver))
+02-15 11:18:24.956  2352  5045 I JniUtils: Creating temporary JNIEnv. This is a heavy operation and should be infrequent. To optimize, use JNI AttachCurrentThread on calling thread
+02-15 11:18:24.956  1962  1995 I RuntimeIPCService: GetServerResponsePipeAsServer: 2617:com.android.permissioncontroller:com.android.permissioncontroller (com.oculus.guardian:com.oculus.vrguardianservice (guardianserver))
+02-15 11:18:24.957  1936  5035 I VrRuntimeService: CreateSwapChain: 2568790427
+02-15 11:18:24.957  1936  5035 I VrRuntimeService: CreateSwapChain: api:gles 0 0x8c43 64 64 1 3 1 0 14
+02-15 11:18:24.958  1936  5035 I VrRuntimeServer: CreateTextureSwapChain: result importswapchaingles 1
+02-15 11:18:24.966  1936  5035 I VrRuntimeService: CreateAndroidSurfaceSwapChain: 2568790427
+02-15 11:18:24.966  1936  5035 I VrRuntimeService: CreateAndroidSurfaceSwapChain: 65536 1 32856 933 366 1 1 1 0 0
+02-15 11:18:24.966  1936  5035 I VrRuntimeServer: CreateAndroidSurfaceSwapChain: result surface 0x70fcc27000
+02-15 11:18:24.967  2352  5045 I JniUtils: Creating temporary JNIEnv. This is a heavy operation and should be infrequent. To optimize, use JNI AttachCurrentThread on calling thread
+02-15 11:18:24.968  1936  5035 I VrRuntimeService: RuntimeServiceSDKServer::GetGuardianPolygon
+02-15 11:18:24.968  2617  5036 I VrRuntimeClient: SyncInternalGuardianState: GetGuardianPolygon: 0
+02-15 11:18:24.968  1936  5035 I VrRuntimeService: RuntimeServiceSDKServer::GetGuardianStationaryInfo
+02-15 11:18:24.968  1936  5035 I VrRuntimeService: RuntimeServiceSDKServer::GetGuardianSystemState: 2568790427
+02-15 11:18:24.969  1962  1995 I RuntimeIPCService: GetServerFdAsServer: 2617:com.android.permissioncontroller:com.android.permissioncontroller (com.oculus.guardian:com.oculus.vrguardianservice (guardianserver))
+02-15 11:18:24.969  1936  5035 I VrRuntimeService: UpdateSwapChainSamplerState: 136
+02-15 11:18:24.969  1936  5035 I VrRuntimeService: UpdateSwapChainSamplerState: minFilter=1 magFilter=1 wrapModeS=0 warpModeT=0 maxAniso=1.000000 border={0.000000,0.000000,0.000000,0.000000}
+02-15 11:18:24.969  1936  5035 I VrRuntimeService: UpdateSwapChainSamplerState: 137
+02-15 11:18:24.969  1936  5035 I VrRuntimeService: UpdateSwapChainSamplerState: minFilter=1 magFilter=1 wrapModeS=3 warpModeT=3 maxAniso=1.000000 border={0.000000,0.000000,0.000000,0.000000}
+02-15 11:18:24.970  1936  5035 I VrRuntimeService: UpdateSwapChainSamplerState: 138
+02-15 11:18:24.970  1936  5035 I VrRuntimeService: UpdateSwapChainSamplerState: minFilter=1 magFilter=1 wrapModeS=3 warpModeT=3 maxAniso=1.000000 border={0.000000,0.000000,0.000000,0.000000}
+02-15 11:18:24.970  2617  5036 I VrRuntimeClient: UpdateEvents: HMT was mounted
+02-15 11:18:24.970  2617  5036 I VrApi   : Received ovrRuntime event 2
+02-15 11:18:24.970  2617  5036 I VrApi   : Received ovrRuntime event 4
+02-15 11:18:24.970  2617  5036 I VrApi   : Received ovrRuntime event 12
+02-15 11:18:24.970  2617  5036 I VrApi   : Unhandled ovrRuntime Event 13
+02-15 11:18:24.970  2617  5036 W VrApi   : Time to first swap: 0.460 seconds
+02-15 11:18:24.970  2617  5046 I FenceChecker: FenceChecker::MainLoop - started
+02-15 11:18:24.972  1936  3375 I VrRuntimeService: DestroySwapChain: swapchain=133
+02-15 11:18:24.973  1936  3375 I VrRuntimeServer: DestroyTextureSwapChain: result destroyswapchain 1
+02-15 11:18:24.974  2617  5036 D VrLibJNI: Sent controller recenter event to window
+02-15 11:18:24.975  1936  5035 I VrRuntimeService: UpdateSwapChainSamplerState: 135
+02-15 11:18:24.975  1936  5035 I VrRuntimeService: UpdateSwapChainSamplerState: minFilter=1 magFilter=1 wrapModeS=2 warpModeT=2 maxAniso=1.000000 border={0.000000,0.000000,0.000000,0.000000}
+02-15 11:18:24.975  2617  5036 I VrApi   : Received ovrRuntime event 11
+02-15 11:18:24.984  1936  2081 I TimeWarp: SetSchedFifo( tid=5046, pol=3, pri=0 ) succeeded
+02-15 11:18:24.984  1936  2081 I TimeWarp: SetClientSurfaceSecureFlag: secure=1
+02-15 11:18:24.987  3278  3384 I VrApi   : OVR::Stats thread stopped
+02-15 11:18:24.988  3278  3384 I InputDeviceManager: ovrInputDeviceManager::~ovrInputDeviceManager
+02-15 11:18:24.989  1936  2295 I Vsync   : Adjusting vsync display refresh rate 90.000000 -> 72.000000
+02-15 11:18:24.991  2617  5036 D VrLibJNI: Sent controller recenter event to window
+02-15 11:18:24.994  1936  2081 I TimeWarpProgs: loaded binary layerProgram 0:0x58207:0x0 in 3.2 ms
+02-15 11:18:24.998  1554  1602 I nifiedtelemetr: Background young concurrent copying GC freed 20591(1669KB) AllocSpace objects, 22(680KB) LOS objects, 34% free, 3409KB/5214KB, paused 16.128ms total 158.084ms
+02-15 11:18:25.001  2352  2405 I RuntimeIPCServerMgr: RPCClientHandler::Init SUCCESS: Client: com.android.permissioncontroller:com.android.permissioncontroller:2617, Server: com.oculus.guardian:com.oculus.vrguardianservice (guardianserver)
+02-15 11:18:25.001  2352  5045 W REFLECT : Broadcasting -1726176869, com.android.permissioncontroller, com.android.permissioncontroller:2617
+02-15 11:18:25.002  2617  5036 D VrLibJNI: Sent controller recenter event to window
+02-15 11:18:25.002  2617  5036 D VrRuntimeClient: pokeGuardianUserServiceForThisClient: com.android.permissioncontroller:10011
+02-15 11:18:25.006  2352  2352 D VrGuardianUserService: onStartCommandIntent { act=FOREGROUND_CLIENT cmp=com.oculus.guardian/com.oculus.vrguardianservice.VrGuardianUserService (has extras) }
+02-15 11:18:25.018  3278  3472 I ClientInputThread_Internal: InputThreadRun ShutdownRequest received
+02-15 11:18:25.018   808   808 D VrApiService: refresh-rate changed to 72Hz
+02-15 11:18:25.019  1936  2295 I Vsync   : Set Display(0) Refresh Rate = 72.000000
+02-15 11:18:25.019  3278  3384 D InputHooksJava: Disabling Java Input Hooks
+02-15 11:18:25.021  1936  1973 D VrRuntimeService: enableRendering: 3278:com.oculus.vrshell: null enable: false
+02-15 11:18:25.021  1936  1973 I ClientMgr: ClientMgr::EnableRendering 3278:com.oculus.vrshell : type 1 comp-id 6: disable
+02-15 11:18:25.021  1936  1973 I VrRuntimeServer: DisableCompositorClient: 6
+02-15 11:18:25.021  1936  1973 I TimeWarp: Disable client 6
+02-15 11:18:25.021  1936  1973 I TimeWarp: DisableClient: frame flush required: 1
+02-15 11:18:25.023  1022  1118 I ActivityTaskManager: Displayed com.android.permissioncontroller/com.android.packageinstaller.permission.ui.ReviewPermissionsActivity: +372ms
+02-15 11:18:25.024  1936  2081 I SwapChain_GLES: AttachSurfaceSwapChainGLES: 0x70fcc27000 attached on init
+02-15 11:18:25.032  1936  1973 I UnifiedTelemetryWrapper: Stopped UT session render:com.oculus.vrshell:EnvOverlay
+02-15 11:18:25.032  3278  3483 I FenceChecker: FenceChecker::MainLoop - ended
+02-15 11:18:25.033  3278  3384 I TrackingServiceClient: OVR::TrackingService::ClientSetInterface
+02-15 11:18:25.033  3278  3384 D TrackingServiceConnectionNative: onClientDisconnect
+02-15 11:18:25.033   802   802 I TrackingService: Unregistering client by ITrackingService.unregisterClient
+02-15 11:18:25.033   802   802 I TrackingService: TrackingServiceHost Unregistering client: com.oculus.vrshell#3278
+02-15 11:18:25.034  3278  3384 D BinderConnection: Disconnecting from TrackingService service
+02-15 11:18:25.034  3278  3384 D TrackingServiceConnectionNative: onDisconnected
+02-15 11:18:25.034  3278  3384 I TrackingServiceClient: OVR::TrackingService::ClientSetInterface
+02-15 11:18:25.034  3278  3384 I VrApi   : ---------- vrapi_LeaveVrMode [end] ----------
+02-15 11:18:25.034  3278  3384 I [OAR] ShellFrameAnalytics: ShellFrame frameFunction: 22249us/179109us, trace: 0us/52us, process commands: 120us/4792us, system update: 547us/29026us, render 132us/78753us, post render 0us/13us
+02-15 11:18:25.034  3278  3384 I [OAR] ShellFrameAnalytics: Shell Heartbeat focusedPanelTimeSpent: {"1":4700,"3":4266,"0":18871} visibleTimeSpent: {"3":8966,"1":9089} inputTimeSpent: {"hand":2633,"controller":11544,"gaze":13660} mouseClickCount: 0 mouseMoveTimeSpent: 0 mouseScrollTimeSpent: 0 physicalKeyboardConnectedTimeSpent: 0 physicalKeyboardTrackedTimeSpent: 0
+02-15 11:18:25.034  3278  3384 I [OAR] DialogController: CloseDialogs() old: 0, pendingUri: systemux://dialog/none, pendingComponent: 
+02-15 11:18:25.034  3278  3384 I [OAR] PanelAppHost: PanelAppHost destructor: id 1 com.oculus.systemux/com.oculus.panelapp.anytimeui.AnytimeUIAndroidPanelService
+02-15 11:18:25.034  3278  3384 I [OAR] PanelAppHost: Panel app 1 (com.oculus.systemux/com.oculus.panelapp.anytimeui.AnytimeUIAndroidPanelService) changing state from foreground to shutdown
+02-15 11:18:25.035  3278  3384 D [SEO] ShellApplication: notify OS to set com.oculus.systemux/com.oculus.panelapp.anytimeui.AnytimeUIAndroidPanelService to BACKGROUND
+02-15 11:18:25.035  3278  3384 D [SEO] ShellApplication: Unbinding service for panel app id 1
+02-15 11:18:25.039  3278  3384 I [OAR] ShellEnvSwapChainApi: Destroying SwapChain:0xbc48d1e0
+02-15 11:18:25.044  3278  3384 I [OAR] ShellEnvSwapChainApi: Destroying SwapChain:0xd5f04ca0
+02-15 11:18:25.044  3278  3384 I [OAR] ShellEnvSwapChainApi: Destroying SwapChain:0xd5f04c00
+02-15 11:18:25.044  3278  3384 I [OAR] ShellEnvSwapChainApi: Destroying SwapChain:0xd5f04d40
+02-15 11:18:25.044  1936  2295 I VrRuntimeServer: DisableCompositorClient: 0
+02-15 11:18:25.044  1936  2295 I TimeWarp: Disable client 0
+02-15 11:18:25.044  1936  2295 I TimeWarp: DisableClient: frame flush required: 1
+02-15 11:18:25.046  3278  3384 I [OAR] ShellEnvSwapChainApi: Destroying SwapChain:0xbc373240
+02-15 11:18:25.047  3278  3384 I [OAR] DialogController: ResetDialog old: 0, activeUri systemux://dialog/none, activeReturnComponent 
+02-15 11:18:25.047  3278  3384 I [OAR] SystemTabletController: Reset, reason: 4, taskBarVisibility: 1
+02-15 11:18:25.048  3278  3384 I [OAR] SystemDialogController: Reset
+02-15 11:18:25.048  3278  3384 I [OAR] DialogControllerManager: Reset
+02-15 11:18:25.051  3215  3215 I OVRPlatform: [P2PNetworkTransport] SystemVoip state changed, updating mute
+02-15 11:18:25.053  2352  2439 I GuardianSystem: runtimeServiceSDKClient_.ForceShowGuardianEvent
+02-15 11:18:25.053  2352  2439 I GuardianSystem: ForceShowGuardian: false, 0.00
+02-15 11:18:25.061  1936  2081 I Vsync   : Vsync 2934:  1 x 11.11 ms (72.00 Hz, at 45.293)
+02-15 11:18:25.061  2299  2342 I VrApi   : Received ovrRuntime event 11
+02-15 11:18:25.069  2617  5036 I VrApi   : Received ovrRuntime event 11
+02-15 11:18:25.075  1936  2081 I Vsync   : Vsync 2935:  1 x 11.11 ms (72.00 Hz, at 45.307)
+02-15 11:18:25.081  2133  2133 I PlatformPlugin: [PlatformPluginManager] Stopping party chat
+02-15 11:18:25.081  2133  2133 I OVRPlatform: [PartyChatInterchangeable] Stop PartyChat.
+02-15 11:18:25.083  2133  2133 D UnifiedTelemetryLogger: Already initialized.
+02-15 11:18:25.086  1936  2081 I Vsync   : Vsync 2936:  1 x 11.11 ms (72.00 Hz, at 45.318)
+02-15 11:18:25.097  1936  2081 I Vsync   : Vsync 2937:  1 x 11.11 ms (72.00 Hz, at 45.329)
+02-15 11:18:25.108  1936  2081 I Vsync   : Vsync 2938:  1 x 11.11 ms (72.00 Hz, at 45.341)
+02-15 11:18:25.112  4378  4453 V RCTVRNET: Request complete: time=3706 name=unknown docid=4785458311528621 traceid=FyIblCA3lv9 code=200
+02-15 11:18:25.115   728   954 I SDM     : StrategyImpl::SetIdleTimeoutMs: Idle timeout: active = 70, inactive = 520
+02-15 11:18:25.117  3099  3099 I CppPanelService: VR Shell socket closed(ECONNRESET); shutting down fd: 33
+02-15 11:18:25.117  3099  3099 I CppPanelService: Quitting application via hardExit flag due to unexpected socket closure on fd 33.
+02-15 11:18:25.117  3099  3099 I AndroidPanelApp: Destroyed
+02-15 11:18:25.117  3099  3099 D [SUI] HostView: Destroying HostView
+02-15 11:18:25.117  3099  3099 D [SUI] EmptyView: Destroying EmptyView
+02-15 11:18:25.118  3099  3099 D [SUI] ProfileView: Destroying ProfileView
+02-15 11:18:25.118  3099  3099 D [SUI] AnytimeUIPanelAppBase: Releasing viewModel ProfileViewModel refCount: 1
+02-15 11:18:25.120  1936  2081 I Vsync   : Vsync 2939:  1 x 11.11 ms (72.00 Hz, at 45.352)
+02-15 11:18:25.122  1936  3375 I VrRuntimeService: DestroySwapChain: swapchain=131
+02-15 11:18:25.122  1936  3375 I VrRuntimeServer: DestroyTextureSwapChain: result destroyswapchain 1
+02-15 11:18:25.122  3099  3099 D [SUI] LibraryView: Hiding LibraryView
+02-15 11:18:25.122  3099  3099 D [SUI] LibraryLogger: Library Session ID destroyed
+02-15 11:18:25.123  1936  3375 I VrRuntimeService: DestroySwapChain: swapchain=129
+02-15 11:18:25.123  1936  3375 I VrRuntimeServer: DestroyTextureSwapChain: 0x710c64b000: 2D_EXTERNAL destroy deferred
+02-15 11:18:25.123  1936  3375 I VrRuntimeService: DestroySwapChain: swapchain=128
+02-15 11:18:25.123  1936  3375 I VrRuntimeServer: DestroyTextureSwapChain: 0x70f98b3000: 2D_EXTERNAL destroy deferred
+02-15 11:18:25.123  1936  3375 I VrRuntimeService: DestroySwapChain: swapchain=127
+02-15 11:18:25.123  1936  3375 I VrRuntimeServer: DestroyTextureSwapChain: 0x70f98ad000: 2D_EXTERNAL destroy deferred
+02-15 11:18:25.124  3099  3099 D [SUI] LibraryView: Destroying LibraryView
+02-15 11:18:25.124  1936  3375 I VrRuntimeService: DestroySwapChain: swapchain=132
+02-15 11:18:25.125  1936  3375 I VrRuntimeServer: DestroyTextureSwapChain: result destroyswapchain 1
+02-15 11:18:25.131  1936  2081 I Vsync   : Vsync 2940:  1 x 11.11 ms (72.00 Hz, at 45.363)
+02-15 11:18:25.149  1936  1973 E BufferQueueProducer: [SurfaceTexture-53-1936-1] dequeueBuffer: BufferQueue has been abandoned
+02-15 11:18:25.149   737   737 E CompositionEngine: ANativeWindow::dequeueBuffer failed for display [com.oculus.android_panel_app.AndroidPanelLayer-tablet] with error: -19
+02-15 11:18:25.149   737   737 W SurfaceFlinger: Dequeuing buffer for display [com.oculus.android_panel_app.AndroidPanelLayer-tablet] failed, bailing out of client composition for this frame
+02-15 11:18:25.149  1936  1973 E BufferQueueProducer: [SurfaceTexture-54-1936-2] dequeueBuffer: BufferQueue has been abandoned
+02-15 11:18:25.150   737   737 E CompositionEngine: ANativeWindow::dequeueBuffer failed for display [com.oculus.android_panel_app.AndroidPanelLayer-tabletNav] with error: -19
+02-15 11:18:25.150   737   737 W SurfaceFlinger: Dequeuing buffer for display [com.oculus.android_panel_app.AndroidPanelLayer-tabletNav] failed, bailing out of client composition for this frame
+02-15 11:18:25.150  1936  1973 E BufferQueueProducer: [SurfaceTexture-55-1936-3] dequeueBuffer: BufferQueue has been abandoned
+02-15 11:18:25.150   737   737 E CompositionEngine: ANativeWindow::dequeueBuffer failed for display [com.oculus.android_panel_app.AndroidPanelLayer-tabletContent] with error: -19
+02-15 11:18:25.150   737   737 W SurfaceFlinger: Dequeuing buffer for display [com.oculus.android_panel_app.AndroidPanelLayer-tabletContent] failed, bailing out of client composition for this frame
+02-15 11:18:25.163  1936  1973 E BufferQueueProducer: [SurfaceTexture-53-1936-1] dequeueBuffer: BufferQueue has been abandoned
+02-15 11:18:25.163   737   737 E CompositionEngine: ANativeWindow::dequeueBuffer failed for display [com.oculus.android_panel_app.AndroidPanelLayer-tablet] with error: -19
+02-15 11:18:25.163   737   737 W SurfaceFlinger: Dequeuing buffer for display [com.oculus.android_panel_app.AndroidPanelLayer-tablet] failed, bailing out of client composition for this frame
+02-15 11:18:25.193  4378  4433 V RCTVR_HERMES: Hermes Mem: numCollections 80, allocatedBytes 27282083, heapSize 57516032, va 33554432
+02-15 11:18:25.193  4378  4416 I RCTVR_Shutdown: JS synced
+02-15 11:18:25.194  4378  4416 I RCTVR_Shutdown: Native modules flushed
+02-15 11:18:25.194  4378  4416 I RCTVR_Shutdown: OnBackground complete
+02-15 11:18:25.413  3215  3256 I Clay    : [I]: EnvironmentSystem: Visibility is Unload, discarding cached scene: 'apk://com.oculus.environment.prod.spacestation/assets/scene.zip'
+02-15 11:18:25.430  3099  3099 D [SUI] DiskCache: Wrote bytes to file at /data/user/0/com.oculus.systemux/cache/library/apps
+02-15 11:18:25.431  3099  3099 D [SUI] LibraryStateHelper: Storing scroll position: 5
+02-15 11:18:25.432  3099  3099 D [SUI] AnytimeUIPanelAppBase: Releasing viewModel LibraryViewModel refCount: 0
+02-15 11:18:25.433  3099  3099 D [SUI] AnytimeUIPanelAppBase: Releasing viewModel SettingsViewModel refCount: 1
+02-15 11:18:25.439  3099  3099 D [SUI] ContentHostView: Destroying ContentHostView
+02-15 11:18:25.440  3099  3099 D [SUI] EmptyContentView: Hiding EmptyContentView
+02-15 11:18:25.440  3099  3099 D [SUI] EmptyContentView: Destroying EmptyContentView
+02-15 11:18:25.444  3099  3099 D [SUI] NavHostView: Destroying NavHostView
+02-15 11:18:25.447   674   674 D PreferencesService: PreferencesListener DeathNotifier destruct ... 
+02-15 11:18:25.449  3099  3099 D [SUI] AnytimeUIPanelAppBase: Releasing viewModel DestinationUIViewModel refCount: 1
+02-15 11:18:25.449  3099  3099 D [SUI] AnytimeUIPanelAppBase: Releasing viewModel SharingViewModel refCount: 0
+02-15 11:18:25.449  3099  3099 D [SUI] SharingViewModel: Destroying ViewModel
+02-15 11:18:25.450  3099  3099 D [SUI] SharingViewModel: clearAbuseReportRecordingTimer
+02-15 11:18:25.450  3099  3099 D [SUI] BarView: Destroying BarView
+02-15 11:18:25.450  3099  3099 D [SUI] StatusView: Destroying StatusView
+02-15 11:18:25.450  3099  3099 D [SUI] AnytimeUIPanelAppBase: Releasing viewModel StatusViewModel refCount: 0
+02-15 11:18:25.450  3099  3099 D [SUI] StatusViewModel: Destroying ViewModel
+02-15 11:18:25.452  3099  3099 D [SUI] SocialViewModel: removePartyObserver(): -$$Lambda$StatusView$Eblbqs_TRv6aHsOl1NbHWjpYlII
+02-15 11:18:25.452  3099  3099 D [SUI] AnytimeUIPanelAppBase: Releasing viewModel SocialViewModel refCount: 1
+02-15 11:18:25.452  3099  3099 D [SUI] AnytimeUIPanelAppBase: Releasing viewModel BarViewModel refCount: 0
+02-15 11:18:25.452  3099  3099 D [SUI] BarViewModel: Destroying BarViewModel
+02-15 11:18:25.452  3099  3099 D [SUI] AnytimeUIPanelAppBase: Releasing viewModel SettingsViewModel refCount: 0
+02-15 11:18:25.452  3099  3099 D [SUI] SettingsViewModel: Destroying ViewModel
+02-15 11:18:25.453  3099  3099 D [SUI] AnytimeUIPanelAppBase: Releasing viewModel ProfileViewModel refCount: 0
+02-15 11:18:25.453  3099  3099 D [SUI] ProfileViewModel: Destroying ViewModel
+02-15 11:18:25.453  3099  3099 D [SUI] AnytimeUIPanelAppBase: Releasing viewModel DestinationUIViewModel refCount: 0
+02-15 11:18:25.453  3099  3099 D [SUI] DestinationUIViewModel: Destroying ViewModel
+02-15 11:18:25.454  3099  3099 D [SUI] AnytimeUIPanelAppBase: Releasing viewModel SocialViewModel refCount: 0
+02-15 11:18:25.454  3099  3099 D [SUI] SocialViewModel: Destroying ViewModel
+02-15 11:18:25.454  3099  3099 V NotificationDatasetProxy: Removing listener com.oculus.panelapp.anytimeui.v2.bar.BarView{10019cf V.E...... ........ 0,0-845,110 #7f080072 app:id/bar_view}
+02-15 11:18:25.455  3099  3099 I [SUI] AnytimeUIAndroidPanelAppV2: Destroyed AUI PanelApp, isInOverlay: false, instanceCount: 0
+02-15 11:18:25.455  3099  3099 I AndroidPanelApp: destroyed
+02-15 11:18:25.455  3099  3099 I AndroidPanelLayer: Destroying presentation for layer "tablet".
+02-15 11:18:25.471  1022  1039 I DisplayManagerService: Display device removed: DisplayDeviceInfo{"com.oculus.android_panel_app.AndroidPanelLayer-tablet": uniqueId="virtual:com.oculus.systemux,10026,com.oculus.android_panel_app.AndroidPanelLayer-tablet,0", 960 x 425, modeId 6, defaultModeId 6, supportedModes [{id=6, width=960, height=425, fps=60.0}], colorMode 0, supportedColorModes [0], HdrCapabilities null, density 200, 200.0 x 200.0 dpi, appVsyncOff 0, presDeadline 16666666, touch NONE, rotation 0, type VIRTUAL, state ON, owner com.oculus.systemux (uid 10026), FLAG_PRIVATE, FLAG_NEVER_BLANK, FLAG_OWN_CONTENT_ONLY}
+02-15 11:18:25.475  3099  3099 I AndroidPanelLayer: Destroying presentation for layer "tabletNav".
+02-15 11:18:25.487  1022  1470 E InputDispatcher: Window handle Window{46ea93a u0 com.oculus.systemux} has no registered input channel
+02-15 11:18:25.495  1022  1470 I DisplayManagerService: Display device removed: DisplayDeviceInfo{"com.oculus.android_panel_app.AndroidPanelLayer-tabletNav": uniqueId="virtual:com.oculus.systemux,10026,com.oculus.android_panel_app.AndroidPanelLayer-tabletNav,0", 270 x 425, modeId 7, defaultModeId 7, supportedModes [{id=7, width=270, height=425, fps=60.0}], colorMode 0, supportedColorModes [0], HdrCapabilities null, density 200, 200.0 x 200.0 dpi, appVsyncOff 0, presDeadline 16666666, touch NONE, rotation 0, type VIRTUAL, state ON, owner com.oculus.systemux (uid 10026), FLAG_PRIVATE, FLAG_NEVER_BLANK, FLAG_OWN_CONTENT_ONLY}
+02-15 11:18:25.504  3099  3099 I AndroidPanelLayer: Destroying presentation for layer "#main".
+02-15 11:18:25.516  1022  1470 I DisplayManagerService: Display device removed: DisplayDeviceInfo{"com.oculus.android_panel_app.AndroidPanelLayer-#main": uniqueId="virtual:com.oculus.systemux,10026,com.oculus.android_panel_app.AndroidPanelLayer-#main,0", 845 x 110, modeId 5, defaultModeId 5, supportedModes [{id=5, width=845, height=110, fps=60.0}], colorMode 0, supportedColorModes [0], HdrCapabilities null, density 200, 200.0 x 200.0 dpi, appVsyncOff 0, presDeadline 16666666, touch NONE, rotation 0, type VIRTUAL, state ON, owner com.oculus.systemux (uid 10026), FLAG_PRIVATE, FLAG_NEVER_BLANK, FLAG_OWN_CONTENT_ONLY}
+02-15 11:18:25.521  3099  3099 I AndroidPanelLayer: Destroying presentation for layer "tabletContent".
+02-15 11:18:25.528  1022  1039 E InputDispatcher: Window handle Window{b0e1f06 u0 com.oculus.systemux} has no registered input channel
+02-15 11:18:25.532  1022  1470 I DisplayManagerService: Display device removed: DisplayDeviceInfo{"com.oculus.android_panel_app.AndroidPanelLayer-tabletContent": uniqueId="virtual:com.oculus.systemux,10026,com.oculus.android_panel_app.AndroidPanelLayer-tabletContent,0", 690 x 425, modeId 8, defaultModeId 8, supportedModes [{id=8, width=690, height=425, fps=60.0}], colorMode 0, supportedColorModes [0], HdrCapabilities null, density 200, 200.0 x 200.0 dpi, appVsyncOff 0, presDeadline 16666666, touch NONE, rotation 0, type VIRTUAL, state ON, owner com.oculus.systemux (uid 10026), FLAG_PRIVATE, FLAG_NEVER_BLANK, FLAG_OWN_CONTENT_ONLY}
+02-15 11:18:25.543  3099  3099 I Choreographer: Skipped 47 frames!  The application may be doing too much work on its main thread.
+02-15 11:18:25.545  3099  3099 D CppPanelService: onDestroy()
+02-15 11:18:25.546  1554  5047 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1057 android.content.ContextWrapper.sendBroadcast:448 X.Je.A00:155 X.Je.handleMessage:80 android.os.Handler.dispatchMessage:107 
+02-15 11:18:25.553  1022  1470 I ActivityManager: Killing 2681:com.oculus.linefrequencyservice/1000 (adj 975): empty #17
+02-15 11:18:25.558  1022  1470 I ActivityManager: Killing 2598:com.android.localtransport/1000 (adj 985): empty #18
+02-15 11:18:25.589   681   681 I Zygote  : Process 2681 exited due to signal 9 (Killed)
+02-15 11:18:25.592   681   681 I Zygote  : Process 2598 exited due to signal 9 (Killed)
+02-15 11:18:25.597   792  1850 V C2Store : in ~ComponentModule
+02-15 11:18:25.597   792  1850 V C2Store : unloading dll
+02-15 11:18:25.599  1936  2081 I TimeWarpProgs: loaded binary layerProgram 1:0x48207:0x0 in 3.2 ms
+02-15 11:18:25.599  1022  1122 I libprocessgroup: Successfully killed process cgroup uid 1000 pid 2681 in 42ms
+02-15 11:18:25.600  1022  1122 I libprocessgroup: Successfully killed process cgroup uid 1000 pid 2598 in 0ms
+02-15 11:18:25.966  2617  5038 I Telemetry: App memory usage: PSS=163MB DalvikPSS=1 MB
+02-15 11:18:25.968  2617  5038 I VrApi   : FPS=1/72,Prd=0ms,Tear=0,Early=0,Stale=3,VSnc=0,Lat=0,Fov=0D,CPU4/GPU=2/3,1171/490MHz,OC=FF,TA=0/0/0,SP=N/N/N,Mem=1353MHz,Free=3705MB,PLS=0,Temp=35.2C/0.0C,TW=2.62ms,App=0.67ms,GD=0.00ms,CPU&GPU=0.00ms,LCnt=3,GPU%=0.25,CPU%=0.08(W0.10),DSF=1.00
+02-15 11:18:26.093   734  2375 I hash_map_utils: key: 'snd_device_in' value: ''
+02-15 11:18:26.095   734  2375 I hash_map_utils: key: 'snd_device_out' value: ''
+02-15 11:18:26.324  2617  2617 V ReviewPermissionsFragment: Permission grant via permission review changeId=-1903672074234659801 uid=10093 packageName=com.YourCompany.KilncroftLane permission=android.permission.READ_EXTERNAL_STORAGE granted=true
+02-15 11:18:26.324  2617  2617 V ReviewPermissionsFragment: Permission grant via permission review changeId=-1903672074234659801 uid=10093 packageName=com.YourCompany.KilncroftLane permission=android.permission.WRITE_EXTERNAL_STORAGE granted=true
+02-15 11:18:26.324  2617  2617 V ReviewPermissionsFragment: Permission grant via permission review changeId=-1903672074234659801 uid=10093 packageName=com.YourCompany.KilncroftLane permission=android.permission.ACCESS_MEDIA_LOCATION granted=true
+02-15 11:18:26.329   698   920 I audio_hw_primary: getting vr mode to 0
+02-15 11:18:26.330   734  1008 I hash_map_utils: key: 'vr_audio_mode_on' value: ''
+02-15 11:18:26.331   734  1008 I AudioPolicyManagerCustom: VR mode is 0, switch to primary output if request is for fast|raw
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: Cannot unmark com.android.vending.CHECK_LICENSE requested by com.YourCompany.KilncroftLane as review required
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: java.lang.IllegalArgumentException: Unknown permission: com.android.vending.CHECK_LICENSE
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: 	at android.os.Parcel.createException(Parcel.java:2075)
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: 	at android.os.Parcel.readException(Parcel.java:2039)
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: 	at android.os.Parcel.readException(Parcel.java:1987)
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: 	at android.content.pm.IPackageManager$Stub$Proxy.updatePermissionFlags(IPackageManager.java:5605)
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: 	at android.app.ApplicationPackageManager.updatePermissionFlags(ApplicationPackageManager.java:713)
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: 	at com.android.packageinstaller.permission.ui.handheld.ReviewPermissionsFragment.confirmPermissionsReview(ReviewPermissionsFragment.java:239)
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: 	at com.android.packageinstaller.permission.ui.handheld.ReviewPermissionsFragment.onClick(ReviewPermissionsFragment.java:154)
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: 	at android.view.View.performClick(View.java:7259)
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: 	at android.view.View.performClickInternal(View.java:7236)
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: 	at android.view.View.access$3600(View.java:801)
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: 	at android.view.View$PerformClick.run(View.java:27892)
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: 	at android.os.Handler.handleCallback(Handler.java:883)
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: 	at android.os.Looper.loop(Looper.java:214)
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: 	at android.app.ActivityThread.main(ActivityThread.java:7387)
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: 	at java.lang.reflect.Method.invoke(Native Method)
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: Caused by: android.os.RemoteException: Remote stack trace:
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: 	at com.android.server.pm.permission.PermissionManagerService.updatePermissionFlags(PermissionManagerService.java:2937)
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: 	at com.android.server.pm.permission.PermissionManagerService.access$2000(PermissionManagerService.java:122)
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: 	at com.android.server.pm.permission.PermissionManagerService$PermissionManagerServiceInternalImpl.updatePermissionFlags(PermissionManagerService.java:3249)
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: 	at com.android.server.pm.PackageManagerService.updatePermissionFlags(PackageManagerService.java:5903)
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: 	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:2377)
+02-15 11:18:26.332  2617  2617 E ReviewPermissionsFragment: 
+02-15 11:18:26.333   734  1008 D AudioFlinger: GK:EnableAudioWakeLockRemoval = 1
+02-15 11:18:26.333  2617  2617 E ReviewPermissionsFragment: Cannot unmark com.android.vending.BILLING requested by com.YourCompany.KilncroftLane as review required
+02-15 11:18:26.333  2617  2617 E ReviewPermissionsFragment: java.lang.IllegalArgumentException: Unknown permission: com.android.vending.BILLING
+02-15 11:18:26.333  2617  2617 E ReviewPermissionsFragment: 	at android.os.Parcel.createException(Parcel.java:2075)
+02-15 11:18:26.333  2617  2617 E ReviewPermissionsFragment: 	at android.os.Parcel.readException(Parcel.java:2039)
+02-15 11:18:26.333  2617  2617 E ReviewPermissionsFragment: 	at android.os.Parcel.readException(Parcel.java:1987)
+02-15 11:18:26.333  2617  2617 E ReviewPermissionsFragment: 	at android.content.pm.IPackageManager$Stub$Proxy.updatePermissionFlags(IPackageManager.java:5605)
+02-15 11:18:26.333  2617  2617 E ReviewPermissionsFragment: 	at android.app.ApplicationPackageManager.updatePermissionFlags(ApplicationPackageManager.java:713)
+02-15 11:18:26.333  2617  2617 E ReviewPermissionsFragment: 	at com.android.packageinstaller.permission.ui.handheld.ReviewPermissionsFragment.confirmPermissionsReview(ReviewPermissionsFragment.java:239)
+02-15 11:18:26.333  2617  2617 E ReviewPermissionsFragment: 	at com.android.packageinstaller.permission.ui.handheld.ReviewPermissionsFragment.onClick(ReviewPermissionsFragment.java:154)
+02-15 11:18:26.333  2617  2617 E ReviewPermissionsFragment: 	at android.view.View.performClick(View.java:7259)
+02-15 11:18:26.333  2617  2617 E ReviewPermissionsFragment: 	at android.view.View.performClickInternal(View.java:7236)
+02-15 11:18:26.333  2617  2617 E ReviewPermissionsFragment: 	at android.view.View.access$3600(View.java:801)
+02-15 11:18:26.333  2617  2617 E ReviewPermissionsFragment: 	at android.view.View$PerformClick.run(View.java:27892)
+02-15 11:18:26.333  2617  2617 E ReviewPermissionsFragment: 	at android.os.Handler.handleCallback(Handler.java:883)
+02-15 11:18:26.333  2617  2617 E ReviewPermissionsFragment: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+02-15 11:18:26.333  2617  2617 E ReviewPermissionsFragment: 	at android.os.Looper.loop(Looper.java:214)
+02-15 11:18:26.333  2617  2617 E ReviewPermissionsFragment: 	at android.app.ActivityThread.main(ActivityThread.java:7387)
+02-15 11:18:26.333  2617  2617 E ReviewPermissionsFragment: 	at java.lang.reflect.Method.invoke(Native Method)
+02-15 11:18:26.333  2617  2617 E ReviewPermissionsFragment: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+02-15 11:18:26.333  2617  2617 E ReviewPermissionsFragment: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+02-15 11:18:26.334   734  1008 D AF::TrackHandle: OpPlayAudio: track:59 uid:1000 pkg:com.android.networkstack.inprocess usage:13 not muted
+02-15 11:18:26.337  1022  1264 W AudioTrack: createTrack_l(538976288): AUDIO_OUTPUT_FLAG_FAST denied by server; frameCount 0 -> 4146
+02-15 11:18:26.338  1022  3284 I ActivityTaskManager: START u0 {flg=0x10000000 cmp=com.YourCompany.KilncroftLane/com.epicgames.ue4.GameActivity} from uid 2000
+02-15 11:18:26.344   720   791 D android.hardware.power@1.3-service-libperfmgr: LAUNCH ON
+02-15 11:18:26.360  2617  5036 W VrApi   : ovr_SubmitFrameInternal: FrameIndex discontinuity: Expected 104, Received 103
+02-15 11:18:26.373  2617  5036 I VrApi   : ---------- vrapi_LeaveVrMode [start] ----------
+02-15 11:18:26.374  2617  5036 D VrApi   : targetSDKVersion 29
+02-15 11:18:26.378  2617  5036 I VrRuntimeClient: DEVICE MODEL NUMBER = Quest 2
+02-15 11:18:26.378  2617  5036 I VrRuntimeClient: DEVICE HARDWARE = hollywood
+02-15 11:18:26.378  2617  5036 I VrRuntimeClient: DEVICE BUILD NAME = user-1396980.8370.0
+02-15 11:18:26.378  2617  5036 I VrRuntimeClient: DEVICE BUILD TYPE = user
+02-15 11:18:26.378  2617  5036 I VrRuntimeClient: DEVICE OS VERSION = 10
+02-15 11:18:26.378  2617  5036 I VrRuntimeClient: VRRUNTIME VERSION = VRAPI_VERSION_BEGIN { 1.1.42.0-270435163-270435163 Jan 28 2021 12:41:13 Development } RELEASE
+02-15 11:18:26.378  2617  5036 I VrRuntimeClient: API LOADER VERSION = 1.1.34.0
+02-15 11:18:26.378  2617  5036 I VrRuntimeClient: VRDRIVER VERSION = 25.0.0.72.658
+02-15 11:18:26.378  2617  5036 I VrRuntimeClient: APP NAME = Permission controller
+02-15 11:18:26.378  2617  5036 I VrRuntimeClient: APP VERSION = 29 system image versionCode 299900000 internalVersionName <none>
+02-15 11:18:26.378  2617  5036 I VrRuntimeClient: APP VR TYPE = <none>
+02-15 11:18:26.378  2617  5036 I VrRuntimeClient: APP MODE TYPE = <none>
+02-15 11:18:26.378  2617  5036 I VrRuntimeClient: APP PACKAGE NAME = com.android.permissioncontroller
+02-15 11:18:26.378  2617  5036 I VrRuntimeClient: APP ACTIVITY CLASS = com.oculus.os.DialogContext
+02-15 11:18:26.378  1936  2081 I TimeWarp: SetClientSurfaceSecureFlag: secure=0
+02-15 11:18:26.379  2617  5036 D BatteryReceiver: Unregistering battery receiver
+02-15 11:18:26.380  2617  5038 I VrApi   : FPS=1/72,Prd=0ms,Tear=0,Early=0,Stale=3,VSnc=0,Lat=0,Fov=0D,CPU4/GPU=2/3,2419/490MHz,OC=FF,TA=0/0/0,SP=N/N/N,Mem=2092MHz,Free=3706MB,PLS=0,Temp=35.2C/0.0C,TW=2.62ms,App=0.67ms,GD=0.00ms,CPU&GPU=0.00ms,LCnt=3,GPU%=0.25,CPU%=0.08(W0.10),DSF=1.00
+02-15 11:18:26.380  2617  5036 I VrApi   : OVR::Stats thread stopped
+02-15 11:18:26.380  2617  5036 I InputDeviceManager: ovrInputDeviceManager::~ovrInputDeviceManager
+02-15 11:18:26.384  2617  5037 I ClientInputThread_Internal: InputThreadRun ShutdownRequest received
+02-15 11:18:26.385  2617  5036 D InputHooksJava: Disabling Java Input Hooks
+02-15 11:18:26.385  1936  1996 D VrRuntimeService: enableRendering: 2617:com.android.permissioncontroller: null enable: false
+02-15 11:18:26.385  1936  1996 I ClientMgr: ClientMgr::EnableRendering 2617:com.android.permissioncontroller : type 0 comp-id 7: disable
+02-15 11:18:26.385  1936  1996 I VrRuntimeServer: DisableCompositorClient: 7
+02-15 11:18:26.385  1936  1996 I TimeWarp: Disable client 7
+02-15 11:18:26.385  1936  1996 I TimeWarp: DisableClient: frame flush required: 1
+02-15 11:18:26.394  1936  1996 I UnifiedTelemetryWrapper: Stopped UT session render:com.android.permissioncontroller
+02-15 11:18:26.394  1936  2295 I ClientMgr: Non-overlay clients rendering status has changed: prev=5, curr=6, enabled=0
+02-15 11:18:26.395  1936  2295 I TimeWarp: Enable client 0
+02-15 11:18:26.395  1936  2295 I VrRuntimeServer: EnableCompositorClient client(0): layer placement(4294967291) flags(0) sm(0x71133dd220)
+02-15 11:18:26.395  2617  5046 I FenceChecker: FenceChecker::MainLoop - ended
+02-15 11:18:26.395  2617  5036 I TrackingServiceClient: OVR::TrackingService::ClientSetInterface
+02-15 11:18:26.395  2617  5036 D TrackingServiceConnectionNative: onClientDisconnect
+02-15 11:18:26.395   802   802 I TrackingService: Unregistering client by ITrackingService.unregisterClient
+02-15 11:18:26.395   802   802 I TrackingService: TrackingServiceHost Unregistering client: com.android.permissioncontroller#2617
+02-15 11:18:26.395  2617  5036 D BinderConnection: Disconnecting from TrackingService service
+02-15 11:18:26.395  2617  5036 D TrackingServiceConnectionNative: onDisconnected
+02-15 11:18:26.395  2617  5036 I TrackingServiceClient: OVR::TrackingService::ClientSetInterface
+02-15 11:18:26.395  2617  5036 I VrApi   : ---------- vrapi_LeaveVrMode [end] ----------
+02-15 11:18:26.395  1936  5035 I VrRuntimeService: DestroySwapChain: swapchain=135
+02-15 11:18:26.395  1936  5035 I VrRuntimeServer: DestroyTextureSwapChain: result destroyswapchain 1
+02-15 11:18:26.396  1936  5035 I VrRuntimeService: DestroySwapChain: swapchain=140
+02-15 11:18:26.396  1936  5035 I VrRuntimeServer: DestroyTextureSwapChain: 0x70fcc27000: 2D_EXTERNAL destroy deferred
+02-15 11:18:26.396  1936  5035 I VrRuntimeService: DestroySwapChain: swapchain=136
+02-15 11:18:26.396  1936  5035 I VrRuntimeServer: DestroyTextureSwapChain: result destroyswapchain 1
+02-15 11:18:26.396  1936  5035 I VrRuntimeService: DestroySwapChain: swapchain=137
+02-15 11:18:26.397  1936  5035 I VrRuntimeServer: DestroyTextureSwapChain: result destroyswapchain 1
+02-15 11:18:26.399  1936  5035 I VrRuntimeService: DestroySwapChain: swapchain=138
+02-15 11:18:26.400  1936  5035 I VrRuntimeServer: DestroyTextureSwapChain: result destroyswapchain 1
+02-15 11:18:26.400  2617  5036 E libEGL  : call to OpenGL ES API with no current context (logged once per thread)
+02-15 11:18:26.400  2617  5036 I JniUtils: Creating temporary JNIEnv. This is a heavy operation and should be infrequent. To optimize, use JNI AttachCurrentThread on calling thread
+02-15 11:18:26.400  2617  5036 W SwapChain_GLES: DestroyImportedTextureResourcesGLES: must be called with the same EGLContext current (0x71fc6f9480) when ImportTextureSwapChain was called
+02-15 11:18:26.400  1936  5035 I VrRuntimeService: DestroySwapChain: swapchain=139
+02-15 11:18:26.400  1936  5035 I VrRuntimeServer: DestroyTextureSwapChain: result destroyswapchain 1
+02-15 11:18:26.403  1022  3284 W InputReader: Device has associated, but no associated display id.
+02-15 11:18:26.409   734  1848 D AF::TrackHandle: OpPlayAudio: track:58 uid:10026 pkg:com.oculus.systemux usage:10 not muted
+02-15 11:18:26.409   734  1008 D AF::TrackHandle: OpPlayAudio: track:56 uid:10014 pkg:com.oculus.shellenv usage:1 muted
+02-15 11:18:26.412   734  1009 D AF::TrackHandle: OpPlayAudio: track:59 uid:1000 pkg:com.android.networkstack.inprocess usage:13 not muted
+02-15 11:18:26.425   682   682 D Zygote  : Forked child process 5057
+02-15 11:18:26.429   734  1008 D AF::TrackHandle: OpPlayAudio: track:58 uid:10026 pkg:com.oculus.systemux usage:10 not muted
+02-15 11:18:26.429   734  1009 D AF::TrackHandle: OpPlayAudio: track:59 uid:1000 pkg:com.android.networkstack.inprocess usage:13 not muted
+02-15 11:18:26.429   734  2375 D AF::TrackHandle: OpPlayAudio: track:56 uid:10014 pkg:com.oculus.shellenv usage:1 muted
+02-15 11:18:26.429  1022  1120 I ActivityManager: Start proc 5057:com.YourCompany.KilncroftLane/u0a93 for activity {com.YourCompany.KilncroftLane/com.epicgames.ue4.GameActivity}
+02-15 11:18:26.433  2193  2193 D UnifiedTelemetryLogger: Already initialized.
+02-15 11:18:26.423  5057  5057 W main    : type=1400 audit(0.0:55): avc: granted { read } for name="u:object_r:net_dns_prop:s0" dev="tmpfs" ino=15823 scontext=u:r:untrusted_app_25:s0:c512,c768 tcontext=u:object_r:net_dns_prop:s0 tclass=file
+02-15 11:18:26.440  5057  5057 I y.KilncroftLan: Late-enabling -Xcheck:jni
+02-15 11:18:26.489  5057  5057 E y.KilncroftLan: Unknown bits set in runtime_flags: 0x8000
+02-15 11:18:26.520  1022  1503 W InputReader: Device has associated, but no associated display id.
+02-15 11:18:26.527   734  2375 D AF::TrackHandle: OpPlayAudio: track:56 uid:10014 pkg:com.oculus.shellenv usage:1 muted
+02-15 11:18:26.528   734  1008 D AF::TrackHandle: OpPlayAudio: track:58 uid:10026 pkg:com.oculus.systemux usage:10 not muted
+02-15 11:18:26.529   734  1009 D AF::TrackHandle: OpPlayAudio: track:59 uid:1000 pkg:com.android.networkstack.inprocess usage:13 not muted
+02-15 11:18:26.539   680   908 I netd    : firewallSetUidRule(2, 10093, 1) <0.01ms>
+02-15 11:18:26.544  5057  5057 I y.KilncroftLan: The ClassLoaderContext is a special shared library.
+02-15 11:18:26.604  2299  2342 I [OAO] ShellOverlayApp: Sleep timeout exceeded. Timeout:46.833972, Now:46.836029. Sleeping... 
+02-15 11:18:26.604  2299  2342 I [OAO] ShellOverlayApp: WaitForWake: VrThread entering waiting state
+02-15 11:18:26.636  5057  5081 V UE4     : [NetworkChangedManager] Network Available: 100
+02-15 11:18:26.636  5057  5081 V UE4     : [NetworkChangedManager] No network state set yet, setting naive network state checking connection fully.
+02-15 11:18:26.636  5057  5081 V UE4     : [NetworkChangedManager] Network connectivity changed. New connectivity state: CONNECTION_AVAILABLE
+02-15 11:18:26.637  5057  5081 V UE4     : [NetworkChangedManager] Network Capabilities changed, has Internet: true
+02-15 11:18:26.640  5057  5084 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+02-15 11:18:26.663  2133  2133 I PlatformPlugin: [PlatformPluginManager] Stopping party chat
+02-15 11:18:26.663  2133  2133 I OVRPlatform: [PartyChatInterchangeable] Stop PartyChat.
+02-15 11:18:26.664  5057  5084 V UE4     : [NetworkChangedManager] Unable to connect to: https://example.com/
+02-15 11:18:26.664  5057  5084 V UE4     : [NetworkChangedManager] Network connectivity changed. New connectivity state: NO_CONNECTION
+02-15 11:18:26.664  5057  5084 V UE4     : [NetworkChangedManager] No listeners so not retrying. When a listener is added the connection will be checked.
+02-15 11:18:26.664  5057  5084 V UE4     : [NetworkChangedManager] No listeners so not retrying. When a listener is added the connection will be checked.
+02-15 11:18:26.664  5057  5084 V UE4     : [NetworkChangedManager] Full network check complete. State: NO_CONNECTION
+02-15 11:18:26.672  5057  5057 D UE4     : Used memory before allocating anything was 99.14MB
+02-15 11:18:26.762  5057  5057 D UE4     : In the JNI_OnLoad function
+02-15 11:18:26.763  5057  5057 D UE4     : [JNI] - Failed to determine if app purchasing is enabled!
+02-15 11:18:26.764  5057  5057 D UE4     : Path found as '/storage/emulated/0'
+02-15 11:18:26.765  5057  5057 D UE4     : Font Path found as '/system/fonts/'
+02-15 11:18:26.765  5057  5057 D UE4     : In the JNI_OnLoad function 5
+02-15 11:18:26.766  5057  5057 W linker  : Warning: "/data/app/com.YourCompany.KilncroftLane-_LbIOtDVXZGDuoBCzUbAvA==/lib/arm/libOVRPlugin.so" has no DT_SONAME (will use libOVRPlugin.so instead) and will not work when the app moves to API level 23 or later (https://android.googlesource.com/platform/bionic/+/master/missing-soname-enforced-for-api-level-23) (allowing for now because this app's target API level is still 21)
+02-15 11:18:26.767  5057  5057 D OVRPlugin: JNI_OnLoad
+02-15 11:18:26.787  5057  5107 D UE4     : Entering native app glue main function
+02-15 11:18:26.787  5057  5107 D UE4     : Created event thread
+02-15 11:18:26.787  5057  5107 D UE4     : Entered AndroidMain()
+02-15 11:18:26.787  5057  5108 D UE4     : Entering event processing thread engine entry point
+02-15 11:18:26.787  5057  5108 D UE4     : Prepared looper for event thread
+02-15 11:18:26.787  5057  5108 D UE4     : Passed callback initialization
+02-15 11:18:26.787  5057  5108 D UE4     : Passed sensor initialization
+02-15 11:18:26.787  5057  5107 D UE4     : Controller interface supported
+02-15 11:18:26.793  5057  5057 D UE4     : [GameActivity] Vulkan version: 1.1.0
+02-15 11:18:26.794  5057  5057 D UE4     : [GameActivity] Vulkan level: 1
+02-15 11:18:26.795  5057  5057 D UE4     : [GameActivity] Found DepthBufferPreference = 0
+02-15 11:18:26.795  5057  5057 D UE4     : [GameActivity] Found bPackageDataInsideApk = 0
+02-15 11:18:26.795  5057  5057 D UE4     : [GameActivity] Found ProjectName = KilncroftLane
+02-15 11:18:26.795  5057  5057 D UE4     : [GameActivity] Found AppType = 
+02-15 11:18:26.795  5057  5057 D UE4     : [GameActivity] Found bHasOBBFiles = 0
+02-15 11:18:26.795  5057  5057 D UE4     : [GameActivity] Found bVerifyOBBOnStartUp = false
+02-15 11:18:26.795  5057  5057 D UE4     : [GameActivity] UI hiding set to true
+02-15 11:18:26.795  5057  5057 D UE4     : [GameActivity] Display cutout set to false
+02-15 11:18:26.795  5057  5057 D UE4     : [GameActivity] BuildConfiguration set to Development
+02-15 11:18:26.795  5057  5057 D UE4     : [GameActivity] UseExternalFilesDir set to false
+02-15 11:18:26.795  5057  5057 D UE4     : [GameActivity] PublicLogFiles set to false
+02-15 11:18:26.795  5057  5057 D UE4     : [GameActivity] AllowIMU set to true
+02-15 11:18:26.795  5057  5057 D UE4     : [GameActivity] SupportsVulkan set to false
+02-15 11:18:26.795  5057  5057 D UE4     : [GameActivity] Found Oculus Mobile mode = vr_only
+02-15 11:18:26.796  5057  5057 D UE4     : [GameActivity] Using commandline from: /storage/emulated/0/UE4Game/KilncroftLane/UE4CommandLine.txt
+02-15 11:18:26.796  5057  5057 D UE4     : [GameActivity] Parsing commandline: ../../../KilncroftLane/KilncroftLane.uproject  /Game/Maps/QuestQSMap -Messaging -SessionId=DEFA2333462A0BA1292A8F90AEBAC818 -SessionOwner="Nadia" -SessionName="Launch On Device" -iterative
+02-15 11:18:26.797  5057  5057 I AdrenoGLES-0: QUALCOMM build                   : 09c6a36, I5e696c022b
+02-15 11:18:26.797  5057  5057 I AdrenoGLES-0: Build Date                       : 12/07/20
+02-15 11:18:26.797  5057  5057 I AdrenoGLES-0: OpenGL ES Shader Compiler Version: EV031.35.01.02
+02-15 11:18:26.797  5057  5057 I AdrenoGLES-0: Local Branch                     : 
+02-15 11:18:26.797  5057  5057 I AdrenoGLES-0: Remote Branch                    : refs/tags/AU_LINUX_ANDROID_LA.UM.8.12.R1.10.00.00.561.144
+02-15 11:18:26.797  5057  5057 I AdrenoGLES-0: Remote Branch                    : NONE
+02-15 11:18:26.797  5057  5057 I AdrenoGLES-0: Reconstruct Branch               : NOTHING
+02-15 11:18:26.797  5057  5057 I AdrenoGLES-0: Build Config                     : S P 8.0.12 AArch32
+02-15 11:18:26.797  5057  5057 I AdrenoGLES-0: Driver Path                      : /vendor/lib/egl/libGLESv2_adreno.so
+02-15 11:18:26.801  5057  5057 I AdrenoGLES-0: PFP: 0x016dd093, ME: 0x00000000
+02-15 11:18:26.811  5057  5057 D UE4     : [GameActivity] Hardware: Qualcomm Technologies, Inc KONA
+02-15 11:18:26.811  5057  5057 D UE4     : [GameActivity] ro.hardware: hollywood
+02-15 11:18:26.812  5057  5057 D UE4     : [GameActivity] Memory: 5839 MB
+02-15 11:18:26.814  5057  5057 D UE4     : [GameActivity] UseAffinity: false
+02-15 11:18:26.814  5057  5057 D UE4     : [GameActivity] BigCoreMask: 0xffff
+02-15 11:18:26.814  5057  5057 D UE4     : [GameActivity] LittleCoreMask: 0x0
+02-15 11:18:26.814  5057  5057 D UE4     : [GameActivity] APK path: /data/app/com.YourCompany.KilncroftLane-_LbIOtDVXZGDuoBCzUbAvA==/base.apk
+02-15 11:18:26.815  5057  5057 D UE4     : [GameActivity] OBB in APK: false
+02-15 11:18:26.815  5057  5057 D UE4     : InternalFilePath found as '/data/user/0/com.YourCompany.KilncroftLane/files'
+02-15 11:18:26.815  5057  5057 D UE4     : ExternalFilePath found as '/storage/emulated/0/Android/data/com.YourCompany.KilncroftLane/files'
+02-15 11:18:26.816  5057  5057 D UE4     : App is running in Landscape
+02-15 11:18:26.816  5057  5057 D UE4     : [GameActivity] Android version is 10
+02-15 11:18:26.816  5057  5057 D UE4     : [GameActivity] Android manufacturer is Oculus
+02-15 11:18:26.816  5057  5057 D UE4     : [GameActivity] Android model is Quest
+02-15 11:18:26.816  5057  5057 D UE4     : [GameActivity] Android build number is user-1396980.8370.0
+02-15 11:18:26.816  5057  5057 D UE4     : [GameActivity] OS language is set to en_GB
+02-15 11:18:26.816  5057  5057 D UE4     : [GameActivity] Debugger attached is false
+02-15 11:18:26.857  1936  2295 I PerformanceManager: SetClockLevels: Apply pending clock request change: 2,3 -> 2,2
+02-15 11:18:26.858  1936  2034 I Clocks  : ReleaseClocks - start
+02-15 11:18:26.858  3215  3256 I Clay    : [I]: BaseApp: Entering hibernation now
+02-15 11:18:26.858   720   789 W libperfmgr: Failed to write to node: /sys/class/devfreq/soc:qcom,cpu-cpu-llcc-bw/max_freq with value: 2288, fd: 10
+02-15 11:18:26.858   720   789 W libperfmgr: Failed to write to node: /sys/class/devfreq/soc:qcom,cpu-llcc-ddr-bw/max_freq with value: 762, fd: 11
+02-15 11:18:26.858  1936  2034 I Clocks  : ReleaseClocks - end (0.7 ms)
+02-15 11:18:26.858  1936  2034 I Clocks  : LockClocks( cpu=2, gpu=2 ) - start
+02-15 11:18:26.858   720   791 D android.hardware.power@1.3-service-libperfmgr: Unset hint for clock domain: 0
+02-15 11:18:26.858   720   789 W libperfmgr: Failed to write to node: /sys/class/devfreq/soc:qcom,cpu-cpu-llcc-bw/max_freq with value: 2288, fd: 11
+02-15 11:18:26.858   720   789 W libperfmgr: Failed to write to node: /sys/class/devfreq/soc:qcom,cpu-llcc-ddr-bw/max_freq with value: 762, fd: 9
+02-15 11:18:26.858   720   791 D android.hardware.power@1.3-service-libperfmgr: Unset hint for clock domain: 1
+02-15 11:18:26.859  3215  3256 I Clay    : [I]: Saving Vulkan Pipeline Cache data to /data/user/0/com.oculus.shellenv/cache/shellenv/assets/cache/vulkan_pipeline.cache
+02-15 11:18:26.859  1936  2034 I Clocks  : CPU levels [0, 4]
+02-15 11:18:26.859  1936  2034 I Clocks  : GPU levels [0, 5]
+02-15 11:18:26.859   720   720 D android.hardware.power@1.3-service-libperfmgr: set performance level 2, domain 0
+02-15 11:18:26.859   720   720 D android.hardware.power@1.3-service-libperfmgr: set performance level 2, domain 1
+02-15 11:18:26.859  3215  3256 I Clay    : [I]: SoundSystem: setPaused(true), m_paused=false
+02-15 11:18:26.859  1936  2034 I Clocks  : LockClocks( cpu=2, gpu=2 ) - end (1.0 ms)
+02-15 11:18:26.862  5057  5057 W PopupManager: You have not specified a View to use as content view for popups. Falling back to the Activity content view. Note that this may not work as expected in multi-screen environments
+02-15 11:18:26.864  5057  5057 D UE4     : [GameActivity] googleClient is valid
+02-15 11:18:26.864  5057  5057 D UE4     : [GameActivity] ==============> GameActive.onCreate complete!
+02-15 11:18:26.866  5057  5057 D UE4     : [GameActivity] Creating console command broadcast listener
+02-15 11:18:26.866  5057  5108 D UE4     : LogAndroidEvents::EnqueueAppEvent : 9, [width=-1, height=-1], tid = 5108, APP_EVENT_STATE_ON_START
+02-15 11:18:26.867  5057  5057 D UE4     : [GameActivity] ==================================> Inside onStart function in GameActivity
+02-15 11:18:26.867  5057  5057 V UE4     : [GameApp] App in foreground
+02-15 11:18:26.869  5057  5108 D UE4     : Case APP_CMD_RESUME
+02-15 11:18:26.869  5057  5108 D UE4     : LogAndroidEvents::EnqueueAppEvent : 7, [width=-1, height=-1], tid = 5108, APP_EVENT_STATE_ON_RESUME
+02-15 11:18:26.869  5057  5057 D UE4     : [GameActivity] === Restoring Transparent Bars ===
+02-15 11:18:26.869  5057  5057 D UE4     : [GameActivity] ==============> [JAVA] AndroidThunkJava_KeepScreenOn(false) - Enabled screen saver
+02-15 11:18:26.870  5057  5057 D UE4     : [GameActivity] Registering sensor listeners
+02-15 11:18:26.870  5057  5057 D UE4     : App is running in Landscape
+02-15 11:18:26.870  5057  5057 D UE4     : [GameActivity] === Restoring Transparent Bars ===
+02-15 11:18:26.870  5057  5057 D UE4     : [GameActivity] ==============> Resuming main init
+02-15 11:18:26.878  5057  5107 D UE4     : APK Commandline: ../../../KilncroftLane/KilncroftLane.uproject  /Game/QuestQSMap -Messaging -SessionId=0FB99C324DA47F5EE49E62AFBE349F15 -SessionOwner="Nadia" -SessionName="Launch On Device" -iterative
+02-15 11:18:26.879  5057  5107 D UE4     : Override Commandline: ../../../KilncroftLane/KilncroftLane.uproject  /Game/Maps/QuestQSMap -Messaging -SessionId=DEFA2333462A0BA1292A8F90AEBAC818 -SessionOwner="Nadia" -SessionName="Launch On Device" -iterative
+02-15 11:18:26.879  5057  5107 D UE4     : Final commandline: ../../../KilncroftLane/KilncroftLane.uproject  /Game/Maps/QuestQSMap -Messaging -SessionId=DEFA2333462A0BA1292A8F90AEBAC818 -SessionOwner="Nadia" -SessionName="Launch On Device" -iterative
+02-15 11:18:26.879  5057  5107 D UE4     : Created sync event
+02-15 11:18:26.880  5057  5057 D UE4     : [GameActivity] ==============> GameActive.onResume complete!
+02-15 11:18:26.902  1936  1936 D VrRuntimeService: onFocusedWindowChanged: focusedWindowToken=android.os.BinderProxy@510d1af, focusedWindowUid=10093, focusedWindowPid=5057
+02-15 11:18:26.902  1936  1936 W ClientMgr: ClientMgr::SetFocusedClient: No focused client
+02-15 11:18:26.902  1936  1936 I ClientMgr: Releasing clocks.
+02-15 11:18:26.903  5057  5082 I AdrenoGLES-0: QUALCOMM build                   : 09c6a36, I5e696c022b
+02-15 11:18:26.903  5057  5082 I AdrenoGLES-0: Build Date                       : 12/07/20
+02-15 11:18:26.903  5057  5082 I AdrenoGLES-0: OpenGL ES Shader Compiler Version: EV031.35.01.02
+02-15 11:18:26.903  5057  5082 I AdrenoGLES-0: Local Branch                     : 
+02-15 11:18:26.903  5057  5082 I AdrenoGLES-0: Remote Branch                    : refs/tags/AU_LINUX_ANDROID_LA.UM.8.12.R1.10.00.00.561.144
+02-15 11:18:26.903  5057  5082 I AdrenoGLES-0: Remote Branch                    : NONE
+02-15 11:18:26.903  5057  5082 I AdrenoGLES-0: Reconstruct Branch               : NOTHING
+02-15 11:18:26.903  5057  5082 I AdrenoGLES-0: Build Config                     : S P 8.0.12 AArch32
+02-15 11:18:26.903  5057  5082 I AdrenoGLES-0: Driver Path                      : /vendor/lib/egl/libGLESv2_adreno.so
+02-15 11:18:26.906   737   875 W ServiceManager: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10093 pid=5057
+02-15 11:18:26.906   737   875 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10093 => denied (212 us)
+02-15 11:18:26.909  5057  5082 I AdrenoGLES-0: PFP: 0x016dd093, ME: 0x00000000
+02-15 11:18:26.910  5057  5108 D UE4     : Case APP_CMD_INIT_WINDOW
+02-15 11:18:26.911  5057  5108 D UE4     : LogAndroidEvents::EnqueueAppEvent : 0, [width=3664, height=1920], tid = 5108, APP_EVENT_STATE_WINDOW_CREATED
+02-15 11:18:26.913  1936  2295 I ServiceInputManager: HAPTICS: No longer forcing reporting of remotes connected for non focused apps
+02-15 11:18:26.913  1936  2295 I PerformanceManager: SetClockLevels: Force releasing clocks
+02-15 11:18:26.913  1936  2295 I PerformanceManager: SetClockLevels: Apply pending clock request change: 2,2 -> -1,-1
+02-15 11:18:26.913  1936  2034 I Clocks  : ReleaseClocks - start
+02-15 11:18:26.913  1022  1086 W InputReader: Device has associated, but no associated display id.
+02-15 11:18:26.914   720   791 D android.hardware.power@1.3-service-libperfmgr: Unset hint for clock domain: 0
+02-15 11:18:26.914   720   789 W libperfmgr: Failed to write to node: /sys/class/devfreq/soc:qcom,cpu-cpu-llcc-bw/max_freq with value: 2288, fd: 9
+02-15 11:18:26.914   720   789 W libperfmgr: Failed to write to node: /sys/class/devfreq/soc:qcom,cpu-llcc-ddr-bw/max_freq with value: 762, fd: 10
+02-15 11:18:26.914   720   789 W libperfmgr: Failed to write to node: /sys/class/devfreq/soc:qcom,cpu-cpu-llcc-bw/max_freq with value: 2288, fd: 10
+02-15 11:18:26.914   720   789 W libperfmgr: Failed to write to node: /sys/class/devfreq/soc:qcom,cpu-llcc-ddr-bw/max_freq with value: 762, fd: 11
+02-15 11:18:26.914   720   720 D android.hardware.power@1.3-service-libperfmgr: Unset hint for clock domain: 1
+02-15 11:18:26.914  1936  2034 I Clocks  : ReleaseClocks - end (0.8 ms)
+02-15 11:18:26.915  2193  2214 W LibraryProvider: Cannot find entitlement for com.android.permissioncontroller
+02-15 11:18:26.915  2133  2133 W OVRLibrary: null cursor received for query content://com.oculus.ocms.library/apps/com.android.permissioncontroller
+02-15 11:18:26.915  5057  5109 D UE4     : [GameActivity] Used memory: 118265
+02-15 11:18:26.917  5057  5108 D UE4     : LogAndroidEvents::EnqueueAppEvent : 11, [width=-1, height=-1], tid = 5108, APP_EVENT_STATE_WINDOW_GAINED_FOCUS
+02-15 11:18:26.917  5057  5108 D UE4     : LogAndroidEvents::EnqueueAppEvent : 14, [width=-1, height=-1], tid = 5108, APP_EVENT_STATE_APP_ACTIVATED
+02-15 11:18:26.917  5057  5108 D UE4     : LogAndroidEvents::EnqueueAppEvent : 15, [width=-1, height=-1], tid = 5108, APP_EVENT_RUN_CALLBACK
+02-15 11:18:26.921  1022  1118 I ActivityTaskManager: Displayed com.YourCompany.KilncroftLane/com.epicgames.ue4.GameActivity: +577ms
+02-15 11:18:26.922   720   791 I android.hardware.power@1.3-service-libperfmgr: Ignoring hint 2
+02-15 11:18:26.922  2193  2214 W LibraryProvider: Cannot find entitlement for com.android.permissioncontroller
+02-15 11:18:26.923  2133  2133 W OVRLibrary: null cursor received for query content://com.oculus.ocms.library/apps/com.android.permissioncontroller
+02-15 11:18:26.923  2133  2133 I PlatformPlugin: [PlatformPluginManager] SetSystemVoipPassthrough 0
+02-15 11:18:26.923  2133  2133 I OVRPlatform: [PartyChatWebRTC] PartyChatSetPassthrough 0
+02-15 11:18:26.924  2133  3941 I OVRPlatform: [PartyChatWebRTC] Updating playback mode to 1
+02-15 11:18:26.924  2133  2133 E OVRPlatform: [PartiesAPI] ovr_Party_PluginGetSharedMemHandle: This function is deprecated, do not use
+02-15 11:18:26.925  2133  2133 E OVRMediaServiceManager: LivestreamingManager Not initialized
+02-15 11:18:26.926   720   791 D android.hardware.power@1.3-service-libperfmgr: LAUNCH OFF
+02-15 11:18:26.927  1936  2295 I PerformanceManager: SetClockLevels: Apply pending clock request change: -1,-1 -> 1,1
+02-15 11:18:26.927  1936  2034 I Clocks  : LockClocks( cpu=1, gpu=1 ) - start
+02-15 11:18:26.928  1936  2034 I Clocks  : CPU levels [0, 4]
+02-15 11:18:26.928  1936  2034 I Clocks  : GPU levels [0, 5]
+02-15 11:18:26.929   720   791 D android.hardware.power@1.3-service-libperfmgr: set performance level 1, domain 0
+02-15 11:18:26.930  1936  2034 I Clocks  : LockClocks( cpu=1, gpu=1 ) - end (2.3 ms)
+02-15 11:18:26.930   720   791 D android.hardware.power@1.3-service-libperfmgr: set performance level 1, domain 1
+02-15 11:18:26.999  2133  2133 I PlatformPlugin: [PlatformPluginManager] Stopping party chat
+02-15 11:18:26.999  2133  2133 I OVRPlatform: [PartyChatInterchangeable] Stop PartyChat.
+02-15 11:18:27.052   802  1772 I [CT]    : CONSTELLATION:IMU_STATUS: b298f93898a8d8b4: [FusionTracked=1.000, OutputTracked=1.000, OutputValid=1.000] [AccelSat=0.000, GyroSat=0.000] 
+02-15 11:18:27.056   802  1772 I [CT]    : CONSTELLATION:IMU_STATUS: d1a68fb151f50abc: [FusionTracked=1.000, OutputTracked=1.000, OutputValid=1.000] [AccelSat=0.000, GyroSat=0.000] 
+02-15 11:18:27.101  5057  5107 D UE4     : EGL Extensions: 
+02-15 11:18:27.101  5057  5107 D UE4     : EGL_KHR_get_all_proc_addresses EGL_ANDROID_presentation_time EGL_KHR_swap_buffers_with_damage EGL_ANDROID_get_native_client_buffer EGL_ANDROID_front_buffer_auto_refresh EGL_ANDROID_get_frame_timestamps EGL_EXT_surface_SMPTE2086_metadata EGL_EXT_surface_CTA861_3_metadata EGL_KHR_image EGL_KHR_image_base EGL_EXT_image_gl_colorspace EGL_KHR_lock_surface EGL_KHR_gl_colorspace EGL_KHR_gl_texture_2D_image EGL_KHR_gl_texture_3D_image EGL_KHR_gl_texture_cubemap_image EGL_KHR_gl_renderbuffer_image EGL_KHR_reusable_sync EGL_KHR_fence_sync EGL_KHR_create_context EGL_KHR_surfaceless_context EGL_EXT_create_context_robustness EGL_ANDROID_image_native_buffer EGL_KHR_wait_sync EGL_ANDROID_recordable EGL_KHR_partial_update EGL_EXT_pixel_format_float EGL_KHR_create_context_no_error EGL_KHR_mutable_render_buffer EGL_EXT_yuv_surface EGL_EXT_protected_content EGL_IMG_context_priority EGL_KHR_no_config_context 
+02-15 11:18:27.104  5057  5107 D UE4     : FAndroidGPUInfo
+02-15 11:18:27.104  5057  5107 D UE4     : AndroidEGL::InitSurface 0, 0
+02-15 11:18:27.104  5057  5107 D UE4     : AndroidEGL::InitSurface, Using width: 3664, height 1920 
+02-15 11:18:27.104  5057  5107 D UE4     : [GameActivity] [JAVA] - SetDesiredViewSize width=3664 and height=1920
+02-15 11:18:27.104  5057  5107 D UE4     : AndroidEGL::InitSurface, wnd: 0xc3b00808, width: 3664, height 1920 
+02-15 11:18:27.104  5057  5107 D UE4     : AndroidEGL::CreateEGLSurface(0), eglSurface = eglCreatePbufferSurface(), 8x8
+02-15 11:18:27.104  5057  5107 D UE4     : AndroidEGL::CreateEGLSurface(0), auxSurface = eglCreatePbufferSurface(), 8x8
+02-15 11:18:27.103  5057  5057 W Thread-2: type=1400 audit(0.0:56): avc: granted { read } for name="u:object_r:net_dns_prop:s0" dev="tmpfs" ino=15823 scontext=u:r:untrusted_app_25:s0:c512,c768 tcontext=u:object_r:net_dns_prop:s0 tclass=file
+02-15 11:18:27.103  5057  5057 W Thread-2: type=1400 audit(0.0:57): avc: granted { read } for name="u:object_r:net_dns_prop:s0" dev="tmpfs" ino=15823 scontext=u:r:untrusted_app_25:s0:c512,c768 tcontext=u:object_r:net_dns_prop:s0 tclass=file
+02-15 11:18:27.103  5057  5057 W Thread-2: type=1400 audit(0.0:58): avc: granted { read } for path="/dev/__properties__/u:object_r:net_dns_prop:s0" dev="tmpfs" ino=15823 scontext=u:r:untrusted_app_25:s0:c512,c768 tcontext=u:object_r:net_dns_prop:s0 tclass=file
+02-15 11:18:27.103  5057  5057 W Thread-2: type=1400 audit(0.0:59): avc: granted { read } for path="/dev/__properties__/u:object_r:net_dns_prop:s0" dev="tmpfs" ino=15823 scontext=u:r:untrusted_app_25:s0:c512,c768 tcontext=u:object_r:net_dns_prop:s0 tclass=file
+02-15 11:18:27.121  5057  5107 D vulkan  : searching for layers in '/data/app/com.YourCompany.KilncroftLane-_LbIOtDVXZGDuoBCzUbAvA==/lib/arm'
+02-15 11:18:27.121  5057  5107 D vulkan  : searching for layers in '/data/app/com.YourCompany.KilncroftLane-_LbIOtDVXZGDuoBCzUbAvA==/base.apk!/lib/armeabi-v7a'
+02-15 11:18:27.124  5057  5107 I AdrenoVK-0: ===== BEGIN DUMP OF OVERRIDDEN SETTINGS =====
+02-15 11:18:27.124  5057  5107 I AdrenoVK-0: ===== END DUMP OF OVERRIDDEN SETTINGS =====
+02-15 11:18:27.125  5057  5107 I AdrenoVK-0: QUALCOMM build          : 09c6a36, I5e696c022b
+02-15 11:18:27.125  5057  5107 I AdrenoVK-0: Build Date              : 12/07/20
+02-15 11:18:27.125  5057  5107 I AdrenoVK-0: Shader Compiler Version : EV031.35.01.02
+02-15 11:18:27.125  5057  5107 I AdrenoVK-0: Local Branch            : 
+02-15 11:18:27.125  5057  5107 I AdrenoVK-0: Remote Branch           : refs/tags/AU_LINUX_ANDROID_LA.UM.8.12.R1.10.00.00.561.144
+02-15 11:18:27.125  5057  5107 I AdrenoVK-0: Remote Branch           : NONE
+02-15 11:18:27.125  5057  5107 I AdrenoVK-0: Reconstruct Branch      : NOTHING
+02-15 11:18:27.125  5057  5107 I AdrenoVK-0: Build Config            : S P 8.0.12 AArch32
+02-15 11:18:27.125  5057  5107 I AdrenoVK-0: Driver Path             : /vendor/lib/hw/vulkan.kona.so
+02-15 11:18:27.273  5057  5107 D UE4     : LogPluginManager: Mounting plugin Paper2D
+02-15 11:18:27.325  5057  5107 D UE4     : LogPluginManager: Mounting plugin AISupport
+02-15 11:18:27.328  5057  5107 D UE4     : LogPluginManager: Mounting plugin LightPropagationVolume
+02-15 11:18:27.331  5057  5107 D UE4     : LogPluginManager: Mounting plugin AnimationSharing
+02-15 11:18:27.334  5057  5107 D UE4     : LogPluginManager: Mounting plugin UObjectPlugin
+02-15 11:18:27.337  5057  5107 D UE4     : LogPluginManager: Mounting plugin AssetManagerEditor
+02-15 11:18:27.341  5057  5107 D UE4     : LogPluginManager: Mounting plugin EditorScriptingUtilities
+02-15 11:18:27.349  5057  5107 D UE4     : LogPluginManager: Mounting plugin FacialAnimation
+02-15 11:18:27.353  5057  5107 D UE4     : LogPluginManager: Mounting plugin GeometryMode
+02-15 11:18:27.356  5057  5107 D UE4     : LogPluginManager: Mounting plugin DatasmithContent
+02-15 11:18:27.359  5057  5107 D UE4     : LogPluginManager: Mounting plugin VariantManagerContent
+02-15 11:18:27.365  5057  5107 D UE4     : LogPluginManager: Mounting plugin AlembicImporter
+02-15 11:18:27.369  5057  5107 D UE4     : LogPluginManager: Mounting plugin AutomationUtils
+02-15 11:18:27.372  5057  5107 D UE4     : LogPluginManager: Mounting plugin BackChannel
+02-15 11:18:27.372   724   724 E WifiHAL : handleResponse: OTHER_RX_MULTICAST_CNT not found
+02-15 11:18:27.375  5057  5107 D UE4     : LogPluginManager: Mounting plugin ChaosCloth
+02-15 11:18:27.377   724   724 E WifiHAL : wifi_get_ring_data: Error -5 happened. 
+02-15 11:18:27.378  1022  1470 E WifiVendorHal: getRingBufferData(l.1675) failed {.code = ERROR_INVALID_ARGS, .description = }
+02-15 11:18:27.378  5057  5107 D UE4     : LogPluginManager: Mounting plugin ChaosClothEditor
+02-15 11:18:27.381  5057  5107 D UE4     : LogPluginManager: Mounting plugin ChaosEditor
+02-15 11:18:27.384  5057  5107 D UE4     : LogPluginManager: Mounting plugin ChaosNiagara
+02-15 11:18:27.387  5057  5107 D UE4     : LogPluginManager: Mounting plugin ChaosSolverPlugin
+02-15 11:18:27.390  5057  5107 D UE4     : LogPluginManager: Mounting plugin CharacterAI
+02-15 11:18:27.393  5057  5107 D UE4     : LogPluginManager: Mounting plugin GeometryCache
+02-15 11:18:27.396  5057  5107 D UE4     : LogPluginManager: Mounting plugin GeometryCollectionPlugin
+02-15 11:18:27.397   680  5167 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:27.399  5057  5107 D UE4     : LogPluginManager: Mounting plugin GeometryProcessing
+02-15 11:18:27.400   680  5169 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:27.402  5057  5107 D UE4     : LogPluginManager: Mounting plugin PlanarCut
+02-15 11:18:27.403   680  5171 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:27.405  5057  5107 D UE4     : LogPluginManager: Mounting plugin PlatformCrypto
+02-15 11:18:27.406   680  5173 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:27.407  5057  5107 D UE4     : LogPluginManager: Mounting plugin Niagara
+02-15 11:18:27.409   680  5176 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:27.415  1022  1470 D wifi-jni: no kernel logs
+02-15 11:18:27.416   680  5178 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:27.416  5057  5107 D UE4     : LogPluginManager: Mounting plugin AndroidMedia
+02-15 11:18:27.418   680  5180 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:27.418  5057  5107 D UE4     : LogPluginManager: Mounting plugin ImgMedia
+02-15 11:18:27.421  5057  5107 D UE4     : LogPluginManager: Mounting plugin MediaCompositing
+02-15 11:18:27.422   680  5182 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:27.424  5057  5107 D UE4     : LogPluginManager: Mounting plugin MeshPainting
+02-15 11:18:27.426   680  5184 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:27.427  5057  5107 D UE4     : LogPluginManager: Mounting plugin TcpMessaging
+02-15 11:18:27.430   680  5186 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:27.430  5057  5107 D UE4     : LogPluginManager: Mounting plugin UdpMessaging
+02-15 11:18:27.433   680  5188 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:27.433  5057  5107 D UE4     : LogPluginManager: Mounting plugin ActorSequence
+02-15 11:18:27.436  5057  5107 D UE4     : LogPluginManager: Mounting plugin LevelSequenceEditor
+02-15 11:18:27.437   680  5190 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:27.439  5057  5107 D UE4     : LogPluginManager: Mounting plugin MatineeToLevelSequence
+02-15 11:18:27.440   680  5192 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:27.442  5057  5107 D UE4     : LogPluginManager: Mounting plugin MovieRenderPipeline
+02-15 11:18:27.444   680  5194 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:27.445  5057  5107 D UE4     : LogPluginManager: Mounting plugin TemplateSequence
+02-15 11:18:27.448  5057  5107 D UE4     : LogPluginManager: Mounting plugin NetcodeUnitTest
+02-15 11:18:27.449   680  5196 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:27.451  5057  5107 D UE4     : LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+02-15 11:18:27.454   680  5198 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:27.454  5057  5107 D UE4     : LogPluginManager: Mounting plugin OnlineSubsystem
+02-15 11:18:27.457  5057  5107 D UE4     : LogPluginManager: Mounting plugin OnlineSubsystemNull
+02-15 11:18:27.457   680  5200 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:27.460  5057  5107 D UE4     : LogPluginManager: Mounting plugin OnlineSubsystemUtils
+02-15 11:18:27.460   680  5202 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:27.463  5057  5107 D UE4     : LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+02-15 11:18:27.464   680  5204 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:27.466  5057  5107 D UE4     : LogPluginManager: Mounting plugin AndroidMoviePlayer
+02-15 11:18:27.467   680  5206 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:27.468  5057  5107 D UE4     : LogPluginManager: Mounting plugin AndroidPermission
+02-15 11:18:27.470   680  5208 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:27.471  5057  5107 D UE4     : LogPluginManager: Mounting plugin AppleImageUtils
+02-15 11:18:27.474   680  5210 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+02-15 11:18:27.474  5057  5107 D UE4     : LogPluginManager: Mounting plugin ArchVisCharacter
+02-15 11:18:27.477  5057  5107 D UE4     : LogPluginManager: Mounting plugin AssetTags
+02-15 11:18:27.480  5057  5107 D UE4     : LogPluginManager: Mounting plugin AudioCapture
+02-15 11:18:27.483  5057  5107 D UE4     : LogPluginManager: Mounting plugin CableComponent
+02-15 11:18:27.485  5057  5107 D UE4     : LogPluginManager: Mounting plugin CustomMeshComponent
+02-15 11:18:27.488  5057  5107 D UE4     : LogPluginManager: Mounting plugin EditableMesh
+02-15 11:18:27.491  5057  5107 D UE4     : LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+02-15 11:18:27.494  5057  5107 D UE4     : LogPluginManager: Mounting plugin GoogleCloudMessaging
+02-15 11:18:27.497  5057  5107 D UE4     : LogPluginManager: Mounting plugin GooglePAD
+02-15 11:18:27.500  5057  5107 D UE4     : LogPluginManager: Mounting plugin LocationServicesBPLibrary
+02-15 11:18:27.502  5057  5107 D UE4     : LogPluginManager: Mounting plugin MobilePatchingUtils
+02-15 11:18:27.505  5057  5107 D UE4     : LogPluginManager: Mounting plugin OculusVR
+02-15 11:18:27.512  5057  5107 D UE4     : LogPluginManager: Mounting plugin PhysXVehicles
+02-15 11:18:27.519  5057  5107 D UE4     : LogPluginManager: Mounting plugin ProceduralMeshComponent
+02-15 11:18:27.522  5057  5107 D UE4     : LogPluginManager: Mounting plugin RuntimePhysXCooking
+02-15 11:18:27.525  1022  1156 V DisplayPowerController: Brightness [255] reason changing to: 'manual', previous reason: 'override'.
+02-15 11:18:27.525  5057  5107 D UE4     : LogPluginManager: Mounting plugin SignificanceManager
+02-15 11:18:27.528  5057  5107 D UE4     : LogPluginManager: Mounting plugin SoundFields
+02-15 11:18:27.531  5057  5107 D UE4     : LogPluginManager: Mounting plugin Synthesis
+02-15 11:18:27.537  5057  5107 D UE4     : LogPluginManager: Mounting plugin ScreenshotTools
+02-15 11:18:27.558  2617  2617 I VrApi   : ------------ vrapi_Shutdown [start] -----------
+02-15 11:18:27.558  2617  2617 I TREX    : Shutting down system...
+02-15 11:18:27.558  2617  2617 I TREX    : Shutting down interface manager.
+02-15 11:18:27.558  2617  2617 D SystemActivitiesReceiver: Unregistering Oculus System Activity receiver
+02-15 11:18:27.559  2617  2617 I AudioCapture: AudioCapture::Shutdown
+02-15 11:18:27.559  2617  2617 I AudioCapture: AudioCapture::StopAudioConsumerThread
+02-15 11:18:27.559  2617  2617 I AudioCapture: AudioCapture::StopAudioConsumerThread COMPLETE
+02-15 11:18:27.559  2617  2617 I AudioCapture: AudioCapture::Shutdown COMPLETE
+02-15 11:18:27.559  2617  2617 D VrRuntimeClient: VrRuntimeClient: shutdown.
+02-15 11:18:27.560  2617  2617 D VrRuntimeClient: VrRuntimeClient: Performing disconnect
+02-15 11:18:27.560  1936  1996 D VrRuntimeService: VrRuntimeService: destroyClientInternal: com.android.permissioncontroller, pid: 2617, window: null
+02-15 11:18:27.560  1936  1996 I ClientMgr: ClientMgr::DestroyClient: 2617:com.android.permissioncontroller
+02-15 11:18:27.560  1936  1996 I ClientMgr: ClientMgr::DestroyClient: non-deferred ShutdownResources: 103 == 103 
+02-15 11:18:27.560  1936  1996 I VrRuntimeServer: UnRegisterCompositorClient client(7)
+02-15 11:18:27.563  2352  2439 I GuardianSystem: runtimeServiceSDKClient_.ActiveClientDestroyedEventData: com.android.permissioncontroller
+02-15 11:18:27.563  2352  2439 I GuardianSystem: OnDestroyActiveClient: com.android.permissioncontroller
+02-15 11:18:27.563  2352  2439 I GuardianSystem: OnDestroyActiveClient: Clearing return package because owning client was destroyed: com.android.permissioncontroller
+02-15 11:18:27.563  2352  2439 I GuardianSystem: GuardianSystem::GuardianCmd 14
+02-15 11:18:27.566  1936  1996 I UnifiedTelemetryWrapper: Stopped UT session lifetime:com.android.permissioncontroller
+02-15 11:18:27.569  2617  2617 I VrRuntimeClient: nativeRuntimeServiceConnected: publicReadOnlyFd=-1, privateReadWriteFd=-1
+02-15 11:18:27.571  2617  2617 I VrGuardianClient: Shutdown
+02-15 11:18:27.571  2617  2617 I RuntimeIPCClientMgr: RPCClient: Shutdown: Client: com.android.permissioncontroller:com.android.permissioncontroller, Server: com.oculus.guardian:com.oculus.vrguardianservice (guardianserver)
+02-15 11:18:27.571  1962  5033 I RuntimeIPCService: DisconnectFromServer: Client: com.android.permissioncontroller:com.android.permissioncontroller, Server: com.oculus.guardian:com.oculus.vrguardianservice (guardianserver)
+02-15 11:18:27.571  2617  2617 I RuntimeIPCApi: ipc_Shutdown
+02-15 11:18:27.571  2617  2617 I RuntimeIPCServiceClient: Shutdown: Refs still outstanding: 1, com.android.permissioncontroller
+02-15 11:18:27.571  2617  2617 I RuntimeIPCClientMgr: RPCClient: Shutdown: Client: com.android.permissioncontroller:com.android.permissioncontroller, Server: com.oculus.systemdriver:com.oculus.vrruntimeservice (RuntimeServiceServer)
+02-15 11:18:27.571  1962  5033 I RuntimeIPCService: DisconnectFromServer: Client: com.android.permissioncontroller:com.android.permissioncontroller, Server: com.oculus.systemdriver:com.oculus.vrruntimeservice (RuntimeServiceServer)
+02-15 11:18:27.571  2617  2617 I RuntimeIPCApi: ipc_Shutdown
+02-15 11:18:27.571  2617  2617 I RuntimeIPCServiceClient: Shutdown: com.android.permissioncontroller
+02-15 11:18:27.571  2617  2617 I ThreadHelpers: RuntimeIPC: ThreadBase: Shutdown
+02-15 11:18:27.571  2617  2617 I ThreadHelpers: RuntimeIPC: ThreadBase: RequestShutdown
+02-15 11:18:27.592  2617  5034 I RuntimeIPCServiceClient: IPCMainLoopHandler: MainLoop End
+02-15 11:18:27.592  2617  2617 I ThreadHelpers: RuntimeIPC: ThreadBase: Shutdown
+02-15 11:18:27.592  2617  2617 I ThreadHelpers: RuntimeIPC: ThreadBase: RequestShutdown
+02-15 11:18:27.592  2617  5032 I AsyncTaskMgr: MainLoop exiting
+02-15 11:18:27.592  2617  2617 I RuntimeIPCServerMgr: RuntimeIPCServerMgr::Shutdown
+02-15 11:18:27.592  2617  2617 I RuntimeIPCClientMgr: RuntimeIPCClientMgr::Shutdown
+02-15 11:18:27.592  2617  2617 I RuntimeIPCServiceMethods: ipc_Shutdown: ServiceClientClass != nullptr
+02-15 11:18:27.592  2617  2617 D RuntimeIPCServiceClient: shutdown.
+02-15 11:18:27.592  2617  2617 D RuntimeIPCServiceClient: Performing disconnect
+02-15 11:18:27.593  1962  1995 I RuntimeIPCService: nativeDestroyClient
+02-15 11:18:27.593  1962  1995 I RuntimeIPCService: ResetClient: com.android.permissioncontroller:com.android.permissioncontroller
+02-15 11:18:27.593  1962  1995 I ThreadHelpers: RuntimeIPC: ThreadBase: Shutdown
+02-15 11:18:27.593  1962  1995 I ThreadHelpers: RuntimeIPC: ThreadBase: RequestShutdown
+02-15 11:18:27.593  1962  1995 I RuntimeIPCService: RPCServiceClientHandler: OnPreShutdown
+02-15 11:18:27.593  1962  1995 I RuntimeIPCService: RPCServiceClientHandler: OnPostShutdown
+02-15 11:18:27.593  1962  1995 I RuntimeIPCService: ResetClient: Removing client: com.android.permissioncontroller:com.android.permissioncontroller
+02-15 11:18:27.593  1962  1995 I RuntimeIPCService: ResetClient DONE: com.android.permissioncontroller:com.android.permissioncontroller
+02-15 11:18:27.594  2617  2617 I RuntimeIPCServiceClient: nativeConnected: 0
+02-15 11:18:27.594  2617  2617 I RuntimeIPCServiceClient: nativeConnected complete: 0
+02-15 11:18:27.594  2617  2617 I ServerStateMgr: Shutdown
+02-15 11:18:27.594  2617  2617 I RuntimeIPCServiceClient: Shutdown: complete com.android.permissioncontroller
+02-15 11:18:27.594  2617  2617 I VrApi_LegacySwapChain: DisableGlFunctionHooks
+02-15 11:18:27.594  2617  2617 I RenderUtils: ovrRenderUtils::Shutdown - not initialized
+02-15 11:18:27.597  2617  2617 I VrApi   : ------------ vrapi_Shutdown [end] -----------
+02-15 11:18:27.609  5057  5107 D UE4     : LogInit: Using libcurl 7.46.0
+02-15 11:18:27.609  5057  5107 D UE4     : LogInit:  - built for arm-unknown-linux-androideabi
+02-15 11:18:27.609  5057  5107 D UE4     : LogInit:  - supports SSL with OpenSSL/1.0.1s
+02-15 11:18:27.609  5057  5107 D UE4     : LogInit:  - supports HTTP deflate (compression) using libz 1.2.11
+02-15 11:18:27.609  5057  5107 D UE4     : LogInit:  - other features:
+02-15 11:18:27.609  5057  5107 D UE4     : LogInit:      CURL_VERSION_SSL
+02-15 11:18:27.609  5057  5107 D UE4     : LogInit:      CURL_VERSION_LIBZ
+02-15 11:18:27.609  5057  5107 D UE4     : LogInit:      CURL_VERSION_IPV6
+02-15 11:18:27.609  5057  5107 D UE4     : LogInit:      CURL_VERSION_ASYNCHDNS
+02-15 11:18:27.609  5057  5107 D UE4     : LogInit:      CURL_VERSION_TLSAUTH_SRP
+02-15 11:18:27.610  5057  5107 D UE4     : LogInit:  CurlRequestOptions (configurable via config and command line):
+02-15 11:18:27.610  5057  5107 D UE4     : LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+02-15 11:18:27.610  5057  5107 D UE4     : LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+02-15 11:18:27.610  5057  5107 D UE4     : LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+02-15 11:18:27.610  5057  5107 D UE4     : LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+02-15 11:18:27.610  5057  5107 D UE4     : LogInit:  - LocalHostAddr = Default
+02-15 11:18:27.610  5057  5107 D UE4     : LogInit:  - BufferSize = 65536
+02-15 11:18:27.611  5057  5107 D UE4     : LogOnline: Display: OSS: OnlineSubsystemGooglePlayModule::StartupModule()
+02-15 11:18:27.611  5057  5107 D UE4     : LogOnline: OSS: Creating online subsystem instance for: GooglePlay
+02-15 11:18:27.611  5057  5107 D UE4     : LogOnline: Warning: OSS: FOnlineSubsystemGooglePlayModule was disabled
+02-15 11:18:27.611  5057  5107 D UE4     : LogOnline: OSS: Unable to create OnlineSubsystem module GooglePlay
+02-15 11:18:27.611  5057  5107 D UE4     : LogOnline: OSS: Creating online subsystem instance for: NULL
+02-15 11:18:27.612  5057  5107 D UE4     : LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+02-15 11:18:27.612  5057  5107 D UE4     : LogOnline: OSS: Creating online subsystem instance for: GooglePlay
+02-15 11:18:27.612  5057  5107 D UE4     : LogOnline: Warning: OSS: FOnlineSubsystemGooglePlayModule was disabled
+02-15 11:18:27.614  5057  5107 D UE4     : LogOculusPluginWrapper: OculusPlugin initialized successfully
+02-15 11:18:27.614  5057  5107 I VrApiLoader: VrApi Loader Version: 1.1.29.0-0-0 Nov 21 2019 14:29:11 
+02-15 11:18:27.620  5057  5107 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.hidl.base-V1.0-java.jar
+02-15 11:18:27.620  5057  5107 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.hidl.manager-V1.0-java.jar
+02-15 11:18:27.620  5057  5107 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.hidl.base-V1.0-java.jar
+02-15 11:18:27.622  5057  5107 I y.KilncroftLan: The ClassLoaderContext is a special shared library.
+02-15 11:18:27.626  5057  5107 V VrDriver: Loading 32-bit VrDriver.
+02-15 11:18:27.633  5057  5107 I Distortion: SetLensPositions - iad=0.063, left offset=0.000250001,0, right offset=-0.000250001,0
+02-15 11:18:27.633  5057  5107 I Distortion: SetLensPositions - iad=0.063, left offset=0.000250001,0, right offset=-0.000250001,0
+02-15 11:18:27.647  5057  5107 I VrApi_DriverLoader: nativeSetClassLoader:0x282a
+02-15 11:18:27.648  5057  5107 I VrApi   : ----------- vrapi_Initialize [start] ----------

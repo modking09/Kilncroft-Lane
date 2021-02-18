@@ -1,0 +1,13 @@
+Engine/GlobalShaderCache-GLSL_ES3_1_ANDROID.bin
+KilncroftLane/AssetRegistry.bin
+KilncroftLane/Content/ShaderArchive-Global-GLSL_ES3_1_ANDROID.ushaderbytecode
+KilncroftLane/Content/ShaderArchive-KilncroftLane-GLSL_ES3_1_ANDROID.ushaderbytecode
+KilncroftLane/Content/Maps/QuestQSMap.uexp
+KilncroftLane/Content/Maps/QuestQSMap.umap
+KilncroftLane/Content/Maps/QuestQSMap_BuiltData.uasset
+KilncroftLane/Content/Maps/QuestQSMap_BuiltData.ubulk
+KilncroftLane/Content/Maps/QuestQSMap_BuiltData.uexp
+KilncroftLane/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+KilncroftLane/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uexp
+Manifest_NonUFSFiles_Android.txt
+Manifest_UFSFiles_Android.txt
