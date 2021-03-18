@@ -410,43 +410,43 @@
 "../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 409
 "../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 410
 "../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 411
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualRealityBP/Blueprints/PickupActorInterface.uasset" 412
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualReality/Materials/M_BaseMaterial.uasset" 413
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualReality/Materials/MI_SmallCubes.uasset" 414
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/Geometry/Meshes/CubeMaterial.uasset" 415
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/Geometry/Meshes/1M_Cube.uasset" 416
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset" 417
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.uasset" 418
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset" 419
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.uasset" 420
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.uasset" 421
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualReality/Mannequin/Animations/RightGrip_BS.uasset" 422
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualRealityBP/Blueprints/GripEnum.uasset" 423
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualReality/Mannequin/Animations/RightHand_AnimBP.uasset" 424
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualRealityBP/Blueprints/MotionControllerHaptics.uasset" 425
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualRealityBP/Blueprints/PickupActorInterface.uasset" 412
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualReality/Materials/M_BaseMaterial.uasset" 413
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualReality/Materials/MI_SmallCubes.uasset" 414
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Geometry/Meshes/CubeMaterial.uasset" 415
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Geometry/Meshes/1M_Cube.uasset" 416
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset" 417
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.uasset" 418
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset" 419
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.uasset" 420
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.uasset" 421
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualReality/Mannequin/Animations/RightGrip_BS.uasset" 422
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualRealityBP/Blueprints/GripEnum.uasset" 423
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualReality/Mannequin/Animations/RightHand_AnimBP.uasset" 424
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualRealityBP/Blueprints/MotionControllerHaptics.uasset" 425
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 426
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualReality/Materials/MF_OccludedPixels.uasset" 427
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualReality/Materials/TeleportMCP.uasset" 428
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualReality/Materials/MF_OccludedPixels.uasset" 427
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualReality/Materials/TeleportMCP.uasset" 428
 "../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 429
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualReality/Materials/M_ArcEndpoint.uasset" 430
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualReality/Materials/M_SplineArcMat.uasset" 431
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualReality/Materials/M_TeleportPreviews.uasset" 432
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualReality/Materials/MI_ChaperoneOutline.uasset" 433
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualReality/Materials/MI_TeleportCylinderPreview.uasset" 434
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualReality/Materials/M_ArcEndpoint.uasset" 430
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualReality/Materials/M_SplineArcMat.uasset" 431
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualReality/Materials/M_TeleportPreviews.uasset" 432
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualReality/Materials/MI_ChaperoneOutline.uasset" 433
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualReality/Materials/MI_TeleportCylinderPreview.uasset" 434
 "../../../Engine/Content/BasicShapes/Cylinder.uasset" 435
 "../../../Engine/Content/BasicShapes/Sphere.uasset" 436
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 437
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 438
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset" 439
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.uasset" 440
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.uasset" 441
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualReality/Meshes/1x1_cube.uasset" 442
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualReality/Meshes/BeaconDirection.uasset" 443
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualReality/Meshes/BeamMesh.uasset" 444
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualReality/Meshes/SM_FatCylinder.uasset" 445
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" 446
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" 447
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/Maps/QuestQSMap_BuiltData.uasset" 448
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualReality/Materials/MI_BaseMaterial2.uasset" 449
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/VirtualReality/Materials/MI_BaseMaterial3.uasset" 450
-"C:/Users/Nadia/Documents/Unreal Projects/KilncroftLane/Content/Maps/QuestQSMap.umap" 451
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 437
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 438
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset" 439
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.uasset" 440
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.uasset" 441
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualReality/Meshes/1x1_cube.uasset" 442
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualReality/Meshes/BeaconDirection.uasset" 443
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualReality/Meshes/BeamMesh.uasset" 444
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualReality/Meshes/SM_FatCylinder.uasset" 445
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" 446
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" 447
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Maps/QuestQSMap_BuiltData.uasset" 448
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualReality/Materials/MI_BaseMaterial2.uasset" 449
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/VirtualReality/Materials/MI_BaseMaterial3.uasset" 450
+"C:/Users/Nadia/Documents/GitHub/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Maps/QuestQSMap.umap" 451
