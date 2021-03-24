@@ -1,0 +1,1533 @@
+﻿Log file open, 03/18/21 12:11:51
+LogInit: Display: Running engine for game: KilncroftLane
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.548058
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.18-12.11.51:595][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.18-12.11.51:595][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.18-12.11.51:595][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Config/Windows/Engine.ini]
+[2021.03.18-12.11.51:595][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.18-12.11.51:595][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2021.03.18-12.11.51:595][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2021.03.18-12.11.51:595][  0]LogConfig: Setting CVar [[r.MobileMSAA:4]]
+[2021.03.18-12.11.51:595][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2021.03.18-12.11.51:595][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2021.03.18-12.11.51:595][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2021.03.18-12.11.51:595][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2021.03.18-12.11.51:595][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.AnisotropicBRDF:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2021.03.18-12.11.51:596][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:1]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Config/Windows/Engine.ini]
+[2021.03.18-12.11.51:597][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Config/Windows/Engine.ini]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.18-12.11.51:597][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.18-12.11.51:598][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.18-12.11.51:598][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Config/Windows/Engine.ini]
+[2021.03.18-12.11.51:598][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.18-12.11.51:598][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.18-12.11.51:598][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.18-12.11.51:598][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.18-12.11.51:598][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.18-12.11.51:598][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.18-12.11.51:598][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.18-12.11.51:598][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.18-12.11.51:598][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.18-12.11.51:598][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.18-12.11.51:598][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.18-12.11.51:598][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.18-12.11.51:598][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.18-12.11.51:598][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Config/Windows/Engine.ini]
+[2021.03.18-12.11.51:598][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Config/Windows/Engine.ini]
+[2021.03.18-12.11.51:602][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-12.11.51:602][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.18-12.11.51:602][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.18-12.11.51:602][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-12.11.51:602][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.03.18-12.11.51:602][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-12.11.51:602][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.18-12.11.51:602][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.18-12.11.51:603][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.18-12.11.51:604][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-12.11.51:604][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.03.18-12.11.51:605][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.03.18-12.11.51:605][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.03.18-12.11.51:605][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.03.18-12.11.51:605][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.03.18-12.11.51:605][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.03.18-12.11.51:605][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.03.18-12.11.51:605][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.18-12.11.51:605][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.18-12.11.51:605][  0]LogHAL: Display: Platform has ~ 16 GB [17104596992 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.18-12.11.51:605][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.18-12.11.51:605][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-12.11.51:605][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.18-12.11.51:605][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.18-12.11.51:605][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-12.11.51:605][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.03.18-12.11.51:605][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-12.11.51:605][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.18-12.11.51:605][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.18-12.11.51:605][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.18-12.11.51:605][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.18-12.11.51:605][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.18-12.11.51:605][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.18-12.11.51:605][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.18-12.11.51:605][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.18-12.11.51:605][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.18-12.11.51:605][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.18-12.11.51:605][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.18-12.11.51:605][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.18-12.11.51:605][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.18-12.11.51:605][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.18-12.11.51:606][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.18-12.11.51:607][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Config/Windows/Engine.ini]
+[2021.03.18-12.11.51:608][  0]LogInit: Computer: BCUD2-009296
+[2021.03.18-12.11.51:608][  0]LogInit: User: s19150427
+[2021.03.18-12.11.51:608][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.03.18-12.11.51:608][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.18-12.11.51:608][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.03.18-12.11.51:608][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.18-12.11.51:608][  0]LogMemory: Process Physical Memory: 116.55 MB used, 116.55 MB peak
+[2021.03.18-12.11.51:608][  0]LogMemory: Process Virtual Memory: 106.79 MB used, 106.79 MB peak
+[2021.03.18-12.11.51:608][  0]LogMemory: Physical Memory: 7075.20 MB used,  9237.02 MB free, 16312.21 MB total
+[2021.03.18-12.11.51:608][  0]LogMemory: Virtual Memory: 5180.49 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2021.03.18-12.11.51:614][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.18-12.11.51:654][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.18-12.11.51:654][  0]LogInit: Using OS detected language (en-GB).
+[2021.03.18-12.11.51:654][  0]LogInit: Using OS detected locale (en-GB).
+[2021.03.18-12.11.51:659][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.03.18-12.11.51:877][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.18-12.11.51:902][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.18-12.11.51:902][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.18-12.11.52:121][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.18-12.11.52:122][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.18-12.11.52:122][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.18-12.11.52:122][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.18-12.11.52:187][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2021.03.18-12.11.52:187][  0]LogD3D11RHI:       8079/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.03.18-12.11.52:190][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.18-12.11.52:190][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.18-12.11.52:190][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.18-12.11.52:199][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.18-12.11.52:199][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.18-12.11.52:199][  0]LogWindows: EnumDisplayDevices:
+[2021.03.18-12.11.52:200][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2021.03.18-12.11.52:200][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2021.03.18-12.11.52:200][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.03.18-12.11.52:201][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.03.18-12.11.52:201][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.03.18-12.11.52:201][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2021.03.18-12.11.52:201][  0]LogD3D11RHI:   Driver Version: 452.06 (internal:27.21.14.5206, unified:452.06)
+[2021.03.18-12.11.52:201][  0]LogD3D11RHI:      Driver Date: 8-12-2020
+[2021.03.18-12.11.52:201][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2021.03.18-12.11.52:242][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.18-12.11.52:244][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2021.03.18-12.11.52:244][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.18-12.11.52:244][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.18-12.11.52:261][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.18-12.11.52:612][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.18-12.11.52:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.18-12.11.52:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.18-12.11.52:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.18-12.11.52:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.18-12.11.52:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.18-12.11.52:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.18-12.11.52:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.18-12.11.52:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.18-12.11.52:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.18-12.11.52:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.18-12.11.52:665][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.18-12.11.52:665][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.18-12.11.52:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.18-12.11.52:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.18-12.11.52:701][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.18-12.11.52:714][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.18-12.11.52:724][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.18-12.11.52:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.18-12.11.52:744][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.18-12.11.52:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.18-12.11.52:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.18-12.11.52:795][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.18-12.11.52:795][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.18-12.11.52:806][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.18-12.11.52:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.18-12.11.52:830][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.18-12.11.52:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.18-12.11.52:840][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.18-12.11.52:851][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.18-12.11.52:930][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Intermediate/Shaders/WorkingDirectory/24120/).
+[2021.03.18-12.11.52:930][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/s19150427/AppData/Local/Temp/UnrealShaderWorkingDir/134BB46E4AF82EC9C5FA658DBBDD499F/'.
+[2021.03.18-12.11.52:931][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.03.18-12.11.52:931][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.18-12.11.52:931][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.18-12.11.53:750][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.18-12.11.53:824][  0]LogDerivedDataCache: Loaded boot cache 0.07s 85MB C:/Users/s19150427/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.03.18-12.11.53:824][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/s19150427/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.03.18-12.11.53:824][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.18-12.11.53:824][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.18-12.11.53:824][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.18-12.11.53:824][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.18-12.11.53:834][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.18-12.11.53:834][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.18-12.11.53:834][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.18-12.11.53:835][  0]LogDerivedDataCache: Using Local data cache path C:/Users/s19150427/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.18-12.11.53:835][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.18-12.11.53:835][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.18-12.11.53:891][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.18-12.11.53:892][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.18-12.11.53:924][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2021.03.18-12.11.54:190][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.18-12.11.54:329][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.18-12.11.54:329][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.18-12.11.54:329][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.18-12.11.54:329][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.18-12.11.54:329][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.18-12.11.54:349][  0]LogNetVersion: KilncroftLane 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2375302961)
+[2021.03.18-12.11.54:884][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000207BD74C340), frame # 0
+[2021.03.18-12.11.54:884][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000207BD691E40), frame # 0
+[2021.03.18-12.11.54:887][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000207BD6DDE00), frame # 0
+[2021.03.18-12.11.55:068][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.174638 seconds
+[2021.03.18-12.11.55:072][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.03.18-12.11.55:072][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.03.18-12.11.55:072][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.18-12.11.55:517][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.18-12.11.55:522][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.18-12.11.55:624][  0]SourceControl: Source control is disabled
+[2021.03.18-12.11.55:624][  0]SourceControl: Source control is disabled
+[2021.03.18-12.11.55:628][  0]SourceControl: Source control is disabled
+[2021.03.18-12.11.55:632][  0]SourceControl: Source control is disabled
+[2021.03.18-12.11.55:643][  0]SourceControl: Source control is disabled
+[2021.03.18-12.11.55:967][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.18-12.11.55:987][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.18-12.11.55:987][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.18-12.11.56:055][  0]LogOcInput: OculusInput pre-init called
+[2021.03.18-12.11.56:070][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.18-12.11.56:070][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.18-12.11.56:128][  0]LogEngine: Initializing Engine...
+[2021.03.18-12.11.56:129][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.18-12.11.56:129][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.18-12.11.56:130][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.18-12.11.56:301][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.18-12.11.56:314][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.18-12.11.56:314][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000207C081BC00), frame # 0
+[2021.03.18-12.11.56:314][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000207C084EC00), frame # 0
+[2021.03.18-12.11.56:334][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.18-12.11.56:334][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.18-12.11.56:334][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.18-12.11.56:334][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.18-12.11.56:334][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.18-12.11.56:334][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.18-12.11.56:334][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.18-12.11.56:334][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.18-12.11.56:335][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.18-12.11.56:335][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.18-12.11.56:354][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.18-12.11.56:354][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.18-12.11.56:447][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.03.18-12.11.56:451][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.18-12.11.56:454][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.18-12.11.56:454][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.18-12.11.56:455][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.18-12.11.56:456][  0]LogInit: FAudioDevice initialized.
+[2021.03.18-12.11.56:457][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.18-12.11.56:555][  0]LogDerivedDataCache: Saved boot cache 0.10s 95MB C:/Users/s19150427/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.03.18-12.11.56:560][  0]LogInit: Texture streaming: Enabled
+[2021.03.18-12.11.56:577][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.18-12.11.56:577][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.18-12.11.56:583][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.18-12.11.56:650][  0]LogInit: Transaction tracking system initialized
+[2021.03.18-12.11.56:671][  0]BlueprintLog: New page: Editor Load
+[2021.03.18-12.11.56:740][  0]LocalizationService: Localization service is disabled
+[2021.03.18-12.11.56:906][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.03.18-12.11.56:906][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.18-12.11.57:039][  0]LogFileCache: Scanning file cache for directory 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/' took 0.00s
+[2021.03.18-12.11.57:251][  0]SourceControl: Source control is disabled
+[2021.03.18-12.11.57:251][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.953
+[2021.03.18-12.11.57:251][  0]Cmd: MAP LOAD FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Maps/QuestQSMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.18-12.11.57:268][  0]LightingResults: New page: Lighting Build
+[2021.03.18-12.11.57:269][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.18-12.11.57:269][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.18-12.11.57:269][  0]MapCheck: New page: Map Check
+[2021.03.18-12.11.57:269][  0]LightingResults: New page: Lighting Build
+[2021.03.18-12.11.57:277][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000207C081BC00), frame # 0
+[2021.03.18-12.11.57:277][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000207C084EC00), frame # 0
+[2021.03.18-12.11.57:278][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.03.18-12.11.57:820][  0]LogAIModule: Creating AISystem for world QuestQSMap
+[2021.03.18-12.11.57:820][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000207ABA6BE00), frame # 0
+[2021.03.18-12.11.57:820][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000207B253DF80), frame # 0
+[2021.03.18-12.11.57:826][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.18-12.11.57:841][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.03.18-12.11.57:841][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.18-12.11.57:842][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2021.03.18-12.11.57:842][  0]LogFileHelpers: Loading map 'QuestQSMap' took 0.590
+[2021.03.18-12.11.57:843][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.544
+[2021.03.18-12.11.57:983][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.18-12.11.57:991][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.18-12.11.57:997][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.18-12.11.58:002][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.18-12.11.58:011][  0]LogCollectionManager: Loaded 0 collections in 0.001536 seconds
+[2021.03.18-12.11.58:025][  0]LogFileCache: Scanning file cache for directory 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Collections/' took 0.00s
+[2021.03.18-12.11.58:026][  0]LogFileCache: Scanning file cache for directory 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Developers/s19150427/Collections/' took 0.00s
+[2021.03.18-12.11.58:026][  0]LogFileCache: Scanning file cache for directory 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Collections/' took 0.00s
+[2021.03.18-12.11.58:026][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 3427 classes and 821 folders.
+[2021.03.18-12.11.58:031][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.18-12.11.58:163][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.18-12.11.58:163][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.03.18-12.11.58:206][  0]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.18-12.11.58:207][  0]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.18-12.11.58:211][  0]LogSlate: Took 0.000984 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.18-12.11.58:282][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 26 NumSamples 1 (Frame:1).
+[2021.03.18-12.11.58:362][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.18-12.11.58:362][  0]LogLoad: (Engine Initialization) Total time: 9.06 seconds
+[2021.03.18-12.11.58:362][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.18-12.11.58:404][  0]LogAssetRegistry: Asset discovery search completed in 4.4816 seconds
+[2021.03.18-12.11.58:408][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.03.18-12.11.58:409][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.18-12.11.58:443][  0]LogSlate: Took 0.005808 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.18-12.15.05:556][814]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.18-12.15.06:185][814]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2021.03.18-12.15.06:268][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.03.18-12.15.06:268][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.03.18-12.15.06:268][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.03.18-12.15.06:268][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.03.18-12.15.06:268][814]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2021.03.18-12.15.06:280][814]LogMaterial: Display: Missing cached shader map for material lambert39, compiling. 
+[2021.03.18-12.15.06:299][814]LogMaterial: Display: Missing cached shader map for material Wallpaper, compiling. 
+[2021.03.18-12.15.06:341][814]LogMaterial: Display: Missing cached shader map for material lambert42, compiling. 
+[2021.03.18-12.15.06:361][814]LogMaterial: Display: Missing cached shader map for material lambert41, compiling. 
+[2021.03.18-12.15.06:379][814]LogMaterial: Display: Missing cached shader map for material lambert40, compiling. 
+[2021.03.18-12.15.06:394][814]LogMaterial: Display: Missing cached shader map for material lambert39, compiling. 
+[2021.03.18-12.15.06:411][814]LogMaterial: Display: Missing cached shader map for material lambert38, compiling. 
+[2021.03.18-12.15.06:427][814]LogMaterial: Display: Missing cached shader map for material lambert23, compiling. 
+[2021.03.18-12.15.06:466][814]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/House.House
+[2021.03.18-12.15.06:476][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.03.18-12.15.06:477][814]Cmd: MAP LOAD FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Maps/House.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.18-12.15.06:477][814]LightingResults: New page: Lighting Build
+[2021.03.18-12.15.06:477][814]LoadErrors: New page: Loading map: House.umap
+[2021.03.18-12.15.06:512][814]LogWorld: UWorld::CleanupWorld for QuestQSMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.18-12.15.06:512][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.18-12.15.06:513][814]MapCheck: New page: Map Check
+[2021.03.18-12.15.06:513][814]LightingResults: New page: Lighting Build
+[2021.03.18-12.15.06:522][814]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000207ABA6BE00), frame # 814
+[2021.03.18-12.15.06:522][814]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000207B253DF80), frame # 814
+[2021.03.18-12.15.06:523][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.03.18-12.15.06:532][814]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.18-12.15.06:532][814]LogAIModule: Creating AISystem for world House
+[2021.03.18-12.15.06:532][814]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000207ABA6A400), frame # 814
+[2021.03.18-12.15.06:532][814]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000207ABCA6C00), frame # 814
+[2021.03.18-12.15.06:543][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.03.18-12.15.06:568][814]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.18-12.15.06:568][814]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.079ms to complete.
+[2021.03.18-12.15.06:568][814]LogFileHelpers: Loading map 'House' took 0.090
+[2021.03.18-12.15.08:400][950]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 216
+[2021.03.18-12.15.11:306][220]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 206
+[2021.03.18-12.15.12:609][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Kit_wall_right_left)
+[2021.03.18-12.15.12:714][343]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 196
+[2021.03.18-12.15.13:518][397]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 186
+[2021.03.18-12.15.18:794][766]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 176
+[2021.03.18-12.15.20:456][891]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 166
+[2021.03.18-12.15.22:040][  7]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 156
+[2021.03.18-12.15.25:203][182]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 146
+[2021.03.18-12.15.26:616][254]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 136
+[2021.03.18-12.15.30:151][430]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 126
+[2021.03.18-12.15.30:350][441]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 116
+[2021.03.18-12.15.33:271][580]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 106
+[2021.03.18-12.15.36:065][707]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 96
+[2021.03.18-12.15.38:614][820]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 86
+[2021.03.18-12.15.40:800][922]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 76
+[2021.03.18-12.15.41:337][943]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 66
+[2021.03.18-12.15.46:259][139]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 56
+[2021.03.18-12.15.47:064][181]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 46
+[2021.03.18-12.15.49:071][280]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2021.03.18-12.15.49:168][283]LogMaterial: Display: Missing cached shader map for material aiStandardSurface1, compiling. 
+[2021.03.18-12.15.49:180][283]LogMaterial: Display: Missing cached shader map for material aiStandardSurface2, compiling. 
+[2021.03.18-12.15.49:215][283]LogMaterial: Display: Missing cached shader map for material Bathtub_Texture, compiling. 
+[2021.03.18-12.15.49:228][283]LogMaterial: Display: Missing cached shader map for material lambert7, compiling. 
+[2021.03.18-12.15.49:240][283]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2021.03.18-12.15.49:252][283]LogMaterial: Display: Missing cached shader map for material lambert31, compiling. 
+[2021.03.18-12.15.49:271][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.03.18-12.15.51:014][283]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 116
+[2021.03.18-12.15.52:036][283]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 106
+[2021.03.18-12.15.52:658][283]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.18-12.15.53:629][283]LogUObjectGlobals: Force Deleting 11 Package(s):
+	Asset Name: /Game/Models/aiStandardSurface1.aiStandardSurface1
+	Asset Name: /Game/Models/aiStandardSurface2.aiStandardSurface2
+	Asset Name: /Game/Models/aiStandardSurface6.aiStandardSurface6
+	Asset Name: /Game/Models/Bathtub_Texture.Bathtub_Texture
+	Asset Name: /Game/Models/lambert7.lambert7
+	Asset Name: /Game/Models/lambert40.lambert40
+	Asset Name: /Game/Models/lambert4.lambert4
+	Asset Name: /Game/Models/lambert39.lambert39
+	Asset Name: /Game/Models/lambert38.lambert38
+	Asset Name: /Game/Models/lambert23.lambert23
+[2021.03.18-12.15.54:252][283]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 96
+[2021.03.18-12.15.54:817][283]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 86
+[2021.03.18-12.15.56:526][283]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 76
+[2021.03.18-12.15.56:558][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.03.18-12.15.56:569][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.03.18-12.15.56:578][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.03.18-12.15.56:588][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.03.18-12.15.56:597][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.03.18-12.15.56:607][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.18-12.15.56:615][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.03.18-12.15.56:624][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.03.18-12.15.56:633][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.03.18-12.15.56:643][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.03.18-12.15.56:652][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.03.18-12.15.56:663][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.03.18-12.15.56:672][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.03.18-12.15.58:296][359]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 66
+[2021.03.18-12.15.59:558][428]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 56
+[2021.03.18-12.16.02:268][575]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 46
+[2021.03.18-12.16.04:718][703]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2021.03.18-12.16.06:011][766]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2021.03.18-12.16.09:004][909]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.03.18-12.16.10:839][  3]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.03.18-12.16.11:596][ 41]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.03.18-12.16.12:191][ 71]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.03.18-12.16.12:991][112]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.03.18-12.16.13:444][136]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.03.18-12.16.13:675][148]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.03.18-12.16.13:971][164]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.03.18-12.16.27:545][267]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\Container_Other_ugfkdgsva_3d_Preview.png)
+[2021.03.18-12.16.27:555][267]LogTexture: Display: Building textures: Container_Other_ugfkdgsva_3d_Preview (AutoDXT, 400X400)
+[2021.03.18-12.16.27:691][267]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_2K_Albedo.jpg)
+[2021.03.18-12.16.27:779][267]LogTexture: Display: Building textures: ugfkdgsva_2K_Albedo (AutoDXT, 2048X2048)
+[2021.03.18-12.16.28:521][267]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_2K_AO.jpg)
+[2021.03.18-12.16.28:581][267]LogTexture: Display: Building textures: ugfkdgsva_2K_AO (AutoDXT, 2048X2048)
+[2021.03.18-12.16.28:996][267]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_2K_Displacement.exr)
+[2021.03.18-12.16.29:176][267]LogTexture: Display: Building textures: ugfkdgsva_2K_Displacement (RGBA16F, 2048X2048)
+[2021.03.18-12.16.29:465][267]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_2K_Displacement.jpg)
+[2021.03.18-12.16.29:541][267]LogTexture: Display: Building textures: ugfkdgsva_2K_Displacement_0 (AutoDXT, 2048X2048)
+[2021.03.18-12.16.29:784][267]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_2K_Normal_LOD0.jpg)
+[2021.03.18-12.16.29:944][267]LogTexture: Display: Building textures: ugfkdgsva_2K_Normal_LOD0 (BC5, 2048X2048)
+[2021.03.18-12.16.30:194][267]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_2K_Roughness.jpg)
+[2021.03.18-12.16.30:260][267]LogTexture: Display: Building textures: ugfkdgsva_2K_Roughness (AutoDXT, 2048X2048)
+[2021.03.18-12.16.30:625][267]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD0.fbx)
+[2021.03.18-12.16.30:635][267]LogFbx: Loading FBX Scene from C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD0.fbx
+[2021.03.18-12.16.30:644][267]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.18-12.16.39:015][267]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.18-12.16.39:058][267]LogFbx: Display: Triangulating static mesh Aset_container_other_S_ugfkdgsva_LOD0
+[2021.03.18-12.16.39:403][267]LogStaticMesh: Building static mesh ugfkdgsva_LOD0...
+[2021.03.18-12.16.39:495][267]LogStaticMesh: Built static mesh [0.09s] /Game/Models/Props/ugfkdgsva_LOD0.ugfkdgsva_LOD0
+[2021.03.18-12.16.39:541][267]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.18-12.16.39:619][267]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD1.fbx)
+[2021.03.18-12.16.39:631][267]LogFbx: Loading FBX Scene from C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD1.fbx
+[2021.03.18-12.16.39:638][267]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.18-12.16.39:666][267]LogStaticMesh: Building static mesh ugfkdgsva_LOD1...
+[2021.03.18-12.16.39:707][267]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Props/ugfkdgsva_LOD1.ugfkdgsva_LOD1
+[2021.03.18-12.16.39:730][267]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.18-12.16.39:739][267]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD2.fbx)
+[2021.03.18-12.16.39:749][267]LogFbx: Loading FBX Scene from C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD2.fbx
+[2021.03.18-12.16.39:754][267]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.18-12.16.39:762][267]LogStaticMesh: Building static mesh ugfkdgsva_LOD2...
+[2021.03.18-12.16.39:780][267]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Props/ugfkdgsva_LOD2.ugfkdgsva_LOD2
+[2021.03.18-12.16.39:793][267]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.18-12.16.39:798][267]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD3.fbx)
+[2021.03.18-12.16.39:807][267]LogFbx: Loading FBX Scene from C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD3.fbx
+[2021.03.18-12.16.39:812][267]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.18-12.16.39:818][267]LogStaticMesh: Building static mesh ugfkdgsva_LOD3...
+[2021.03.18-12.16.39:827][267]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Props/ugfkdgsva_LOD3.ugfkdgsva_LOD3
+[2021.03.18-12.16.39:835][267]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.18-12.16.39:839][267]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD4.fbx)
+[2021.03.18-12.16.39:848][267]LogFbx: Loading FBX Scene from C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD4.fbx
+[2021.03.18-12.16.39:853][267]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.18-12.16.39:858][267]LogStaticMesh: Building static mesh ugfkdgsva_LOD4...
+[2021.03.18-12.16.39:863][267]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Props/ugfkdgsva_LOD4.ugfkdgsva_LOD4
+[2021.03.18-12.16.39:870][267]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.18-12.16.39:872][267]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD5.fbx)
+[2021.03.18-12.16.39:881][267]LogFbx: Loading FBX Scene from C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD5.fbx
+[2021.03.18-12.16.39:886][267]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.18-12.16.39:903][267]LogStaticMesh: Building static mesh ugfkdgsva_LOD5...
+[2021.03.18-12.16.39:905][267]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Props/ugfkdgsva_LOD5.ugfkdgsva_LOD5
+[2021.03.18-12.16.39:912][267]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.18-12.16.39:915][267]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD6.fbx)
+[2021.03.18-12.16.39:924][267]LogFbx: Loading FBX Scene from C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD6.fbx
+[2021.03.18-12.16.39:929][267]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.18-12.16.39:935][267]LogStaticMesh: Building static mesh ugfkdgsva_LOD6...
+[2021.03.18-12.16.39:937][267]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Props/ugfkdgsva_LOD6.ugfkdgsva_LOD6
+[2021.03.18-12.16.39:943][267]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.18-12.16.39:945][267]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD7.fbx)
+[2021.03.18-12.16.39:954][267]LogFbx: Loading FBX Scene from C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD7.fbx
+[2021.03.18-12.16.39:959][267]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.18-12.16.39:964][267]LogStaticMesh: Building static mesh ugfkdgsva_LOD7...
+[2021.03.18-12.16.39:965][267]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Props/ugfkdgsva_LOD7.ugfkdgsva_LOD7
+[2021.03.18-12.16.39:971][267]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.18-12.16.39:973][267]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD8.fbx)
+[2021.03.18-12.16.39:982][267]LogFbx: Loading FBX Scene from C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD8.fbx
+[2021.03.18-12.16.39:987][267]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.18-12.16.40:013][267]LogStaticMesh: Building static mesh ugfkdgsva_LOD8...
+[2021.03.18-12.16.40:015][267]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Props/ugfkdgsva_LOD8.ugfkdgsva_LOD8
+[2021.03.18-12.16.40:020][267]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.18-12.16.40:065][267]LogSlate: Took 0.001342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.03.18-12.16.42:086][494]LogSlate: Window 'Message Log' being destroyed
+[2021.03.18-12.16.42:090][494]LogSlate: Window 'Message Log' being destroyed
+[2021.03.18-12.16.54:290][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.03.18-12.16.55:383][841]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.18-12.16.55:479][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.03.18-12.17.01:943][ 49]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD0.fbx)
+[2021.03.18-12.17.01:952][ 49]LogFbx: Loading FBX Scene from C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD0.fbx
+[2021.03.18-12.17.01:959][ 49]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.18-12.17.10:706][ 49]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.18-12.17.10:749][ 49]LogFbx: Display: Triangulating static mesh Aset_container_other_S_ugfkdgsva_LOD0
+[2021.03.18-12.17.11:085][ 49]LogStaticMesh: Building static mesh ugfkdgsva_LOD0...
+[2021.03.18-12.17.11:172][ 49]LogStaticMesh: Built static mesh [0.09s] /Game/Models/Props/ugfkdgsva_LOD0.ugfkdgsva_LOD0
+[2021.03.18-12.17.11:222][ 49]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.18-12.17.11:299][ 49]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD1.fbx)
+[2021.03.18-12.17.11:311][ 49]LogFbx: Loading FBX Scene from C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD1.fbx
+[2021.03.18-12.17.11:317][ 49]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.18-12.17.11:329][ 49]LogStaticMesh: Building static mesh ugfkdgsva_LOD1...
+[2021.03.18-12.17.11:369][ 49]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Props/ugfkdgsva_LOD1.ugfkdgsva_LOD1
+[2021.03.18-12.17.11:393][ 49]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.18-12.17.11:402][ 49]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD2.fbx)
+[2021.03.18-12.17.11:413][ 49]LogFbx: Loading FBX Scene from C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD2.fbx
+[2021.03.18-12.17.11:418][ 49]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.18-12.17.11:423][ 49]LogStaticMesh: Building static mesh ugfkdgsva_LOD2...
+[2021.03.18-12.17.11:441][ 49]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Props/ugfkdgsva_LOD2.ugfkdgsva_LOD2
+[2021.03.18-12.17.11:453][ 49]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.18-12.17.11:459][ 49]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD3.fbx)
+[2021.03.18-12.17.11:469][ 49]LogFbx: Loading FBX Scene from C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD3.fbx
+[2021.03.18-12.17.11:473][ 49]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.18-12.17.11:476][ 49]LogStaticMesh: Building static mesh ugfkdgsva_LOD3...
+[2021.03.18-12.17.11:485][ 49]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Props/ugfkdgsva_LOD3.ugfkdgsva_LOD3
+[2021.03.18-12.17.11:493][ 49]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.18-12.17.11:496][ 49]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD4.fbx)
+[2021.03.18-12.17.11:505][ 49]LogFbx: Loading FBX Scene from C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD4.fbx
+[2021.03.18-12.17.11:510][ 49]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.18-12.17.11:512][ 49]LogStaticMesh: Building static mesh ugfkdgsva_LOD4...
+[2021.03.18-12.17.11:517][ 49]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Props/ugfkdgsva_LOD4.ugfkdgsva_LOD4
+[2021.03.18-12.17.11:524][ 49]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.18-12.17.11:527][ 49]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD5.fbx)
+[2021.03.18-12.17.11:535][ 49]LogFbx: Loading FBX Scene from C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD5.fbx
+[2021.03.18-12.17.11:540][ 49]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.18-12.17.11:541][ 49]LogStaticMesh: Building static mesh ugfkdgsva_LOD5...
+[2021.03.18-12.17.11:544][ 49]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Props/ugfkdgsva_LOD5.ugfkdgsva_LOD5
+[2021.03.18-12.17.11:549][ 49]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.18-12.17.11:552][ 49]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD6.fbx)
+[2021.03.18-12.17.11:561][ 49]LogFbx: Loading FBX Scene from C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD6.fbx
+[2021.03.18-12.17.11:565][ 49]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.18-12.17.11:567][ 49]LogStaticMesh: Building static mesh ugfkdgsva_LOD6...
+[2021.03.18-12.17.11:569][ 49]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Props/ugfkdgsva_LOD6.ugfkdgsva_LOD6
+[2021.03.18-12.17.11:574][ 49]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.18-12.17.11:576][ 49]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD7.fbx)
+[2021.03.18-12.17.11:587][ 49]LogFbx: Loading FBX Scene from C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD7.fbx
+[2021.03.18-12.17.11:591][ 49]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.18-12.17.11:592][ 49]LogStaticMesh: Building static mesh ugfkdgsva_LOD7...
+[2021.03.18-12.17.11:594][ 49]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Props/ugfkdgsva_LOD7.ugfkdgsva_LOD7
+[2021.03.18-12.17.11:598][ 49]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.18-12.17.11:601][ 49]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD8.fbx)
+[2021.03.18-12.17.11:611][ 49]LogFbx: Loading FBX Scene from C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_LOD8.fbx
+[2021.03.18-12.17.11:615][ 49]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.18-12.17.11:616][ 49]LogStaticMesh: Building static mesh ugfkdgsva_LOD8...
+[2021.03.18-12.17.11:618][ 49]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Props/ugfkdgsva_LOD8.ugfkdgsva_LOD8
+[2021.03.18-12.17.11:623][ 49]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.18-12.17.15:408][496]LogSlate: Window 'Message Log' being destroyed
+[2021.03.18-12.17.15:412][496]LogSlate: Window 'Message Log' being destroyed
+[2021.03.18-12.17.16:520][610]LogActorFactory: Actor Factory created ugfkdgsva_LOD0
+[2021.03.18-12.17.17:009][662]LogActorFactory: Actor Factory created ugfkdgsva_LOD0
+[2021.03.18-12.17.58:658][786]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_2K_Albedo.jpg)
+[2021.03.18-12.17.58:751][786]LogTexture: Display: Building textures: ugfkdgsva_2K_Albedo (AutoDXT, 2048X2048)
+[2021.03.18-12.17.59:502][786]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_2K_AO.jpg)
+[2021.03.18-12.17.59:562][786]LogTexture: Display: Building textures: ugfkdgsva_2K_AO (AutoDXT, 2048X2048)
+[2021.03.18-12.17.59:974][786]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_2K_Displacement.exr)
+[2021.03.18-12.18.00:152][786]LogTexture: Display: Building textures: ugfkdgsva_2K_Displacement (RGBA16F, 2048X2048)
+[2021.03.18-12.18.00:414][786]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_2K_Displacement.jpg)
+[2021.03.18-12.18.00:476][786]LogTexture: Display: Building textures: ugfkdgsva_2K_Displacement_0 (AutoDXT, 2048X2048)
+[2021.03.18-12.18.00:709][786]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_2K_Normal_LOD0.jpg)
+[2021.03.18-12.18.00:841][786]LogTexture: Display: Building textures: ugfkdgsva_2K_Normal_LOD0 (BC5, 2048X2048)
+[2021.03.18-12.18.01:072][786]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\s19150427\Downloads\Container_Other_ugfkdgsva_2K_3d_ms\ugfkdgsva_2K_Roughness.jpg)
+[2021.03.18-12.18.01:127][786]LogTexture: Display: Building textures: ugfkdgsva_2K_Roughness (AutoDXT, 2048X2048)
+[2021.03.18-12.18.21:156][ 31]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Models/Materials/Props/Coffee/CoffeeCup.CoffeeCup
+[2021.03.18-12.18.21:157][ 31]LogMaterial: Display: Missing cached shader map for material CoffeeCup, compiling. 
+[2021.03.18-12.18.21:465][ 31]LogMaterial: Display: Missing cached shader map for material CoffeeCup, compiling. 
+[2021.03.18-12.18.21:472][ 31]LogMaterial: Display: Missing cached shader map for material CoffeeCup, compiling. 
+[2021.03.18-12.18.21:513][ 31]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.03.18-12.18.21:513][ 31]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.03.18-12.18.21:513][ 31]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.03.18-12.18.21:513][ 31]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.03.18-12.18.21:513][ 31]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.18-12.18.22:430][ 72]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.03.18-12.18.22:714][ 86]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.03.18-12.18.22:894][ 94]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.03.18-12.18.22:975][ 98]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.03.18-12.18.23:423][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.03.18-12.18.24:075][158]MaterialEditorStats: Base pass shader: 172 instructions
+[2021.03.18-12.18.24:075][158]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 246 instructions
+[2021.03.18-12.18.24:075][158]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2021.03.18-12.18.24:075][158]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.18-12.18.28:227][554]LogMaterial: Display: Missing cached shader map for material CoffeeCup, compiling. 
+[2021.03.18-12.18.28:233][554]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.03.18-12.18.28:245][554]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.03.18-12.18.28:245][554]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.03.18-12.18.28:245][554]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.03.18-12.18.28:245][554]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.03.18-12.18.28:247][554]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.03.18-12.18.28:923][585]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.03.18-12.18.29:181][597]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.03.18-12.18.29:363][605]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.03.18-12.18.29:404][607]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.03.18-12.18.29:780][625]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.03.18-12.18.29:859][627]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.03.18-12.18.30:284][648]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.03.18-12.18.30:351][650]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.03.18-12.18.30:459][655]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.03.18-12.18.30:775][675]LogMaterial: Display: Missing cached shader map for material CoffeeCup, compiling. 
+[2021.03.18-12.18.30:781][675]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.03.18-12.18.30:788][675]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.03.18-12.18.30:992][682]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.03.18-12.18.31:035][685]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.03.18-12.18.31:074][687]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.03.18-12.18.31:782][717]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.03.18-12.18.31:861][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.03.18-12.18.31:911][725]LogMaterialEditor: Saving and Compiling material CoffeeCup
+[2021.03.18-12.18.32:621][725]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.03.18-12.18.32:621][725]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.03.18-12.18.32:621][725]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.03.18-12.18.32:621][725]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.03.18-12.18.32:632][725]LogMaterial: Display: Missing cached shader map for material CoffeeCup, compiling. 
+[2021.03.18-12.18.32:698][725]LogMaterial: Display: Missing cached shader map for material CoffeeCup, compiling. 
+[2021.03.18-12.18.32:745][725]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2021.03.18-12.18.32:745][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.03.18-12.18.32:782][725]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.18-12.18.33:345][725]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2021.03.18-12.18.33:345][725]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2021.03.18-12.18.33:345][725]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2021.03.18-12.18.33:345][725]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2021.03.18-12.18.33:345][725]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2021.03.18-12.18.33:345][725]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2021.03.18-12.18.33:904][725]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2021.03.18-12.18.33:904][725]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2021.03.18-12.18.33:904][725]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2021.03.18-12.18.34:463][725]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.03.18-12.18.34:463][725]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2021.03.18-12.18.34:463][725]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.03.18-12.18.34:463][725]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.03.18-12.18.34:726][725]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.03.18-12.18.34:726][725]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.03.18-12.18.34:726][725]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.03.18-12.18.34:726][725]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.03.18-12.18.34:737][725]TextureStreamingBuild: Display: Compiling optional shaders took 1.961 seconds.
+[2021.03.18-12.18.34:748][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.03.18-12.18.35:946][725]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.03.18-12.18.36:504][725]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.03.18-12.18.36:504][725]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.03.18-12.18.36:594][725]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/CoffeeCup56D3141E40E4A75F9DCE2486405FF8C7.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Materials/Props/Coffee/CoffeeCup.uasset'
+[2021.03.18-12.18.36:640][725]AssetCheck: New page: Asset Save: CoffeeCup
+[2021.03.18-12.18.36:640][725]LogContentValidation: Display: Validating Material /Game/Models/Materials/Props/Coffee/CoffeeCup.CoffeeCup
+[2021.03.18-12.18.36:643][725]MaterialEditorStats: Base pass shader: 175 instructions
+[2021.03.18-12.18.36:643][725]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 249 instructions
+[2021.03.18-12.18.36:643][725]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2021.03.18-12.18.36:643][725]MaterialEditorStats: Texture samplers: 4/16
+[2021.03.18-12.18.36:643][725]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.03.18-12.18.36:643][725]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.03.18-12.18.41:377][135]LogMaterial: Display: Missing cached shader map for material CoffeeCup, compiling. 
+[2021.03.18-12.18.41:382][135]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.03.18-12.18.41:392][135]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.03.18-12.18.41:396][135]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.03.18-12.18.41:396][135]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.03.18-12.18.41:396][135]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.03.18-12.18.41:396][135]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.03.18-12.18.41:396][135]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.03.18-12.18.42:063][164]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.03.18-12.18.42:306][175]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.03.18-12.18.42:511][184]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.03.18-12.18.42:536][185]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.03.18-12.18.42:942][204]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.03.18-12.18.43:052][210]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.03.18-12.18.43:369][224]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.03.18-12.18.43:399][226]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.03.18-12.18.43:474][231]LogMaterial: Display: Missing cached shader map for material CoffeeCup, compiling. 
+[2021.03.18-12.18.43:486][231]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.03.18-12.18.43:486][231]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.03.18-12.18.43:591][237]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.03.18-12.18.44:115][257]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.03.18-12.18.44:175][260]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.03.18-12.18.44:192][261]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.03.18-12.18.44:557][281]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.03.18-12.18.44:761][292]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.03.18-12.18.45:013][302]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.03.18-12.18.45:265][312]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.03.18-12.18.45:594][323]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.03.18-12.18.45:830][333]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.03.18-12.18.45:956][339]LogMaterialEditor: Saving and Compiling material CoffeeCup
+[2021.03.18-12.18.46:609][339]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.03.18-12.18.46:609][339]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.03.18-12.18.46:609][339]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.03.18-12.18.46:619][339]LogMaterial: Display: Missing cached shader map for material CoffeeCup, compiling. 
+[2021.03.18-12.18.46:646][339]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.03.18-12.18.46:646][339]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.03.18-12.18.46:646][339]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.03.18-12.18.46:669][339]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.03.18-12.18.46:681][339]LogMaterial: Display: Missing cached shader map for material CoffeeCup, compiling. 
+[2021.03.18-12.18.46:713][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.03.18-12.18.46:721][339]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.18-12.18.47:284][339]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2021.03.18-12.18.47:844][339]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2021.03.18-12.18.47:844][339]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2021.03.18-12.18.47:844][339]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2021.03.18-12.18.47:844][339]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.03.18-12.18.47:844][339]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.03.18-12.18.48:348][339]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2021.03.18-12.18.48:348][339]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.03.18-12.18.48:348][339]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.03.18-12.18.48:348][339]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.03.18-12.18.48:348][339]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.03.18-12.18.48:352][339]TextureStreamingBuild: Display: Compiling optional shaders took 1.637 seconds.
+[2021.03.18-12.18.48:368][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.03.18-12.18.49:560][339]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.03.18-12.18.50:115][339]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.03.18-12.18.50:115][339]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.03.18-12.18.50:168][339]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/CoffeeCupE013654543EF91B689D2F49050BF12AA.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Materials/Props/Coffee/CoffeeCup.uasset'
+[2021.03.18-12.18.50:207][339]AssetCheck: New page: Asset Save: CoffeeCup
+[2021.03.18-12.18.50:207][339]LogContentValidation: Display: Validating Material /Game/Models/Materials/Props/Coffee/CoffeeCup.CoffeeCup
+[2021.03.18-12.18.50:209][339]MaterialEditorStats: Base pass shader: 177 instructions
+[2021.03.18-12.18.50:209][339]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 251 instructions
+[2021.03.18-12.18.50:209][339]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2021.03.18-12.18.50:209][339]MaterialEditorStats: Texture samplers: 5/16
+[2021.03.18-12.18.50:209][339]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.03.18-12.18.50:209][339]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.03.18-12.18.59:753][190]LogMaterial: Display: Missing cached shader map for material CoffeeCup, compiling. 
+[2021.03.18-12.18.59:759][190]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.03.18-12.18.59:768][190]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.03.18-12.18.59:768][190]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.03.18-12.18.59:768][190]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.03.18-12.18.59:768][190]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.03.18-12.18.59:771][190]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.03.18-12.18.59:774][190]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.03.18-12.18.59:779][190]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.03.18-12.19.00:449][219]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.03.18-12.19.00:833][234]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2021.03.18-12.19.00:980][238]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.03.18-12.19.01:004][240]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.03.18-12.19.01:521][262]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2021.03.18-12.19.01:546][263]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.03.18-12.19.01:933][278]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.03.18-12.19.01:978][280]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.03.18-12.19.02:168][287]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.03.18-12.19.02:169][287]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.03.18-12.19.02:176][287]MaterialEditorStats: Base pass shader: 177 instructions
+[2021.03.18-12.19.02:176][287]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 251 instructions
+[2021.03.18-12.19.02:176][287]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2021.03.18-12.19.02:176][287]MaterialEditorStats: Texture samplers: 4/16
+[2021.03.18-12.19.02:176][287]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.03.18-12.19.02:176][287]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.03.18-12.19.02:646][306]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.03.18-12.19.02:731][310]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.03.18-12.19.02:841][316]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.03.18-12.19.02:858][317]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.03.18-12.19.03:403][339]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.03.18-12.19.03:511][344]LogMaterial: Display: Missing cached shader map for material CoffeeCup, compiling. 
+[2021.03.18-12.19.03:553][344]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.03.18-12.19.03:574][345]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.03.18-12.19.03:574][345]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.03.18-12.19.04:030][368]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.03.18-12.19.04:165][376]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.03.18-12.19.04:242][381]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.03.18-12.19.04:491][394]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.03.18-12.19.04:783][408]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.03.18-12.19.04:826][409]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.03.18-12.19.05:219][426]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.03.18-12.19.05:472][438]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.03.18-12.19.06:645][545]LogMaterial: Display: Missing cached shader map for material CoffeeCup, compiling. 
+[2021.03.18-12.19.06:653][545]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.03.18-12.19.06:653][545]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.03.18-12.19.06:653][545]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.03.18-12.19.06:653][545]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.03.18-12.19.06:655][545]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.03.18-12.19.07:363][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.03.18-12.19.07:596][583]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.03.18-12.19.07:754][590]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.03.18-12.19.07:773][591]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.03.18-12.19.07:887][597]LogMaterialEditor: Saving and Compiling material CoffeeCup
+[2021.03.18-12.19.08:598][597]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.03.18-12.19.08:598][597]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.03.18-12.19.08:598][597]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.03.18-12.19.08:598][597]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.03.18-12.19.08:609][597]LogMaterial: Display: Missing cached shader map for material CoffeeCup, compiling. 
+[2021.03.18-12.19.08:642][597]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.03.18-12.19.08:664][597]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.03.18-12.19.08:664][597]LogMaterial: Display: Missing cached shader map for material CoffeeCup, compiling. 
+[2021.03.18-12.19.08:698][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.03.18-12.19.08:707][597]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.18-12.19.09:270][597]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2021.03.18-12.19.09:270][597]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2021.03.18-12.19.09:270][597]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2021.03.18-12.19.09:829][597]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2021.03.18-12.19.09:829][597]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2021.03.18-12.19.09:829][597]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2021.03.18-12.19.09:829][597]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2021.03.18-12.19.10:388][597]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2021.03.18-12.19.10:388][597]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.03.18-12.19.10:388][597]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2021.03.18-12.19.10:388][597]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.03.18-12.19.10:388][597]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.03.18-12.19.10:388][597]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.03.18-12.19.10:565][597]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.03.18-12.19.10:568][597]TextureStreamingBuild: Display: Compiling optional shaders took 1.867 seconds.
+[2021.03.18-12.19.10:585][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.03.18-12.19.11:776][597]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.03.18-12.19.11:776][597]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.03.18-12.19.12:265][597]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.03.18-12.19.12:362][597]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/CoffeeCup503D6C9B44134C5899E081A10F8D86E5.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Materials/Props/Coffee/CoffeeCup.uasset'
+[2021.03.18-12.19.12:407][597]AssetCheck: New page: Asset Save: CoffeeCup
+[2021.03.18-12.19.12:408][597]LogContentValidation: Display: Validating Material /Game/Models/Materials/Props/Coffee/CoffeeCup.CoffeeCup
+[2021.03.18-12.19.12:411][597]MaterialEditorStats: Base pass shader: 183 instructions
+[2021.03.18-12.19.12:411][597]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 257 instructions
+[2021.03.18-12.19.12:411][597]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2021.03.18-12.19.12:411][597]MaterialEditorStats: Texture samplers: 6/16
+[2021.03.18-12.19.12:411][597]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.03.18-12.19.12:411][597]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.03.18-12.19.25:529][845]LogMaterial: Display: Missing cached shader map for material CoffeeCup, compiling. 
+[2021.03.18-12.19.25:535][845]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.03.18-12.19.25:543][845]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.03.18-12.19.25:543][845]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.03.18-12.19.25:543][845]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.03.18-12.19.25:543][845]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.03.18-12.19.25:546][845]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.03.18-12.19.25:549][845]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.03.18-12.19.25:552][845]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.03.18-12.19.25:556][845]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.03.18-12.19.26:219][871]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.03.18-12.19.26:519][883]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.03.18-12.19.26:655][890]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2021.03.18-12.19.26:672][891]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2021.03.18-12.19.27:158][915]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.03.18-12.19.27:174][916]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.03.18-12.19.27:359][926]LogMaterial: Display: Missing cached shader map for material CoffeeCup, compiling. 
+[2021.03.18-12.19.27:377][926]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.03.18-12.19.27:552][933]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.03.18-12.19.27:596][935]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.03.18-12.19.27:756][944]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2021.03.18-12.19.27:794][946]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.03.18-12.19.28:321][966]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2021.03.18-12.19.28:414][970]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2021.03.18-12.19.28:487][974]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.03.18-12.19.28:487][974]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.03.18-12.19.28:915][991]LogSlate: Took 0.009307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.18-12.19.29:225][  2]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.03.18-12.19.29:309][  3]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.03.18-12.19.29:314][  4]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.03.18-12.19.29:349][  6]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.03.18-12.19.30:073][ 36]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.03.18-12.19.30:096][ 37]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.03.18-12.19.30:152][ 40]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.03.18-12.19.30:237][ 45]LogMaterialEditor: Saving and Compiling material CoffeeCup
+[2021.03.18-12.19.31:006][ 45]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.03.18-12.19.31:006][ 45]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.03.18-12.19.31:006][ 45]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.03.18-12.19.31:017][ 45]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.03.18-12.19.31:017][ 45]LogMaterial: Display: Missing cached shader map for material CoffeeCup, compiling. 
+[2021.03.18-12.19.31:085][ 45]LogMaterial: Display: Missing cached shader map for material CoffeeCup, compiling. 
+[2021.03.18-12.19.31:123][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.03.18-12.19.31:135][ 45]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.18-12.19.31:698][ 45]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2021.03.18-12.19.31:698][ 45]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2021.03.18-12.19.31:698][ 45]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2021.03.18-12.19.31:698][ 45]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2021.03.18-12.19.32:257][ 45]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2021.03.18-12.19.32:257][ 45]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2021.03.18-12.19.32:257][ 45]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2021.03.18-12.19.32:257][ 45]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2021.03.18-12.19.32:257][ 45]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2021.03.18-12.19.32:817][ 45]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2021.03.18-12.19.32:817][ 45]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2021.03.18-12.19.32:817][ 45]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2021.03.18-12.19.33:235][ 45]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.03.18-12.19.33:235][ 45]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.03.18-12.19.33:235][ 45]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.03.18-12.19.33:235][ 45]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.03.18-12.19.33:235][ 45]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.03.18-12.19.33:235][ 45]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.03.18-12.19.33:237][ 45]TextureStreamingBuild: Display: Compiling optional shaders took 2.109 seconds.
+[2021.03.18-12.19.33:256][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.03.18-12.19.34:443][ 45]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.03.18-12.19.35:002][ 45]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.03.18-12.19.35:002][ 45]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.03.18-12.19.35:170][ 45]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/CoffeeCup990BED2E4C9CD84B41B65DBBD89D2FFD.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Materials/Props/Coffee/CoffeeCup.uasset'
+[2021.03.18-12.19.35:226][ 45]AssetCheck: New page: Asset Save: CoffeeCup
+[2021.03.18-12.19.35:226][ 45]LogContentValidation: Display: Validating Material /Game/Models/Materials/Props/Coffee/CoffeeCup.CoffeeCup
+[2021.03.18-12.19.35:228][ 45]MaterialEditorStats: Base pass shader: 185 instructions
+[2021.03.18-12.19.35:228][ 45]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 259 instructions
+[2021.03.18-12.19.35:228][ 45]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2021.03.18-12.19.35:228][ 45]MaterialEditorStats: Texture samplers: 7/16
+[2021.03.18-12.19.35:228][ 45]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.03.18-12.19.35:228][ 45]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.03.18-12.19.41:019][587]LogMaterial: Display: Missing cached shader map for material CoffeeCup, compiling. 
+[2021.03.18-12.19.41:025][587]LogMaterial: Display: Missing cached shader map for material CoffeeCup, compiling. 
+[2021.03.18-12.19.41:037][587]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.03.18-12.19.41:037][587]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.03.18-12.19.41:037][587]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.03.18-12.19.41:037][587]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.03.18-12.19.41:040][587]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.03.18-12.19.41:731][618]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.03.18-12.19.41:972][629]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.03.18-12.19.42:136][636]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.03.18-12.19.42:178][638]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.03.18-12.19.42:632][658]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.03.18-12.19.42:799][666]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.03.18-12.19.43:124][682]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.03.18-12.19.43:140][683]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.03.18-12.19.43:220][689]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.03.18-12.19.43:320][696]MaterialEditorStats: Base pass shader: 185 instructions
+[2021.03.18-12.19.43:320][696]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 259 instructions
+[2021.03.18-12.19.43:321][696]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2021.03.18-12.19.43:321][696]MaterialEditorStats: Texture samplers: 6/16
+[2021.03.18-12.19.43:321][696]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.03.18-12.19.43:321][696]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.03.18-12.19.44:991][835]LogMaterial: Display: Missing cached shader map for material CoffeeCup, compiling. 
+[2021.03.18-12.19.45:021][836]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.03.18-12.19.45:021][836]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.03.18-12.19.45:021][836]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.03.18-12.19.45:021][836]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.03.18-12.19.45:694][868]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.03.18-12.19.45:953][880]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.03.18-12.19.46:112][887]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.03.18-12.19.46:134][888]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.03.18-12.19.46:579][908]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.03.18-12.19.49:600][226]LogMaterial: Display: Missing cached shader map for material CoffeeCup, compiling. 
+[2021.03.18-12.19.49:611][226]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.03.18-12.19.49:616][226]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.03.18-12.19.49:616][226]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.03.18-12.19.49:616][226]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.03.18-12.19.49:616][226]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.03.18-12.19.50:281][257]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.03.18-12.19.50:612][271]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.03.18-12.19.50:733][275]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.03.18-12.19.50:761][276]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.03.18-12.19.51:262][291]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.03.18-12.19.51:301][293]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.03.18-12.19.51:513][303]LogMaterialEditor: Saving and Compiling material CoffeeCup
+[2021.03.18-12.19.52:179][303]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.03.18-12.19.52:179][303]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.03.18-12.19.52:179][303]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.03.18-12.19.52:188][303]LogMaterial: Display: Missing cached shader map for material CoffeeCup, compiling. 
+[2021.03.18-12.19.52:235][303]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.03.18-12.19.52:235][303]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.03.18-12.19.52:235][303]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.03.18-12.19.52:245][303]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.03.18-12.19.52:245][303]LogMaterial: Display: Missing cached shader map for material CoffeeCup, compiling. 
+[2021.03.18-12.19.52:277][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.03.18-12.19.52:285][303]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.18-12.19.52:848][303]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2021.03.18-12.19.53:407][303]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.03.18-12.19.53:407][303]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.03.18-12.19.53:407][303]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.03.18-12.19.53:407][303]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2021.03.18-12.19.53:407][303]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.03.18-12.19.53:954][303]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.03.18-12.19.53:954][303]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.03.18-12.19.53:954][303]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.03.18-12.19.53:954][303]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.03.18-12.19.53:954][303]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.03.18-12.19.53:957][303]TextureStreamingBuild: Display: Compiling optional shaders took 1.678 seconds.
+[2021.03.18-12.19.53:975][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.03.18-12.19.55:161][303]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.03.18-12.19.55:660][303]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.03.18-12.19.55:660][303]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.03.18-12.19.55:704][303]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/CoffeeCup46C77304429CAF514DA8CEB83D862D34.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Materials/Props/Coffee/CoffeeCup.uasset'
+[2021.03.18-12.19.55:757][303]AssetCheck: New page: Asset Save: CoffeeCup
+[2021.03.18-12.19.55:757][303]LogContentValidation: Display: Validating Material /Game/Models/Materials/Props/Coffee/CoffeeCup.CoffeeCup
+[2021.03.18-12.19.55:760][303]MaterialEditorStats: Base pass shader: 183 instructions
+[2021.03.18-12.19.55:760][303]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 261 instructions
+[2021.03.18-12.19.55:760][303]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2021.03.18-12.19.55:760][303]MaterialEditorStats: Texture samplers: 7/16
+[2021.03.18-12.19.55:760][303]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.03.18-12.19.55:760][303]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.03.18-12.21.14:441][604]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Props/ugfkdgsva_LOD8.ugfkdgsva_LOD8
+[2021.03.18-12.21.14:732][604]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.03.18-12.21.14:732][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.18-12.21.25:392][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.03.18-12.21.26:440][484]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.18-12.21.26:492][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.03.18-12.21.31:039][877]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Props/ugfkdgsva_LOD0.ugfkdgsva_LOD0
+[2021.03.18-12.21.31:187][877]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.03.18-12.21.31:187][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.18-12.21.33:475][ 35]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.03.18-12.21.33:475][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.18-12.21.57:375][861]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Props/ugfkdgsva_LOD1.ugfkdgsva_LOD1
+[2021.03.18-12.21.57:511][861]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.03.18-12.21.57:511][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.18-12.21.58:273][887]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Props/ugfkdgsva_LOD2.ugfkdgsva_LOD2
+[2021.03.18-12.21.58:451][887]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.03.18-12.21.58:451][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.18-12.21.58:941][905]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Props/ugfkdgsva_LOD3.ugfkdgsva_LOD3
+[2021.03.18-12.21.59:090][905]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.03.18-12.21.59:091][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.18-12.21.59:508][919]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Props/ugfkdgsva_LOD4.ugfkdgsva_LOD4
+[2021.03.18-12.21.59:657][919]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.03.18-12.21.59:657][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.18-12.22.00:011][929]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Props/ugfkdgsva_LOD5.ugfkdgsva_LOD5
+[2021.03.18-12.22.00:161][929]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.03.18-12.22.00:161][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.18-12.22.00:510][936]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Props/ugfkdgsva_LOD6.ugfkdgsva_LOD6
+[2021.03.18-12.22.00:662][936]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.03.18-12.22.00:662][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.18-12.22.01:124][951]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Props/ugfkdgsva_LOD7.ugfkdgsva_LOD7
+[2021.03.18-12.22.01:271][951]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.03.18-12.22.01:271][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.18-12.22.34:161][943]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.03.18-12.22.34:161][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.18-12.22.36:002][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/ugfkdgsva_LOD7" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/ugfkdgsva_LOD7.uasset" SILENT=true
+[2021.03.18-12.22.36:024][ 19]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/ugfkdgsva_LOD7C01585CB41EE4B5F79EBB3A92011855F.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/ugfkdgsva_LOD7.uasset'
+[2021.03.18-12.22.36:047][ 19]AssetCheck: New page: Asset Save: ugfkdgsva_LOD7
+[2021.03.18-12.22.36:047][ 19]LogContentValidation: Display: Validating StaticMesh /Game/Models/Props/ugfkdgsva_LOD7.ugfkdgsva_LOD7
+[2021.03.18-12.22.37:816][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/ugfkdgsva_LOD1" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/ugfkdgsva_LOD1.uasset" SILENT=true
+[2021.03.18-12.22.37:858][117]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/ugfkdgsva_LOD1572F67004B8335E12542F5AAE5DEFC7F.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/ugfkdgsva_LOD1.uasset'
+[2021.03.18-12.22.37:882][117]AssetCheck: New page: Asset Save: ugfkdgsva_LOD1
+[2021.03.18-12.22.37:882][117]LogContentValidation: Display: Validating StaticMesh /Game/Models/Props/ugfkdgsva_LOD1.ugfkdgsva_LOD1
+[2021.03.18-12.22.39:267][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/ugfkdgsva_LOD2" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/ugfkdgsva_LOD2.uasset" SILENT=true
+[2021.03.18-12.22.39:300][190]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/ugfkdgsva_LOD27836BED84AAFEA7C07F9B0AD79D6EEDD.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/ugfkdgsva_LOD2.uasset'
+[2021.03.18-12.22.39:329][190]AssetCheck: New page: Asset Save: ugfkdgsva_LOD2
+[2021.03.18-12.22.39:329][190]LogContentValidation: Display: Validating StaticMesh /Game/Models/Props/ugfkdgsva_LOD2.ugfkdgsva_LOD2
+[2021.03.18-12.22.40:482][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/ugfkdgsva_LOD3" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/ugfkdgsva_LOD3.uasset" SILENT=true
+[2021.03.18-12.22.40:502][253]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/ugfkdgsva_LOD33C9B2FC14250EE6CD05D10BE34E33CF1.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/ugfkdgsva_LOD3.uasset'
+[2021.03.18-12.22.40:529][253]AssetCheck: New page: Asset Save: ugfkdgsva_LOD3
+[2021.03.18-12.22.40:529][253]LogContentValidation: Display: Validating StaticMesh /Game/Models/Props/ugfkdgsva_LOD3.ugfkdgsva_LOD3
+[2021.03.18-12.22.42:047][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/ugfkdgsva_LOD4" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/ugfkdgsva_LOD4.uasset" SILENT=true
+[2021.03.18-12.22.42:071][331]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/ugfkdgsva_LOD408ABBB0042BBCD9B097555AA8F533CD4.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/ugfkdgsva_LOD4.uasset'
+[2021.03.18-12.22.42:094][331]AssetCheck: New page: Asset Save: ugfkdgsva_LOD4
+[2021.03.18-12.22.42:094][331]LogContentValidation: Display: Validating StaticMesh /Game/Models/Props/ugfkdgsva_LOD4.ugfkdgsva_LOD4
+[2021.03.18-12.22.43:352][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/ugfkdgsva_LOD5" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/ugfkdgsva_LOD5.uasset" SILENT=true
+[2021.03.18-12.22.43:378][399]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/ugfkdgsva_LOD50D9DB87D47B326F2F4C0D18C17997C82.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/ugfkdgsva_LOD5.uasset'
+[2021.03.18-12.22.43:411][399]AssetCheck: New page: Asset Save: ugfkdgsva_LOD5
+[2021.03.18-12.22.43:411][399]LogContentValidation: Display: Validating StaticMesh /Game/Models/Props/ugfkdgsva_LOD5.ugfkdgsva_LOD5
+[2021.03.18-12.22.44:649][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/ugfkdgsva_LOD6" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/ugfkdgsva_LOD6.uasset" SILENT=true
+[2021.03.18-12.22.44:672][469]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/ugfkdgsva_LOD6863B2D094578ECEAB05576952181AC6A.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/ugfkdgsva_LOD6.uasset'
+[2021.03.18-12.22.44:696][469]AssetCheck: New page: Asset Save: ugfkdgsva_LOD6
+[2021.03.18-12.22.44:696][469]LogContentValidation: Display: Validating StaticMesh /Game/Models/Props/ugfkdgsva_LOD6.ugfkdgsva_LOD6
+[2021.03.18-12.22.45:742][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/ugfkdgsva_LOD7" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/ugfkdgsva_LOD7.uasset" SILENT=true
+[2021.03.18-12.22.45:769][529]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/ugfkdgsva_LOD7DDFC3DA1438FFADEA330D7B2564AFD17.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/ugfkdgsva_LOD7.uasset'
+[2021.03.18-12.22.45:782][529]AssetCheck: New page: Asset Save: ugfkdgsva_LOD7
+[2021.03.18-12.22.45:782][529]LogContentValidation: Display: Validating StaticMesh /Game/Models/Props/ugfkdgsva_LOD7.ugfkdgsva_LOD7
+[2021.03.18-12.22.47:033][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/ugfkdgsva_LOD8" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/ugfkdgsva_LOD8.uasset" SILENT=true
+[2021.03.18-12.22.47:057][596]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/ugfkdgsva_LOD8915AFAF049A15CAB2860808AB1D7ADE4.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/ugfkdgsva_LOD8.uasset'
+[2021.03.18-12.22.47:080][596]AssetCheck: New page: Asset Save: ugfkdgsva_LOD8
+[2021.03.18-12.22.47:080][596]LogContentValidation: Display: Validating StaticMesh /Game/Models/Props/ugfkdgsva_LOD8.ugfkdgsva_LOD8
+[2021.03.18-12.22.48:727][678]LogSlate: Window 'ugfkdgsva_LOD7' being destroyed
+[2021.03.18-12.22.48:730][678]LogSlate: Window 'ugfkdgsva_LOD7' being destroyed
+[2021.03.18-12.22.48:741][678]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.03.18-12.22.48:741][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.18-12.22.48:828][678]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.03.18-12.22.48:828][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.18-12.22.48:941][678]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.03.18-12.22.48:941][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.18-12.22.49:062][678]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.03.18-12.22.49:062][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.18-12.22.49:193][678]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.03.18-12.22.49:193][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.18-12.22.49:307][678]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.03.18-12.22.49:307][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.18-12.22.49:427][678]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.03.18-12.22.49:427][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.18-12.22.49:515][678]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.03.18-12.22.49:515][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.18-12.23.05:946][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/Coffee/ugfkdgsva_LOD0" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/Coffee/ugfkdgsva_LOD0.uasset" SILENT=true
+[2021.03.18-12.23.06:000][277]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/ugfkdgsva_LOD0400242504E3CACF6E5A3F6868DEEC6C3.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/Coffee/ugfkdgsva_LOD0.uasset'
+[2021.03.18-12.23.06:019][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/Coffee/ugfkdgsva_LOD1" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/Coffee/ugfkdgsva_LOD1.uasset" SILENT=true
+[2021.03.18-12.23.06:055][277]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/ugfkdgsva_LOD14EA8C6D1422C0A6ABB7D9794674B8B9E.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/Coffee/ugfkdgsva_LOD1.uasset'
+[2021.03.18-12.23.06:074][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/Coffee/ugfkdgsva_LOD2" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/Coffee/ugfkdgsva_LOD2.uasset" SILENT=true
+[2021.03.18-12.23.06:098][277]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/ugfkdgsva_LOD2E8E19526433E8178CACD2EA0877491FF.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/Coffee/ugfkdgsva_LOD2.uasset'
+[2021.03.18-12.23.06:118][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/Coffee/ugfkdgsva_LOD3" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/Coffee/ugfkdgsva_LOD3.uasset" SILENT=true
+[2021.03.18-12.23.06:138][277]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/ugfkdgsva_LOD304EC027D47527F2009A87C8FA8DAC61F.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/Coffee/ugfkdgsva_LOD3.uasset'
+[2021.03.18-12.23.06:157][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/Coffee/ugfkdgsva_LOD4" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/Coffee/ugfkdgsva_LOD4.uasset" SILENT=true
+[2021.03.18-12.23.06:175][277]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/ugfkdgsva_LOD46D958BED47C109AC96C71FB2F1D8EFCC.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/Coffee/ugfkdgsva_LOD4.uasset'
+[2021.03.18-12.23.06:194][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/Coffee/ugfkdgsva_LOD5" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/Coffee/ugfkdgsva_LOD5.uasset" SILENT=true
+[2021.03.18-12.23.06:210][277]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/ugfkdgsva_LOD56F8428AA47A970551D36DF9033C6CBC8.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/Coffee/ugfkdgsva_LOD5.uasset'
+[2021.03.18-12.23.06:227][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/Coffee/ugfkdgsva_LOD6" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/Coffee/ugfkdgsva_LOD6.uasset" SILENT=true
+[2021.03.18-12.23.06:245][277]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/ugfkdgsva_LOD6463A645544AD1E9BECCDD89A938046E0.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/Coffee/ugfkdgsva_LOD6.uasset'
+[2021.03.18-12.23.06:264][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/Coffee/ugfkdgsva_LOD7" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/Coffee/ugfkdgsva_LOD7.uasset" SILENT=true
+[2021.03.18-12.23.06:283][277]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/ugfkdgsva_LOD72C0098A149A476CAD4305BA757538307.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/Coffee/ugfkdgsva_LOD7.uasset'
+[2021.03.18-12.23.06:302][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/Coffee/ugfkdgsva_LOD8" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/Coffee/ugfkdgsva_LOD8.uasset" SILENT=true
+[2021.03.18-12.23.06:319][277]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/ugfkdgsva_LOD832713CF84085A28F91A29D91A0857FBF.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/Coffee/ugfkdgsva_LOD8.uasset'
+[2021.03.18-12.23.06:755][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.03.18-12.23.06:771][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.03.18-12.23.06:779][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.03.18-12.23.06:787][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.03.18-12.23.06:795][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.03.18-12.23.06:804][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.03.18-12.23.06:812][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.03.18-12.23.06:820][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.03.18-12.23.06:828][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.03.18-12.23.06:844][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.03.18-12.23.06:853][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.03.18-12.23.06:896][277]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.18-12.23.06:896][277]LogContentValidation: Display: Validating StaticMesh /Game/Models/Props/Coffee/ugfkdgsva_LOD0.ugfkdgsva_LOD0
+[2021.03.18-12.23.06:896][277]LogContentValidation: Display: Validating StaticMesh /Game/Models/Props/Coffee/ugfkdgsva_LOD1.ugfkdgsva_LOD1
+[2021.03.18-12.23.06:896][277]LogContentValidation: Display: Validating StaticMesh /Game/Models/Props/Coffee/ugfkdgsva_LOD2.ugfkdgsva_LOD2
+[2021.03.18-12.23.06:896][277]LogContentValidation: Display: Validating StaticMesh /Game/Models/Props/Coffee/ugfkdgsva_LOD3.ugfkdgsva_LOD3
+[2021.03.18-12.23.06:896][277]LogContentValidation: Display: Validating StaticMesh /Game/Models/Props/Coffee/ugfkdgsva_LOD4.ugfkdgsva_LOD4
+[2021.03.18-12.23.06:896][277]LogContentValidation: Display: Validating StaticMesh /Game/Models/Props/Coffee/ugfkdgsva_LOD5.ugfkdgsva_LOD5
+[2021.03.18-12.23.06:896][277]LogContentValidation: Display: Validating StaticMesh /Game/Models/Props/Coffee/ugfkdgsva_LOD6.ugfkdgsva_LOD6
+[2021.03.18-12.23.06:896][277]LogContentValidation: Display: Validating StaticMesh /Game/Models/Props/Coffee/ugfkdgsva_LOD7.ugfkdgsva_LOD7
+[2021.03.18-12.23.06:896][277]LogContentValidation: Display: Validating StaticMesh /Game/Models/Props/Coffee/ugfkdgsva_LOD8.ugfkdgsva_LOD8
+[2021.03.18-12.23.14:293][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/House" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Maps/House.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.18-12.23.14:304][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.03.18-12.23.14:355][515]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/HouseFF8EA011464FFFF93067D1A228A441AE.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Maps/House.umap'
+[2021.03.18-12.23.14:400][515]AssetCheck: New page: Asset Save: House
+[2021.03.18-12.23.14:400][515]LogContentValidation: Display: Validating World /Game/Maps/House.House
