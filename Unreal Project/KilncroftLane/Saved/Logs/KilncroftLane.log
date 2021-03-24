@@ -1493,3 +1493,39 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.24-11.53.08:456][433]AssetCheck: New page: Asset Save: multiple assets
 [2021.03.24-11.53.08:456][433]LogContentValidation: Display: Validating World /Game/Maps/House.House
 [2021.03.24-11.53.08:456][433]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/House_BuiltData.House_BuiltData
+[2021.03.24-12.03.05:921][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.03.24-12.03.05:926][136]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/House' took 0.016
+[2021.03.24-12.03.05:927][136]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props/lambert85] ([1] browsable assets)...
+[2021.03.24-12.03.05:950][136]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/Props/lambert85.lambert85]
+[2021.03.24-12.03.05:950][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props/lambert85]
+[2021.03.24-12.03.05:993][136]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/lambert85_Auto22C5ACD5742F8F8CC9FFB0C82A7D25C73.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Models/Props/lambert85_Auto2.uasset'
+[2021.03.24-12.03.05:995][136]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Kitchen/kitchen_big_window/lambert1] ([1] browsable assets)...
+[2021.03.24-12.03.06:017][136]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/Kitchen/kitchen_big_window/lambert1.lambert1]
+[2021.03.24-12.03.06:017][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Kitchen/kitchen_big_window/lambert1]
+[2021.03.24-12.03.06:058][136]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/lambert1_Auto204D5409D42D24F9A0BAD2E8A2B8D55DB.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Models/Kitchen/kitchen_big_window/lambert1_Auto2.uasset'
+[2021.03.24-12.03.06:060][136]LogFileHelpers: Auto-saving content packages took 0.133
+[2021.03.24-12.20.35:982][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.03.24-12.20.38:237][339]LogSlate: Window 'Save Content' being destroyed
+[2021.03.24-12.20.38:320][339]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/lambert1277340EF4DF6BFAE26A152B1480249FB.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Kitchen/kitchen_big_window/lambert1.uasset'
+[2021.03.24-12.20.38:348][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/lambert85" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/lambert85.uasset" SILENT=true
+[2021.03.24-12.20.38:365][339]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/lambert8519264E024035E7371796D5BEF04C4A68.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/lambert85.uasset'
+[2021.03.24-12.20.38:563][339]LogSlate: Window 'KilncroftLane - Unreal Editor' being destroyed
+[2021.03.24-12.20.38:880][339]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.24-12.20.38:880][339]LogContentValidation: Display: Validating Material /Game/Models/Kitchen/kitchen_big_window/lambert1.lambert1
+[2021.03.24-12.20.38:880][339]LogContentValidation: Display: Validating Material /Game/Models/Props/lambert85.lambert85
+[2021.03.24-12.20.38:881][340]Cmd: QUIT_EDITOR
+[2021.03.24-12.20.38:881][340]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.03.24-12.20.38:963][340]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.03.24-12.20.39:701][340]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.03.24-12.20.39:810][340]LogExit: Preparing to exit.
+[2021.03.24-12.20.42:410][340]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.03.24-12.20.42:410][340]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.03.24-12.20.42:809][340]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.03.24-12.20.43:316][340]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.03.24-12.20.43:317][340]LogExit: Editor shut down
+[2021.03.24-12.20.43:343][340]LogExit: Transaction tracking system shut down
+[2021.03.24-12.20.45:256][340]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (00000177FA638280), frame # 203340
+[2021.03.24-12.20.45:256][340]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000177FA575E40), frame # 203340
+[2021.03.24-12.20.45:264][340]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000177FA5ECA00), frame # 203340
+[2021.03.24-12.20.48:152][340]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001778BDF7E00), frame # 203340
+[2021.03.24-12.20.48:152][340]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001778EB80400), frame # 203340
