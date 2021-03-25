@@ -2119,3 +2119,782 @@ Exception rethrown at [0]:
 [2021.03.25-10.21.06:729][429]AssetCheck: New page: Asset Save: multiple assets
 [2021.03.25-10.21.06:729][429]LogContentValidation: Display: Validating World /Game/Maps/House.House
 [2021.03.25-10.21.06:729][429]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/House_BuiltData.House_BuiltData
+[2021.03.25-10.23.47:467][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FirstFloorGround40)
+[2021.03.25-10.25.07:955][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FirstFloorGround117)
+[2021.03.25-10.25.08:732][824]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.25-10.25.21:789][491]LogActorFactory: Actor Factory created Sofa_complete_mesh
+[2021.03.25-10.25.23:611][591]LogActorFactory: Actor Factory created Sofa_complete_mesh
+[2021.03.25-10.25.39:693][641]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.25-10.25.53:985][542]Cmd: DELETE
+[2021.03.25-10.25.53:986][542]Cmd: ACTOR DELETE
+[2021.03.25-10.25.54:091][542]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-10.25.54:123][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.03.25-10.25.54:137][542]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2021.03.25-10.25.55:009][593]LogStaticMesh: Building static mesh Sofa_Sofa...
+[2021.03.25-10.25.56:405][593]LogStaticMesh: Built static mesh [1.39s] /Game/Models/Kitchen/Sofa_Sofa.Sofa_Sofa
+[2021.03.25-10.25.56:824][593]LogActorFactory: Actor Factory created Sofa_Sofa
+[2021.03.25-10.25.58:258][694]LogActorFactory: Actor Factory created Sofa_Sofa
+[2021.03.25-10.26.02:392][967]Cmd: DELETE
+[2021.03.25-10.26.02:392][967]Cmd: ACTOR DELETE
+[2021.03.25-10.26.02:402][967]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-10.26.02:413][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.03.25-10.26.02:418][967]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2021.03.25-10.26.38:591][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/aiStandardSurface142': Can't find file.
+[2021.03.25-10.26.38:591][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/aiStandardSurface142': Can't find file.
+[2021.03.25-10.26.38:591][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/aiStandardSurface143': Can't find file.
+[2021.03.25-10.26.38:591][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/aiStandardSurface143': Can't find file.
+[2021.03.25-10.26.38:592][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert13': Can't find file.
+[2021.03.25-10.26.38:592][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert13': Can't find file.
+[2021.03.25-10.26.38:592][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert3': Can't find file.
+[2021.03.25-10.26.38:592][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert3': Can't find file.
+[2021.03.25-10.26.38:592][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert5': Can't find file.
+[2021.03.25-10.26.38:592][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert5': Can't find file.
+[2021.03.25-10.26.38:592][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert53': Can't find file.
+[2021.03.25-10.26.38:593][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert53': Can't find file.
+[2021.03.25-10.26.38:593][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert54': Can't find file.
+[2021.03.25-10.26.38:593][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert54': Can't find file.
+[2021.03.25-10.26.38:593][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert55': Can't find file.
+[2021.03.25-10.26.38:593][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert55': Can't find file.
+[2021.03.25-10.26.38:593][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert7': Can't find file.
+[2021.03.25-10.26.38:593][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert7': Can't find file.
+[2021.03.25-10.26.38:594][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/aiStandardSurface142': Can't find file.
+[2021.03.25-10.26.38:594][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/aiStandardSurface142': Can't find file.
+[2021.03.25-10.26.38:594][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/aiStandardSurface143': Can't find file.
+[2021.03.25-10.26.38:594][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/aiStandardSurface143': Can't find file.
+[2021.03.25-10.26.38:594][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert13': Can't find file.
+[2021.03.25-10.26.38:594][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert13': Can't find file.
+[2021.03.25-10.26.38:594][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert3': Can't find file.
+[2021.03.25-10.26.38:595][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert3': Can't find file.
+[2021.03.25-10.26.38:595][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert5': Can't find file.
+[2021.03.25-10.26.38:595][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert5': Can't find file.
+[2021.03.25-10.26.38:595][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert53': Can't find file.
+[2021.03.25-10.26.38:595][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert53': Can't find file.
+[2021.03.25-10.26.38:595][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert54': Can't find file.
+[2021.03.25-10.26.38:596][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert54': Can't find file.
+[2021.03.25-10.26.38:596][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert55': Can't find file.
+[2021.03.25-10.26.38:596][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert55': Can't find file.
+[2021.03.25-10.26.38:596][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert7': Can't find file.
+[2021.03.25-10.26.38:596][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert7': Can't find file.
+[2021.03.25-10.26.38:597][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert53': Can't find file.
+[2021.03.25-10.26.38:597][200]LoadErrors: Failed to load /Game/Models/Props/lambert53.lambert53 Referenced by kitchen_top_bottom_counter_all
+[2021.03.25-10.26.38:597][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert53': Can't find file.
+[2021.03.25-10.26.38:597][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert3': Can't find file.
+[2021.03.25-10.26.38:597][200]LoadErrors: Failed to load /Game/Models/Props/lambert3.lambert3 Referenced by kitchen_top_bottom_counter_all
+[2021.03.25-10.26.38:598][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert3': Can't find file.
+[2021.03.25-10.26.38:598][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert5': Can't find file.
+[2021.03.25-10.26.38:598][200]LoadErrors: Failed to load /Game/Models/Props/lambert5.lambert5 Referenced by kitchen_top_bottom_counter_all
+[2021.03.25-10.26.38:598][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert5': Can't find file.
+[2021.03.25-10.26.38:598][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert7': Can't find file.
+[2021.03.25-10.26.38:598][200]LoadErrors: Failed to load /Game/Models/Props/lambert7.lambert7 Referenced by kitchen_top_bottom_counter_all
+[2021.03.25-10.26.38:598][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert7': Can't find file.
+[2021.03.25-10.26.38:599][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/aiStandardSurface143': Can't find file.
+[2021.03.25-10.26.38:599][200]LoadErrors: Failed to load /Game/Models/Props/aiStandardSurface143.aiStandardSurface143 Referenced by kitchen_top_bottom_counter_all
+[2021.03.25-10.26.38:599][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/aiStandardSurface143': Can't find file.
+[2021.03.25-10.26.38:599][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert13': Can't find file.
+[2021.03.25-10.26.38:599][200]LoadErrors: Failed to load /Game/Models/Props/lambert13.lambert13 Referenced by kitchen_top_bottom_counter_all
+[2021.03.25-10.26.38:599][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert13': Can't find file.
+[2021.03.25-10.26.38:600][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert55': Can't find file.
+[2021.03.25-10.26.38:600][200]LoadErrors: Failed to load /Game/Models/Props/lambert55.lambert55 Referenced by kitchen_top_bottom_counter_all
+[2021.03.25-10.26.38:600][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert55': Can't find file.
+[2021.03.25-10.26.38:600][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert54': Can't find file.
+[2021.03.25-10.26.38:600][200]LoadErrors: Failed to load /Game/Models/Props/lambert54.lambert54 Referenced by kitchen_top_bottom_counter_all
+[2021.03.25-10.26.38:600][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert54': Can't find file.
+[2021.03.25-10.26.38:600][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/aiStandardSurface142': Can't find file.
+[2021.03.25-10.26.38:600][200]LoadErrors: Failed to load /Game/Models/Props/aiStandardSurface142.aiStandardSurface142 Referenced by kitchen_top_bottom_counter_all
+[2021.03.25-10.26.38:601][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/aiStandardSurface142': Can't find file.
+[2021.03.25-10.26.38:601][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert53': Can't find file.
+[2021.03.25-10.26.38:601][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert53': Can't find file.
+[2021.03.25-10.26.38:601][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert3': Can't find file.
+[2021.03.25-10.26.38:601][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert3': Can't find file.
+[2021.03.25-10.26.38:601][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert5': Can't find file.
+[2021.03.25-10.26.38:602][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert5': Can't find file.
+[2021.03.25-10.26.38:602][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert7': Can't find file.
+[2021.03.25-10.26.38:602][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert7': Can't find file.
+[2021.03.25-10.26.38:602][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/aiStandardSurface143': Can't find file.
+[2021.03.25-10.26.38:602][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/aiStandardSurface143': Can't find file.
+[2021.03.25-10.26.38:602][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert13': Can't find file.
+[2021.03.25-10.26.38:602][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert13': Can't find file.
+[2021.03.25-10.26.38:603][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert55': Can't find file.
+[2021.03.25-10.26.38:603][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert55': Can't find file.
+[2021.03.25-10.26.38:603][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert54': Can't find file.
+[2021.03.25-10.26.38:603][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/lambert54': Can't find file.
+[2021.03.25-10.26.38:603][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/aiStandardSurface142': Can't find file.
+[2021.03.25-10.26.38:604][200]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/kitchen_top_bottom_counter_all.uasset' failed to load '/Game/Models/Props/aiStandardSurface142': Can't find file.
+[2021.03.25-10.26.38:869][200]LogActorFactory: Actor Factory created kitchen_top_bottom_counter_all
+[2021.03.25-10.26.40:242][293]LogActorFactory: Actor Factory created kitchen_top_bottom_counter_all
+[2021.03.25-10.26.47:677][731]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.25-10.27.15:521][422]Cmd: MODE SCALEGRID=0
+[2021.03.25-10.27.19:708][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FirstFloorGround118)
+[2021.03.25-10.27.32:707][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kitchen_top_bottom_counter_all)
+[2021.03.25-10.27.44:794][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window12)
+[2021.03.25-10.27.45:941][700]Cmd: DELETE
+[2021.03.25-10.27.45:941][700]Cmd: ACTOR DELETE
+[2021.03.25-10.27.45:953][700]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-10.27.46:075][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.03.25-10.27.46:078][700]LogEditorActor: Deleted 1 Actors (0.137 secs)
+[2021.03.25-10.27.46:541][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Small_Window11)
+[2021.03.25-10.27.46:755][738]Cmd: DELETE
+[2021.03.25-10.27.46:756][738]Cmd: ACTOR DELETE
+[2021.03.25-10.27.46:766][738]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-10.27.46:775][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.03.25-10.27.46:777][738]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2021.03.25-10.27.47:739][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sam_s_Hot_Fix_FBX_to_save_the_day_Wall81)
+[2021.03.25-10.27.49:143][909]Cmd: EDIT COPY
+[2021.03.25-10.27.49:376][925]Cmd: EDIT PASTE
+[2021.03.25-10.27.52:032][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bed_V5)
+[2021.03.25-10.27.52:678][124]Cmd: MODE SCALEGRID=1
+[2021.03.25-10.27.53:532][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sam_s_Hot_Fix_FBX_to_save_the_day_Wall102)
+[2021.03.25-10.28.02:514][768]LogEditorViewport: Clicking Background
+[2021.03.25-10.28.40:120][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kitchen_top_bottom_counter_all)
+[2021.03.25-10.28.41:489][395]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.25-10.29.54:594][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FirstFloorGround119)
+[2021.03.25-10.31.03:072][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.03.25-10.31.03:078][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/House" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Maps/House_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.03.25-10.31.03:437][434]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/House_Auto3003B7E7640C2CC8EA9A0048048EA074E.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Maps/House_Auto3.umap'
+[2021.03.25-10.31.03:468][434]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/House' took 0.407
+[2021.03.25-10.31.03:468][434]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.407
+[2021.03.25-10.31.03:469][434]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Textures/Wardrobe/ulxqbbjaw_2K_Albedo] ([1] browsable assets)...
+[2021.03.25-10.31.03:478][434]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Textures/Wardrobe/ulxqbbjaw_2K_Albedo.ulxqbbjaw_2K_Albedo]
+[2021.03.25-10.31.03:478][434]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Textures/Wardrobe/ulxqbbjaw_2K_Albedo]
+[2021.03.25-10.31.03:948][434]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/ulxqbbjaw_2K_Albedo_Auto38E098D544ABDD0B7273B218BD2A35422.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Models/Textures/Wardrobe/ulxqbbjaw_2K_Albedo_Auto3.uasset'
+[2021.03.25-10.31.03:950][434]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Textures/Wardrobe/ulxqbbjaw_2K_AO] ([1] browsable assets)...
+[2021.03.25-10.31.03:957][434]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Textures/Wardrobe/ulxqbbjaw_2K_AO.ulxqbbjaw_2K_AO]
+[2021.03.25-10.31.03:957][434]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Textures/Wardrobe/ulxqbbjaw_2K_AO]
+[2021.03.25-10.31.04:411][434]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/ulxqbbjaw_2K_AO_Auto3BA30D7BC442174482D6C1C8025B1B6ED.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Models/Textures/Wardrobe/ulxqbbjaw_2K_AO_Auto3.uasset'
+[2021.03.25-10.31.04:413][434]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Models/Textures/Wardrobe/ulxqbbjaw_2K_Displacement] ([2] browsable assets)...
+[2021.03.25-10.31.04:421][434]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Textures/Wardrobe/ulxqbbjaw_2K_Displacement.ulxqbbjaw_2K_Displacement]
+[2021.03.25-10.31.04:429][434]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Textures/Wardrobe/ulxqbbjaw_2K_Displacement.ulxqbbjaw_2K_Displacement_0]
+[2021.03.25-10.31.04:429][434]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Textures/Wardrobe/ulxqbbjaw_2K_Displacement]
+[2021.03.25-10.31.05:804][434]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/ulxqbbjaw_2K_Displacement_Auto364A497E64823A809F6ACE3BF4C97F336.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Models/Textures/Wardrobe/ulxqbbjaw_2K_Displacement_Auto3.uasset'
+[2021.03.25-10.31.05:805][434]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Textures/Wardrobe/ulxqbbjaw_2K_Normal] ([1] browsable assets)...
+[2021.03.25-10.31.05:812][434]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Textures/Wardrobe/ulxqbbjaw_2K_Normal.ulxqbbjaw_2K_Normal]
+[2021.03.25-10.31.05:812][434]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Textures/Wardrobe/ulxqbbjaw_2K_Normal]
+[2021.03.25-10.31.06:289][434]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/ulxqbbjaw_2K_Normal_Auto385F749914414243302A2D8937FA3C698.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Models/Textures/Wardrobe/ulxqbbjaw_2K_Normal_Auto3.uasset'
+[2021.03.25-10.31.06:291][434]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Textures/Wardrobe/ulxqbbjaw_2K_Roughness] ([1] browsable assets)...
+[2021.03.25-10.31.06:298][434]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Textures/Wardrobe/ulxqbbjaw_2K_Roughness.ulxqbbjaw_2K_Roughness]
+[2021.03.25-10.31.06:298][434]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Textures/Wardrobe/ulxqbbjaw_2K_Roughness]
+[2021.03.25-10.31.06:770][434]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/ulxqbbjaw_2K_Roughness_Auto311E27DD64D758BD4F608CA97773DE9CC.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Models/Textures/Wardrobe/ulxqbbjaw_2K_Roughness_Auto3.uasset'
+[2021.03.25-10.31.06:772][434]LogFileHelpers: Auto-saving content packages took 3.303
+[2021.03.25-10.34.08:926][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/House" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Maps/House.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.25-10.34.09:342][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.03.25-10.34.09:667][240]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/House1F7DE720437F2A163F030981ED413513.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Maps/House.umap'
+[2021.03.25-10.34.09:803][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/House_BuiltData" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Maps/House_BuiltData.uasset" SILENT=true
+[2021.03.25-10.34.12:209][240]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/House_BuiltDataE6EAD14D4DE1B28D65922EA0AF82BF45.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Maps/House_BuiltData.uasset'
+[2021.03.25-10.34.12:249][240]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.25-10.34.12:249][240]LogContentValidation: Display: Validating World /Game/Maps/House.House
+[2021.03.25-10.34.12:250][240]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/House_BuiltData.House_BuiltData
+[2021.03.25-10.34.37:054][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FirstFloorGround31)
+[2021.03.25-10.34.53:407][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wardrobe_complete)
+[2021.03.25-10.34.57:233][185]LogMaterial: Display: Material /Game/Models/Props/lambert1.lambert1 needed to have new flag set bUsedWithStaticLighting !
+[2021.03.25-10.34.57:235][185]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2021.03.25-10.34.57:264][185]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2021.03.25-10.34.57:264][185]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.03.25-10.34.57:264][185]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.03.25-10.35.00:054][341]LogMaterial: Display: Material /Game/Models/Props/lambert73.lambert73 needed to have new flag set bUsedWithStaticLighting !
+[2021.03.25-10.35.00:055][341]LogMaterial: Display: Missing cached shader map for material lambert73, compiling. 
+[2021.03.25-10.35.14:494][980]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2021.03.25-10.35.15:417][ 14]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/middle_counter_complete.uasset' failed to load '/Game/Models/Props/aiStandardSurface141': Can't find file.
+[2021.03.25-10.35.15:418][ 14]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/middle_counter_complete.uasset' failed to load '/Game/Models/Props/aiStandardSurface141': Can't find file.
+[2021.03.25-10.35.15:418][ 14]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/middle_counter_complete.uasset' failed to load '/Game/Models/Props/lambert7': Can't find file.
+[2021.03.25-10.35.15:418][ 14]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/middle_counter_complete.uasset' failed to load '/Game/Models/Props/lambert7': Can't find file.
+[2021.03.25-10.35.15:418][ 14]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/middle_counter_complete.uasset' failed to load '/Game/Models/Props/lambert82': Can't find file.
+[2021.03.25-10.35.15:418][ 14]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/middle_counter_complete.uasset' failed to load '/Game/Models/Props/lambert82': Can't find file.
+[2021.03.25-10.35.15:418][ 14]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/middle_counter_complete.uasset' failed to load '/Game/Models/Props/aiStandardSurface141': Can't find file.
+[2021.03.25-10.35.15:419][ 14]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/middle_counter_complete.uasset' failed to load '/Game/Models/Props/aiStandardSurface141': Can't find file.
+[2021.03.25-10.35.15:419][ 14]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/middle_counter_complete.uasset' failed to load '/Game/Models/Props/lambert7': Can't find file.
+[2021.03.25-10.35.15:419][ 14]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/middle_counter_complete.uasset' failed to load '/Game/Models/Props/lambert7': Can't find file.
+[2021.03.25-10.35.15:419][ 14]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/middle_counter_complete.uasset' failed to load '/Game/Models/Props/lambert82': Can't find file.
+[2021.03.25-10.35.15:419][ 14]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/middle_counter_complete.uasset' failed to load '/Game/Models/Props/lambert82': Can't find file.
+[2021.03.25-10.35.15:420][ 14]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/middle_counter_complete.uasset' failed to load '/Game/Models/Props/lambert7': Can't find file.
+[2021.03.25-10.35.15:420][ 14]LoadErrors: Failed to load /Game/Models/Props/lambert7.lambert7 Referenced by middle_counter_complete
+[2021.03.25-10.35.15:421][ 14]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/middle_counter_complete.uasset' failed to load '/Game/Models/Props/lambert7': Can't find file.
+[2021.03.25-10.35.15:421][ 14]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/middle_counter_complete.uasset' failed to load '/Game/Models/Props/aiStandardSurface141': Can't find file.
+[2021.03.25-10.35.15:421][ 14]LoadErrors: Failed to load /Game/Models/Props/aiStandardSurface141.aiStandardSurface141 Referenced by middle_counter_complete
+[2021.03.25-10.35.15:421][ 14]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/middle_counter_complete.uasset' failed to load '/Game/Models/Props/aiStandardSurface141': Can't find file.
+[2021.03.25-10.35.15:421][ 14]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/middle_counter_complete.uasset' failed to load '/Game/Models/Props/lambert82': Can't find file.
+[2021.03.25-10.35.15:421][ 14]LoadErrors: Failed to load /Game/Models/Props/lambert82.lambert82 Referenced by middle_counter_complete
+[2021.03.25-10.35.15:421][ 14]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/middle_counter_complete.uasset' failed to load '/Game/Models/Props/lambert82': Can't find file.
+[2021.03.25-10.35.15:422][ 14]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/middle_counter_complete.uasset' failed to load '/Game/Models/Props/lambert7': Can't find file.
+[2021.03.25-10.35.15:422][ 14]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/middle_counter_complete.uasset' failed to load '/Game/Models/Props/lambert7': Can't find file.
+[2021.03.25-10.35.15:422][ 14]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/middle_counter_complete.uasset' failed to load '/Game/Models/Props/aiStandardSurface141': Can't find file.
+[2021.03.25-10.35.15:422][ 14]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/middle_counter_complete.uasset' failed to load '/Game/Models/Props/aiStandardSurface141': Can't find file.
+[2021.03.25-10.35.15:422][ 14]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/middle_counter_complete.uasset' failed to load '/Game/Models/Props/lambert82': Can't find file.
+[2021.03.25-10.35.15:423][ 14]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Props/middle_counter_complete.uasset' failed to load '/Game/Models/Props/lambert82': Can't find file.
+[2021.03.25-10.35.15:614][ 14]LogActorFactory: Actor Factory created middle_counter_complete
+[2021.03.25-10.35.17:044][ 72]LogActorFactory: Actor Factory created middle_counter_complete
+[2021.03.25-10.35.27:682][619]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.03.25-10.35.30:161][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.03.25-10.35.33:111][898]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.25-10.35.44:693][538]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.03.25-10.35.46:778][657]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.03.25-10.35.48:551][762]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.03.25-10.36.47:565][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (middle_counter_complete)
+[2021.03.25-10.36.57:096][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FirstFloorGround21)
+[2021.03.25-10.37.11:179][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sam_s_Hot_Fix_FBX_to_save_the_day_Wall13)
+[2021.03.25-10.38.24:921][281]LogActorFactory: Actor Factory created Sofa_complete_mesh
+[2021.03.25-10.38.28:789][504]LogActorFactory: Actor Factory created Sofa_complete_mesh
+[2021.03.25-10.40.16:242][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sofa_complete_mesh)
+[2021.03.25-10.40.21:213][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FirstFloorGround102)
+[2021.03.25-10.43.02:981][ 44]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2021.03.25-10.43.05:296][124]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bed_V5)
+[2021.03.25-10.43.46:892][624]LogEditorViewport: Clicking on Actor (LMB): SoundTriggerBox_Blueprint_C (SoundTriggerBox_Blueprint)
+[2021.03.25-10.43.57:135][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wardrobe_complete)
+[2021.03.25-10.44.04:930][647]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Shower_Shower.uasset' failed to load '/Game/Models/aiStandardSurface6': Can't find file.
+[2021.03.25-10.44.04:930][647]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Shower_Shower.uasset' failed to load '/Game/Models/aiStandardSurface6': Can't find file.
+[2021.03.25-10.44.04:972][647]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Shower_Shower.uasset' failed to load '/Game/Models/aiStandardSurface6': Can't find file.
+[2021.03.25-10.44.04:972][647]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Shower_Shower.uasset' failed to load '/Game/Models/aiStandardSurface6': Can't find file.
+[2021.03.25-10.44.04:973][647]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Shower_Shower.uasset' failed to load '/Game/Models/aiStandardSurface6': Can't find file.
+[2021.03.25-10.44.04:973][647]LoadErrors: Failed to load /Game/Models/aiStandardSurface6.aiStandardSurface6 Referenced by Shower_Shower
+[2021.03.25-10.44.04:973][647]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Shower_Shower.uasset' failed to load '/Game/Models/aiStandardSurface6': Can't find file.
+[2021.03.25-10.44.04:973][647]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Shower_Shower.uasset' failed to load '/Game/Models/aiStandardSurface6': Can't find file.
+[2021.03.25-10.44.04:973][647]LogLinker: Warning: While loading 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Shower_Shower.uasset' failed to load '/Game/Models/aiStandardSurface6': Can't find file.
+[2021.03.25-10.44.05:315][654]LogActorFactory: Actor Factory created Shower_Shower
+[2021.03.25-10.44.06:071][696]LogActorFactory: Actor Factory created Shower_Shower
+[2021.03.25-10.44.06:901][744]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.25-10.44.15:931][294]Cmd: DELETE
+[2021.03.25-10.44.15:931][294]Cmd: ACTOR DELETE
+[2021.03.25-10.44.15:943][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-10.44.15:977][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.03.25-10.44.16:025][294]LogEditorActor: Deleted 1 Actors (0.094 secs)
+[2021.03.25-10.44.20:309][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.03.25-10.44.34:829][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.03.25-10.45.47:020][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FirstFloorGround23)
+[2021.03.25-10.45.49:068][366]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2021.03.25-10.46.11:580][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wardrobe_complete)
+[2021.03.25-10.47.07:801][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.03.25-10.47.07:805][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/House" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Maps/House_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.03.25-10.47.08:212][202]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/House_Auto450EC8CF84A8999598203D396EDF38ECC.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Maps/House_Auto4.umap'
+[2021.03.25-10.47.08:246][202]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/House' took 0.491
+[2021.03.25-10.47.08:246][202]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.491
+[2021.03.25-10.47.08:247][202]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props/lambert1] ([1] browsable assets)...
+[2021.03.25-10.47.08:266][202]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/Props/lambert1.lambert1]
+[2021.03.25-10.47.08:267][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props/lambert1]
+[2021.03.25-10.47.08:297][202]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/lambert1_Auto4B7C6F5054D4735E6A194A2BE4C0F6861.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Models/Props/lambert1_Auto4.uasset'
+[2021.03.25-10.47.08:321][202]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props/lambert73] ([1] browsable assets)...
+[2021.03.25-10.47.08:340][202]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/Props/lambert73.lambert73]
+[2021.03.25-10.47.08:340][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props/lambert73]
+[2021.03.25-10.47.08:366][202]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/lambert73_Auto4F46F7EC9459326DF9FF7D09C473CE296.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Models/Props/lambert73_Auto4.uasset'
+[2021.03.25-10.47.08:368][202]LogFileHelpers: Auto-saving content packages took 0.121
+[2021.03.25-10.48.13:637][188]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.25-10.48.46:501][271]LogActorFactory: Actor Factory created Shower_Shower
+[2021.03.25-10.48.47:168][306]LogActorFactory: Actor Factory created Shower_Shower
+[2021.03.25-10.48.48:631][390]Cmd: DELETE
+[2021.03.25-10.48.48:631][390]Cmd: ACTOR DELETE
+[2021.03.25-10.48.48:642][390]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-10.48.48:655][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.03.25-10.48.48:657][390]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2021.03.25-10.48.59:256][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FirstFloorGround42)
+[2021.03.25-10.49.52:936][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/House" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Maps/House.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.25-10.49.53:277][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.03.25-10.49.53:601][334]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/House7C0D70FD47AD2ECB7A927CA0371CD0A1.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Maps/House.umap'
+[2021.03.25-10.49.53:705][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/House_BuiltData" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Maps/House_BuiltData.uasset" SILENT=true
+[2021.03.25-10.49.56:128][334]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/House_BuiltData68AFE31E427F23683111EC8383E0A6B1.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Maps/House_BuiltData.uasset'
+[2021.03.25-10.49.56:233][334]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.25-10.49.56:233][334]LogContentValidation: Display: Validating World /Game/Maps/House.House
+[2021.03.25-10.49.56:233][334]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/House_BuiltData.House_BuiltData
+[2021.03.25-11.17.19:561][171]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Modking09\Downloads\Other_udehcidiw_2K_3d_ms\udehcidiw_LOD0.fbx)
+[2021.03.25-11.17.20:053][171]LogFbx: Loading FBX Scene from C:\Users\Modking09\Downloads\Other_udehcidiw_2K_3d_ms\udehcidiw_LOD0.fbx
+[2021.03.25-11.17.20:170][171]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.25-11.17.24:502][171]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.25-11.17.25:031][171]LogFbx: Display: Triangulating static mesh Aset_other__S_udehcidiw_LOD0
+[2021.03.25-11.17.25:904][171]LogStaticMesh: Building static mesh udehcidiw_LOD0...
+[2021.03.25-11.17.26:596][171]LogStaticMesh: Built static mesh [0.73s] /Game/Models/Props/WallMount/udehcidiw_LOD0.udehcidiw_LOD0
+[2021.03.25-11.17.27:562][171]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.25-11.17.28:131][171]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Modking09\Downloads\Other_udehcidiw_2K_3d_ms\udehcidiw_LOD1.fbx)
+[2021.03.25-11.17.28:194][171]LogFbx: Loading FBX Scene from C:\Users\Modking09\Downloads\Other_udehcidiw_2K_3d_ms\udehcidiw_LOD1.fbx
+[2021.03.25-11.17.28:202][171]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.25-11.17.28:309][171]LogStaticMesh: Building static mesh udehcidiw_LOD1...
+[2021.03.25-11.17.28:438][171]LogStaticMesh: Built static mesh [0.17s] /Game/Models/Props/WallMount/udehcidiw_LOD1.udehcidiw_LOD1
+[2021.03.25-11.17.28:735][171]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.25-11.17.28:816][171]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Modking09\Downloads\Other_udehcidiw_2K_3d_ms\udehcidiw_LOD2.fbx)
+[2021.03.25-11.17.28:830][171]LogFbx: Loading FBX Scene from C:\Users\Modking09\Downloads\Other_udehcidiw_2K_3d_ms\udehcidiw_LOD2.fbx
+[2021.03.25-11.17.28:836][171]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.25-11.17.28:904][171]LogStaticMesh: Building static mesh udehcidiw_LOD2...
+[2021.03.25-11.17.28:951][171]LogStaticMesh: Built static mesh [0.06s] /Game/Models/Props/WallMount/udehcidiw_LOD2.udehcidiw_LOD2
+[2021.03.25-11.17.29:189][171]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.25-11.17.29:273][171]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Modking09\Downloads\Other_udehcidiw_2K_3d_ms\udehcidiw_LOD3.fbx)
+[2021.03.25-11.17.29:288][171]LogFbx: Loading FBX Scene from C:\Users\Modking09\Downloads\Other_udehcidiw_2K_3d_ms\udehcidiw_LOD3.fbx
+[2021.03.25-11.17.29:295][171]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.25-11.17.29:347][171]LogStaticMesh: Building static mesh udehcidiw_LOD3...
+[2021.03.25-11.17.29:371][171]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Props/WallMount/udehcidiw_LOD3.udehcidiw_LOD3
+[2021.03.25-11.17.29:584][171]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.25-11.17.29:678][171]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Modking09\Downloads\Other_udehcidiw_2K_3d_ms\udehcidiw_LOD4.fbx)
+[2021.03.25-11.17.29:704][171]LogFbx: Loading FBX Scene from C:\Users\Modking09\Downloads\Other_udehcidiw_2K_3d_ms\udehcidiw_LOD4.fbx
+[2021.03.25-11.17.29:711][171]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.25-11.17.29:863][171]LogStaticMesh: Building static mesh udehcidiw_LOD4...
+[2021.03.25-11.17.29:879][171]LogStaticMesh: Built static mesh [0.10s] /Game/Models/Props/WallMount/udehcidiw_LOD4.udehcidiw_LOD4
+[2021.03.25-11.17.30:376][171]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.25-11.17.30:426][171]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Modking09\Downloads\Other_udehcidiw_2K_3d_ms\udehcidiw_LOD5.fbx)
+[2021.03.25-11.17.30:437][171]LogFbx: Loading FBX Scene from C:\Users\Modking09\Downloads\Other_udehcidiw_2K_3d_ms\udehcidiw_LOD5.fbx
+[2021.03.25-11.17.30:443][171]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.25-11.17.30:551][171]LogStaticMesh: Building static mesh udehcidiw_LOD5...
+[2021.03.25-11.17.30:566][171]LogStaticMesh: Built static mesh [0.09s] /Game/Models/Props/WallMount/udehcidiw_LOD5.udehcidiw_LOD5
+[2021.03.25-11.17.30:820][171]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.25-11.17.30:922][171]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Modking09\Downloads\Other_udehcidiw_2K_3d_ms\udehcidiw_LOD6.fbx)
+[2021.03.25-11.17.30:932][171]LogFbx: Loading FBX Scene from C:\Users\Modking09\Downloads\Other_udehcidiw_2K_3d_ms\udehcidiw_LOD6.fbx
+[2021.03.25-11.17.30:938][171]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.25-11.17.31:052][171]LogStaticMesh: Building static mesh udehcidiw_LOD6...
+[2021.03.25-11.17.31:062][171]LogStaticMesh: Built static mesh [0.06s] /Game/Models/Props/WallMount/udehcidiw_LOD6.udehcidiw_LOD6
+[2021.03.25-11.17.31:238][171]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.25-11.17.31:278][171]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Modking09\Downloads\Other_udehcidiw_2K_3d_ms\udehcidiw_LOD7.fbx)
+[2021.03.25-11.17.31:291][171]LogFbx: Loading FBX Scene from C:\Users\Modking09\Downloads\Other_udehcidiw_2K_3d_ms\udehcidiw_LOD7.fbx
+[2021.03.25-11.17.31:320][171]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.25-11.17.31:324][171]LogStaticMesh: Building static mesh udehcidiw_LOD7...
+[2021.03.25-11.17.31:334][171]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Props/WallMount/udehcidiw_LOD7.udehcidiw_LOD7
+[2021.03.25-11.17.31:731][171]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.25-11.17.31:797][171]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Modking09\Downloads\Other_udehcidiw_2K_3d_ms\udehcidiw_LOD8.fbx)
+[2021.03.25-11.17.31:866][171]LogFbx: Loading FBX Scene from C:\Users\Modking09\Downloads\Other_udehcidiw_2K_3d_ms\udehcidiw_LOD8.fbx
+[2021.03.25-11.17.31:871][171]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.25-11.17.31:969][171]LogStaticMesh: Building static mesh udehcidiw_LOD8...
+[2021.03.25-11.17.31:976][171]LogStaticMesh: Built static mesh [0.10s] /Game/Models/Props/WallMount/udehcidiw_LOD8.udehcidiw_LOD8
+[2021.03.25-11.17.32:181][171]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.25-11.17.35:690][180]LogSlate: Window 'Message Log' being destroyed
+[2021.03.25-11.17.35:696][180]LogSlate: Window 'Message Log' being destroyed
+[2021.03.25-11.17.36:350][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.03.25-11.17.36:505][199]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/House' took 0.443
+[2021.03.25-11.17.36:507][199]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props/WallMount/udehcidiw_LOD0] ([1] browsable assets)...
+[2021.03.25-11.17.36:524][199]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props/WallMount/udehcidiw_LOD0.udehcidiw_LOD0]
+[2021.03.25-11.17.36:524][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props/WallMount/udehcidiw_LOD0]
+[2021.03.25-11.17.36:849][199]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/udehcidiw_LOD0_Auto5C548240E4F2C716525918182EBA9F28F.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Models/Props/WallMount/udehcidiw_LOD0_Auto5.uasset'
+[2021.03.25-11.17.36:856][199]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props/WallMount/udehcidiw_LOD1] ([1] browsable assets)...
+[2021.03.25-11.17.36:865][199]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props/WallMount/udehcidiw_LOD1.udehcidiw_LOD1]
+[2021.03.25-11.17.36:865][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props/WallMount/udehcidiw_LOD1]
+[2021.03.25-11.17.36:927][199]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/udehcidiw_LOD1_Auto5309146234FA263BC65C3859863F29896.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Models/Props/WallMount/udehcidiw_LOD1_Auto5.uasset'
+[2021.03.25-11.17.36:928][199]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props/WallMount/udehcidiw_LOD2] ([1] browsable assets)...
+[2021.03.25-11.17.36:937][199]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props/WallMount/udehcidiw_LOD2.udehcidiw_LOD2]
+[2021.03.25-11.17.36:937][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props/WallMount/udehcidiw_LOD2]
+[2021.03.25-11.17.37:006][199]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/udehcidiw_LOD2_Auto5FF862C454F04C73DD61B1695CC65B9B6.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Models/Props/WallMount/udehcidiw_LOD2_Auto5.uasset'
+[2021.03.25-11.17.37:007][199]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props/WallMount/udehcidiw_LOD3] ([1] browsable assets)...
+[2021.03.25-11.17.37:017][199]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props/WallMount/udehcidiw_LOD3.udehcidiw_LOD3]
+[2021.03.25-11.17.37:017][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props/WallMount/udehcidiw_LOD3]
+[2021.03.25-11.17.37:053][199]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/udehcidiw_LOD3_Auto59B48BB7044300CEC30BA4693B9FC86C9.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Models/Props/WallMount/udehcidiw_LOD3_Auto5.uasset'
+[2021.03.25-11.17.37:055][199]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props/WallMount/udehcidiw_LOD4] ([1] browsable assets)...
+[2021.03.25-11.17.37:064][199]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props/WallMount/udehcidiw_LOD4.udehcidiw_LOD4]
+[2021.03.25-11.17.37:064][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props/WallMount/udehcidiw_LOD4]
+[2021.03.25-11.17.37:082][199]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/udehcidiw_LOD4_Auto56F277BCF402B2F576D41C2A0EEED9859.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Models/Props/WallMount/udehcidiw_LOD4_Auto5.uasset'
+[2021.03.25-11.17.37:084][199]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props/WallMount/udehcidiw_LOD5] ([1] browsable assets)...
+[2021.03.25-11.17.37:093][199]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props/WallMount/udehcidiw_LOD5.udehcidiw_LOD5]
+[2021.03.25-11.17.37:093][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props/WallMount/udehcidiw_LOD5]
+[2021.03.25-11.17.37:268][199]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/udehcidiw_LOD5_Auto5C905091C4C6AA9978F30DC9B2E3E4686.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Models/Props/WallMount/udehcidiw_LOD5_Auto5.uasset'
+[2021.03.25-11.17.37:269][199]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props/WallMount/udehcidiw_LOD6] ([1] browsable assets)...
+[2021.03.25-11.17.37:291][199]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props/WallMount/udehcidiw_LOD6.udehcidiw_LOD6]
+[2021.03.25-11.17.37:291][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props/WallMount/udehcidiw_LOD6]
+[2021.03.25-11.17.37:327][199]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/udehcidiw_LOD6_Auto5B7A1ADC74D0F7BD83A2A67870A6C4160.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Models/Props/WallMount/udehcidiw_LOD6_Auto5.uasset'
+[2021.03.25-11.17.37:337][199]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props/WallMount/udehcidiw_LOD7] ([1] browsable assets)...
+[2021.03.25-11.17.37:347][199]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props/WallMount/udehcidiw_LOD7.udehcidiw_LOD7]
+[2021.03.25-11.17.37:347][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props/WallMount/udehcidiw_LOD7]
+[2021.03.25-11.17.37:380][199]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/udehcidiw_LOD7_Auto58C67ED0B42C428A7705A92A7B3C8DF32.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Models/Props/WallMount/udehcidiw_LOD7_Auto5.uasset'
+[2021.03.25-11.17.37:382][199]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props/WallMount/udehcidiw_LOD8] ([1] browsable assets)...
+[2021.03.25-11.17.37:393][199]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props/WallMount/udehcidiw_LOD8.udehcidiw_LOD8]
+[2021.03.25-11.17.37:393][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props/WallMount/udehcidiw_LOD8]
+[2021.03.25-11.17.37:427][199]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/udehcidiw_LOD8_Auto50E049BB749D6392CDCE187AAF4866607.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Models/Props/WallMount/udehcidiw_LOD8_Auto5.uasset'
+[2021.03.25-11.17.37:428][199]LogFileHelpers: Auto-saving content packages took 0.922
+[2021.03.25-11.18.04:150][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Modking09\Downloads\Other_udehcidiw_2K_3d_ms\udehcidiw_2K_Albedo.jpg)
+[2021.03.25-11.18.04:544][254]LogTexture: Display: Building textures: udehcidiw_2K_Albedo (AutoDXT, 2048X2048)
+[2021.03.25-11.18.07:889][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Modking09\Downloads\Other_udehcidiw_2K_3d_ms\udehcidiw_2K_AO.jpg)
+[2021.03.25-11.18.07:959][254]LogTexture: Display: Building textures: udehcidiw_2K_AO (AutoDXT, 2048X2048)
+[2021.03.25-11.18.09:122][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Modking09\Downloads\Other_udehcidiw_2K_3d_ms\udehcidiw_2K_Displacement.exr)
+[2021.03.25-11.18.09:468][254]LogTexture: Display: Building textures: udehcidiw_2K_Displacement (RGBA16F, 2048X2048)
+[2021.03.25-11.18.09:812][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Modking09\Downloads\Other_udehcidiw_2K_3d_ms\udehcidiw_2K_Displacement.jpg)
+[2021.03.25-11.18.09:993][254]LogTexture: Display: Building textures: udehcidiw_2K_Displacement_0 (AutoDXT, 2048X2048)
+[2021.03.25-11.18.10:512][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Modking09\Downloads\Other_udehcidiw_2K_3d_ms\udehcidiw_2K_Normal_LOD0.jpg)
+[2021.03.25-11.18.11:067][254]LogTexture: Display: Building textures: udehcidiw_2K_Normal_LOD0 (BC5, 2048X2048)
+[2021.03.25-11.18.11:755][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Modking09\Downloads\Other_udehcidiw_2K_3d_ms\udehcidiw_2K_Roughness.jpg)
+[2021.03.25-11.18.12:082][254]LogTexture: Display: Building textures: udehcidiw_2K_Roughness (AutoDXT, 2048X2048)
+[2021.03.25-11.18.42:081][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wardrobe_complete)
+[2021.03.25-11.20.07:090][303]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Models/Materials/Props/WallMount.WallMount
+[2021.03.25-11.20.07:300][303]LogMaterial: Display: Missing cached shader map for material WallMount, compiling. 
+[2021.03.25-11.20.08:431][303]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.03.25-11.20.08:431][303]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.03.25-11.20.08:431][303]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.03.25-11.20.15:445][303]LogMaterial: Display: Missing cached shader map for material WallMount, compiling. 
+[2021.03.25-11.20.15:669][303]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.03.25-11.20.15:669][303]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.03.25-11.20.15:669][303]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.03.25-11.20.15:859][303]LogMaterial: Display: Missing cached shader map for material WallMount, compiling. 
+[2021.03.25-11.20.17:069][304]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.03.25-11.20.17:069][304]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.03.25-11.20.17:069][304]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.03.25-11.20.17:198][305]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.03.25-11.20.17:423][309]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.03.25-11.20.17:445][310]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2021.03.25-11.20.18:126][324]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.03.25-11.20.18:472][333]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.03.25-11.20.18:640][337]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.03.25-11.20.20:286][359]MaterialEditorStats: Base pass shader: 172 instructions
+[2021.03.25-11.20.20:286][359]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 246 instructions
+[2021.03.25-11.20.20:286][359]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2021.03.25-11.20.20:286][359]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.25-11.21.05:345][975]LogMaterial: Display: Missing cached shader map for material WallMount, compiling. 
+[2021.03.25-11.21.05:436][975]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.03.25-11.21.05:436][975]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.03.25-11.21.05:436][975]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.03.25-11.21.05:436][975]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.03.25-11.21.05:604][975]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.03.25-11.21.06:502][ 14]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2021.03.25-11.21.07:376][ 69]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.03.25-11.21.08:456][146]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2021.03.25-11.21.08:919][175]LogMaterial: Display: Missing cached shader map for material WallMount, compiling. 
+[2021.03.25-11.21.08:955][175]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.03.25-11.21.10:074][236]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.03.25-11.21.10:449][262]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2021.03.25-11.21.12:458][378]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.03.25-11.21.12:632][385]LogMaterial: Display: Missing cached shader map for material WallMount, compiling. 
+[2021.03.25-11.21.12:704][385]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.03.25-11.21.12:810][385]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.03.25-11.21.12:867][385]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.03.25-11.21.12:898][386]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.03.25-11.21.13:004][387]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2021.03.25-11.21.14:009][455]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.03.25-11.21.16:478][620]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2021.03.25-11.21.16:504][622]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.03.25-11.21.16:932][654]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.03.25-11.21.18:286][745]LogMaterial: Display: Missing cached shader map for material WallMount, compiling. 
+[2021.03.25-11.21.18:346][745]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.03.25-11.21.18:538][754]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.03.25-11.21.19:721][817]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2021.03.25-11.21.19:721][817]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.03.25-11.21.21:748][940]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.03.25-11.21.22:404][982]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2021.03.25-11.21.22:802][ 11]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.03.25-11.21.23:944][ 71]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.03.25-11.21.24:703][116]LogMaterial: Display: Missing cached shader map for material WallMount, compiling. 
+[2021.03.25-11.21.24:771][116]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.03.25-11.21.24:839][116]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.03.25-11.21.24:851][116]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.03.25-11.21.24:872][116]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.03.25-11.21.25:292][134]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.03.25-11.21.25:871][172]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2021.03.25-11.21.25:913][175]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.03.25-11.21.28:261][321]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.03.25-11.21.29:446][393]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2021.03.25-11.21.29:620][403]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2021.03.25-11.21.30:563][470]LogMaterial: Display: Missing cached shader map for material WallMount, compiling. 
+[2021.03.25-11.21.30:625][470]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.03.25-11.21.32:594][591]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2021.03.25-11.21.33:026][619]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2021.03.25-11.21.33:100][624]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.03.25-11.21.35:172][747]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2021.03.25-11.21.35:525][765]LogMaterial: Display: Missing cached shader map for material WallMount, compiling. 
+[2021.03.25-11.21.35:598][765]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.03.25-11.21.35:598][765]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.03.25-11.21.35:693][765]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.03.25-11.21.35:775][765]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.03.25-11.21.35:799][765]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.03.25-11.21.35:831][765]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.03.25-11.21.35:834][765]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.03.25-11.21.35:923][767]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2021.03.25-11.21.37:479][854]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2021.03.25-11.21.38:624][930]LogMaterial: Display: Missing cached shader map for material WallMount, compiling. 
+[2021.03.25-11.21.38:638][930]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.03.25-11.21.39:473][971]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2021.03.25-11.21.39:569][977]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2021.03.25-11.21.39:586][978]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2021.03.25-11.21.42:735][139]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2021.03.25-11.21.42:750][140]LogMaterialEditor: Saving and Compiling material WallMount
+[2021.03.25-11.21.59:366][140]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2021.03.25-11.21.59:367][140]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2021.03.25-11.21.59:367][140]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.03.25-11.21.59:367][140]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2021.03.25-11.21.59:367][140]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.03.25-11.21.59:367][140]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.03.25-11.21.59:367][140]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2021.03.25-11.21.59:367][140]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.03.25-11.21.59:367][140]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.03.25-11.21.59:367][140]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.03.25-11.21.59:367][140]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2021.03.25-11.21.59:367][140]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2021.03.25-11.21.59:367][140]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.03.25-11.21.59:367][140]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.03.25-11.21.59:367][140]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.03.25-11.21.59:367][140]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.03.25-11.21.59:367][140]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.03.25-11.21.59:367][140]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2021.03.25-11.21.59:367][140]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.03.25-11.21.59:367][140]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.03.25-11.21.59:367][140]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2021.03.25-11.21.59:420][140]LogMaterial: Display: Missing cached shader map for material WallMount, compiling. 
+[2021.03.25-11.21.59:518][140]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.03.25-11.21.59:528][140]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.03.25-11.21.59:528][140]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.03.25-11.21.59:768][140]LogMaterial: Display: Missing cached shader map for material WallMount, compiling. 
+[2021.03.25-11.22.00:437][140]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2021.03.25-11.22.00:457][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.03.25-11.22.00:946][140]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2021.03.25-11.22.00:947][140]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.03.25-11.22.00:971][140]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.25-11.22.01:550][140]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.03.25-11.22.01:550][140]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2021.03.25-11.22.02:154][140]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.03.25-11.22.02:725][140]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.03.25-11.22.02:725][140]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.03.25-11.22.03:033][140]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2021.03.25-11.22.03:033][140]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.03.25-11.22.03:033][140]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.03.25-11.22.03:085][140]TextureStreamingBuild: Display: Compiling optional shaders took 2.122 seconds.
+[2021.03.25-11.22.05:098][140]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.03.25-11.22.05:456][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.03.25-11.22.06:168][140]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.03.25-11.22.07:401][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Materials/Props/WallMount" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Materials/Props/WallMount.uasset" SILENT=true
+[2021.03.25-11.22.07:422][140]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/WallMount83CB270B402045B8835A8F984BDE7F7A.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Models/Materials/Props/WallMount.uasset'
+[2021.03.25-11.22.07:590][140]AssetCheck: New page: Asset Save: WallMount
+[2021.03.25-11.22.07:590][140]LogContentValidation: Display: Validating Material /Game/Models/Materials/Props/WallMount.WallMount
+[2021.03.25-11.22.07:592][140]MaterialEditorStats: Base pass shader: 183 instructions
+[2021.03.25-11.22.07:592][140]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 261 instructions
+[2021.03.25-11.22.07:592][140]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2021.03.25-11.22.07:592][140]MaterialEditorStats: Texture samplers: 7/16
+[2021.03.25-11.22.07:592][140]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.03.25-11.22.07:592][140]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.03.25-11.22.13:456][472]LogActorFactory: Actor Factory created udehcidiw_LOD0
+[2021.03.25-11.22.14:054][506]LogActorFactory: Actor Factory created udehcidiw_LOD0
+[2021.03.25-11.22.35:901][881]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.25-11.22.40:686][184]Cmd: MODE SCALEGRID=0
+[2021.03.25-11.22.45:685][495]Cmd: MODE SCALEGRID=1
+[2021.03.25-11.22.46:169][522]Cmd: MODE GRID=0
+[2021.03.25-11.25.45:472][789]LogHttp: Warning: 000002A4561EF900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2825399B-4457-F834-09B1-9DB6C6377AAB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=017739a244f14fc10b7e66b3d7e43a2f%7C20dbcb50ac26415ca68c4c5831fbc894%7C73fed6ba-c8cf-4b61-b675-378d5edac619&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.25-11.25.45:526][789]LogHttp: Warning: 000002A4561EF900: request failed, libcurl error: 0 (No error)
+[2021.03.25-11.25.45:526][789]LogHttp: Warning: 000002A4561EF900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2a398587f70 [can pipeline])
+[2021.03.25-11.25.45:526][789]LogHttp: Warning: 000002A4561EF900: libcurl info message cache 1 (Re-using existing connection! (#38) with host datarouter.ol.epicgames.com)
+[2021.03.25-11.25.45:526][789]LogHttp: Warning: 000002A4561EF900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.1.102.152) port 443 (#38))
+[2021.03.25-11.25.45:526][789]LogHttp: Warning: 000002A4561EF900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.03.25-11.25.45:529][789]LogHttp: Warning: 000002A4561EF900: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2021.03.25-11.25.45:529][789]LogHttp: Warning: 000002A4561EF900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.03.25-11.25.45:529][789]LogHttp: Warning: 000002A4561EF900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.03.25-11.25.45:529][789]LogHttp: Warning: 000002A4561EF900: libcurl info message cache 7 (Closing connection 38)
+[2021.03.25-11.25.45:529][789]LogHttp: Warning: 000002A4561EF900: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021.03.25-11.25.45:831][790]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2825399B-4457-F834-09B1-9DB6C6377AAB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=017739a244f14fc10b7e66b3d7e43a2f%7C20dbcb50ac26415ca68c4c5831fbc894%7C73fed6ba-c8cf-4b61-b675-378d5edac619&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2021.03.25-11.26.25:029][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wardrobe_complete)
+[2021.03.25-11.27.12:156][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wardrobe_complete)
+[2021.03.25-11.27.51:201][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.03.25-11.27.51:361][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/House" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Maps/House_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.03.25-11.27.51:868][144]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/House_Auto6A06E988F4D4658099E942A86694C1172.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Maps/House_Auto6.umap'
+[2021.03.25-11.27.51:972][144]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/House' took 0.809
+[2021.03.25-11.27.51:972][144]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.809
+[2021.03.25-11.27.51:973][144]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Textures/Props/WallMount/udehcidiw_2K_Albedo] ([1] browsable assets)...
+[2021.03.25-11.27.52:003][144]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Textures/Props/WallMount/udehcidiw_2K_Albedo.udehcidiw_2K_Albedo]
+[2021.03.25-11.27.52:003][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Textures/Props/WallMount/udehcidiw_2K_Albedo]
+[2021.03.25-11.27.52:478][144]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/udehcidiw_2K_Albedo_Auto63BD5780241F4707A83DF1F8E76366BD0.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Models/Textures/Props/WallMount/udehcidiw_2K_Albedo_Auto6.uasset'
+[2021.03.25-11.27.52:480][144]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Textures/Props/WallMount/udehcidiw_2K_AO] ([1] browsable assets)...
+[2021.03.25-11.27.52:503][144]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Textures/Props/WallMount/udehcidiw_2K_AO.udehcidiw_2K_AO]
+[2021.03.25-11.27.52:503][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Textures/Props/WallMount/udehcidiw_2K_AO]
+[2021.03.25-11.27.52:992][144]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/udehcidiw_2K_AO_Auto65E61A8E74D725777170B9B96C693D187.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Models/Textures/Props/WallMount/udehcidiw_2K_AO_Auto6.uasset'
+[2021.03.25-11.27.52:993][144]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Models/Textures/Props/WallMount/udehcidiw_2K_Displacement] ([2] browsable assets)...
+[2021.03.25-11.27.53:014][144]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Textures/Props/WallMount/udehcidiw_2K_Displacement.udehcidiw_2K_Displacement]
+[2021.03.25-11.27.53:021][144]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Textures/Props/WallMount/udehcidiw_2K_Displacement.udehcidiw_2K_Displacement_0]
+[2021.03.25-11.27.53:021][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Textures/Props/WallMount/udehcidiw_2K_Displacement]
+[2021.03.25-11.27.54:374][144]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/udehcidiw_2K_Displacement_Auto6F5555CE345442AEE6EABFB934E4FBB16.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Models/Textures/Props/WallMount/udehcidiw_2K_Displacement_Auto6.uasset'
+[2021.03.25-11.27.54:375][144]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Textures/Props/WallMount/udehcidiw_2K_Normal_LOD0] ([1] browsable assets)...
+[2021.03.25-11.27.54:382][144]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Textures/Props/WallMount/udehcidiw_2K_Normal_LOD0.udehcidiw_2K_Normal_LOD0]
+[2021.03.25-11.27.54:382][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Textures/Props/WallMount/udehcidiw_2K_Normal_LOD0]
+[2021.03.25-11.27.54:836][144]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/udehcidiw_2K_Normal_LOD0_Auto6431D55F842E369CC34E51E8F5D4E400F.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Models/Textures/Props/WallMount/udehcidiw_2K_Normal_LOD0_Auto6.uasset'
+[2021.03.25-11.27.54:838][144]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Textures/Props/WallMount/udehcidiw_2K_Roughness] ([1] browsable assets)...
+[2021.03.25-11.27.54:844][144]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Textures/Props/WallMount/udehcidiw_2K_Roughness.udehcidiw_2K_Roughness]
+[2021.03.25-11.27.54:844][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Textures/Props/WallMount/udehcidiw_2K_Roughness]
+[2021.03.25-11.27.55:325][144]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/udehcidiw_2K_Roughness_Auto644C7E1D44CB9DB341CD435B4EB9940E2.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/Autosaves/Game/Models/Textures/Props/WallMount/udehcidiw_2K_Roughness_Auto6.uasset'
+[2021.03.25-11.27.55:327][144]LogFileHelpers: Auto-saving content packages took 3.354
+[2021.03.25-11.28.13:516][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (middle_counter_complete)
+[2021.03.25-11.28.14:474][353]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.25-11.29.09:232][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (middle_counter_complete)
+[2021.03.25-11.30.08:245][789]LogMaterial: Display: Missing cached shader map for material aiStandardSurface3, compiling. 
+[2021.03.25-11.30.08:254][789]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.03.25-11.30.08:254][789]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.03.25-11.30.08:254][789]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.03.25-11.30.13:513][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kitchen_top_bottom_counter_all)
+[2021.03.25-11.30.21:037][436]LogMaterial: Display: Missing cached shader map for material lambert23, compiling. 
+[2021.03.25-11.30.21:082][436]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2021.03.25-11.30.26:492][674]LogMaterial: Display: Missing cached shader map for material aiStandardSurface6, compiling. 
+[2021.03.25-11.30.27:920][731]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2021.03.25-11.30.30:764][825]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.03.25-11.30.33:104][922]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2021.03.25-11.30.36:190][ 64]LogMaterial: Display: Missing cached shader map for material lambert39, compiling. 
+[2021.03.25-11.30.42:867][356]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 39
+[2021.03.25-11.30.51:395][723]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2021.03.25-11.30.51:902][723]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.03.25-11.30.55:465][877]LogMaterial: Display: Missing cached shader map for material lambert39, compiling. 
+[2021.03.25-11.30.58:227][997]LogMaterial: Display: Missing cached shader map for material lambert23, compiling. 
+[2021.03.25-11.31.12:806][700]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 42
+[2021.03.25-11.31.15:176][809]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2021.03.25-11.31.39:422][903]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.03.25-11.31.52:339][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FirstFloorGround108)
+[2021.03.25-11.31.56:440][750]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2021.03.25-11.31.56:440][750]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.03.25-11.31.59:224][863]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.03.25-11.32.02:674][ 34]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.03.25-11.32.03:564][ 82]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.03.25-11.32.13:206][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sam_s_Hot_Fix_FBX_to_save_the_day_Wall98)
+[2021.03.25-11.32.15:107][820]Cmd: DELETE
+[2021.03.25-11.32.15:107][820]Cmd: ACTOR DELETE
+[2021.03.25-11.32.15:119][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-11.32.15:222][820]LogUObjectHash: Compacting FUObjectHashTables data took   8.86ms
+[2021.03.25-11.32.15:498][820]LogEditorActor: Deleted 1 Actors (0.391 secs)
+[2021.03.25-11.32.17:211][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Small_Window12)
+[2021.03.25-11.32.19:213][ 69]Cmd: EDIT COPY
+[2021.03.25-11.32.19:510][ 69]Cmd: EDIT PASTE
+[2021.03.25-11.32.24:331][352]Cmd: MODE GRID=1
+[2021.03.25-11.32.27:595][559]Cmd: TRANSACTION UNDO
+[2021.03.25-11.32.27:595][559]LogEditorTransaction: Undo Move Actors
+[2021.03.25-11.32.27:757][559]LogMaterial: Display: Missing cached shader map for material BloodHand, compiling. 
+[2021.03.25-11.32.28:847][559]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2021.03.25-11.32.28:847][559]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2021.03.25-11.32.28:847][559]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2021.03.25-11.32.28:920][559]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2021.03.25-11.32.29:287][559]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2021.03.25-11.32.29:287][559]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2021.03.25-11.32.29:449][559]LogMaterial: Display: Missing cached shader map for material Wardrobe, compiling. 
+[2021.03.25-11.32.29:481][559]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2021.03.25-11.32.30:010][559]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2021.03.25-11.32.30:010][559]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 39
+[2021.03.25-11.32.30:123][559]LogMaterial: Display: Missing cached shader map for material Concrete, compiling. 
+[2021.03.25-11.32.30:435][559]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 49
+[2021.03.25-11.32.30:541][559]LogMaterial: Display: Missing cached shader map for material WallMount, compiling. 
+[2021.03.25-11.32.30:565][559]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 57
+[2021.03.25-11.32.30:568][559]Cmd: TRANSACTION UNDO
+[2021.03.25-11.32.30:568][559]LogEditorTransaction: Undo Move Actors
+[2021.03.25-11.32.30:571][559]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 42
+[2021.03.25-11.32.30:571][559]LogMaterial: Display: Missing cached shader map for material BloodHand, compiling. 
+[2021.03.25-11.32.30:645][559]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2021.03.25-11.32.30:655][559]LogMaterial: Display: Missing cached shader map for material Wardrobe, compiling. 
+[2021.03.25-11.32.30:808][559]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 55
+[2021.03.25-11.32.30:808][559]LogMaterial: Display: Missing cached shader map for material Concrete, compiling. 
+[2021.03.25-11.32.30:842][559]LogMaterial: Display: Missing cached shader map for material WallMount, compiling. 
+[2021.03.25-11.32.30:850][559]Cmd: TRANSACTION UNDO
+[2021.03.25-11.32.30:850][559]LogEditorTransaction: Undo Paste
+[2021.03.25-11.32.31:131][559]LogMaterial: Display: Missing cached shader map for material BloodHand, compiling. 
+[2021.03.25-11.32.31:166][559]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2021.03.25-11.32.31:178][559]LogMaterial: Display: Missing cached shader map for material Wardrobe, compiling. 
+[2021.03.25-11.32.31:228][559]LogMaterial: Display: Missing cached shader map for material Concrete, compiling. 
+[2021.03.25-11.32.31:307][559]LogMaterial: Display: Missing cached shader map for material WallMount, compiling. 
+[2021.03.25-11.32.31:578][562]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 66
+[2021.03.25-11.32.31:957][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 65
+[2021.03.25-11.32.32:762][635]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 64
+[2021.03.25-11.32.35:283][764]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 63
+[2021.03.25-11.32.36:218][820]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 62
+[2021.03.25-11.32.37:172][870]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 61
+[2021.03.25-11.32.38:143][927]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 60
+[2021.03.25-11.32.38:391][941]Cmd: EDIT COPY
+[2021.03.25-11.32.38:596][953]Cmd: EDIT PASTE
+[2021.03.25-11.32.39:700][ 12]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 59
+[2021.03.25-11.32.40:212][ 26]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 58
+[2021.03.25-11.32.41:539][ 93]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 57
+[2021.03.25-11.32.41:944][115]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.25-11.32.42:076][122]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 56
+[2021.03.25-11.32.43:220][177]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 55
+[2021.03.25-11.32.45:720][322]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 54
+[2021.03.25-11.32.45:966][337]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 53
+[2021.03.25-11.32.46:456][366]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 52
+[2021.03.25-11.32.47:610][429]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 51
+[2021.03.25-11.32.49:557][531]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2021.03.25-11.32.49:716][540]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 49
+[2021.03.25-11.32.53:954][773]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 48
+[2021.03.25-11.32.54:070][780]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 47
+[2021.03.25-11.32.54:765][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FirstFloorGround194)
+[2021.03.25-11.32.55:669][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FirstFloorGround128)
+[2021.03.25-11.32.55:788][871]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 46
+[2021.03.25-11.32.56:897][934]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 45
+[2021.03.25-11.32.56:995][940]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.25-11.32.57:256][954]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 44
+[2021.03.25-11.32.58:935][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sam_s_Hot_Fix_FBX_to_save_the_day_Wall125)
+[2021.03.25-11.32.59:847][ 97]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 43
+[2021.03.25-11.33.00:816][152]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 42
+[2021.03.25-11.33.01:461][191]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 41
+[2021.03.25-11.33.05:873][446]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2021.03.25-11.33.06:649][494]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 39
+[2021.03.25-11.33.06:690][495]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 38
+[2021.03.25-11.33.06:735][495]MaterialEditorStats: Base pass shader: 148 instructions
+[2021.03.25-11.33.06:735][495]MaterialEditorStats: Base pass shader with Surface Lightmap: 193 instructions
+[2021.03.25-11.33.06:735][495]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2021.03.25-11.33.06:735][495]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2021.03.25-11.33.06:735][495]MaterialEditorStats: Texture samplers: 4/16
+[2021.03.25-11.33.06:735][495]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.03.25-11.33.06:736][495]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.03.25-11.33.08:406][581]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2021.03.25-11.33.09:055][618]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2021.03.25-11.33.11:701][738]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 35
+[2021.03.25-11.33.13:190][826]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2021.03.25-11.33.13:798][859]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2021.03.25-11.33.14:570][898]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2021.03.25-11.33.17:122][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (middle_counter_complete)
+[2021.03.25-11.33.17:158][ 34]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2021.03.25-11.33.17:322][ 35]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2021.03.25-11.33.17:322][ 35]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2021.03.25-11.33.17:331][ 35]MaterialEditorStats: Base pass shader: 175 instructions
+[2021.03.25-11.33.17:331][ 35]MaterialEditorStats: Base pass shader with Surface Lightmap: 202 instructions
+[2021.03.25-11.33.17:331][ 35]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 249 instructions
+[2021.03.25-11.33.17:331][ 35]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2021.03.25-11.33.17:331][ 35]MaterialEditorStats: Texture samplers: 3/16
+[2021.03.25-11.33.17:331][ 35]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.03.25-11.33.17:331][ 35]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.03.25-11.33.17:857][ 66]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.25-11.33.22:233][304]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2021.03.25-11.33.23:047][353]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2021.03.25-11.33.23:616][388]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2021.03.25-11.33.25:792][504]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2021.03.25-11.33.28:917][688]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2021.03.25-11.33.29:105][699]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2021.03.25-11.33.32:099][882]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.03.25-11.33.33:232][952]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2021.03.25-11.33.34:465][ 23]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.03.25-11.33.36:439][139]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2021.03.25-11.33.36:630][150]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.03.25-11.33.36:632][150]MaterialEditorStats: Base pass shader: 183 instructions
+[2021.03.25-11.33.36:632][150]MaterialEditorStats: Base pass shader with Surface Lightmap: 214 instructions
+[2021.03.25-11.33.36:632][150]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 261 instructions
+[2021.03.25-11.33.36:632][150]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2021.03.25-11.33.36:632][150]MaterialEditorStats: Texture samplers: 6/16
+[2021.03.25-11.33.36:632][150]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.03.25-11.33.36:632][150]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.03.25-11.33.39:607][319]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2021.03.25-11.33.41:220][413]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2021.03.25-11.33.41:402][423]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.03.25-11.33.43:113][523]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.03.25-11.33.45:856][670]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.03.25-11.33.46:850][718]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2021.03.25-11.33.47:599][758]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.03.25-11.33.48:725][821]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.03.25-11.33.50:488][923]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.03.25-11.33.51:738][996]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.03.25-11.33.52:027][ 11]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.03.25-11.33.52:029][ 11]MaterialEditorStats: Base pass shader: 184 instructions
+[2021.03.25-11.33.52:029][ 11]MaterialEditorStats: Base pass shader with Surface Lightmap: 215 instructions
+[2021.03.25-11.33.52:029][ 11]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 262 instructions
+[2021.03.25-11.33.52:029][ 11]MaterialEditorStats: Base pass vertex shader: 104 instructions
+[2021.03.25-11.33.52:029][ 11]MaterialEditorStats: Texture samplers: 6/16
+[2021.03.25-11.33.52:029][ 11]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.03.25-11.33.52:029][ 11]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2021.03.25-11.33.54:583][153]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.03.25-11.33.54:924][174]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.03.25-11.33.55:640][203]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.03.25-11.33.58:069][327]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.25-11.33.58:569][354]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.03.25-11.33.58:937][378]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.03.25-11.33.59:362][404]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.03.25-11.34.02:814][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bed_V4)
+[2021.03.25-11.34.02:994][609]MaterialEditorStats: Base pass shader: 183 instructions
+[2021.03.25-11.34.02:994][609]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 261 instructions
+[2021.03.25-11.34.02:994][609]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2021.03.25-11.34.02:994][609]MaterialEditorStats: Texture samplers: 6/16
+[2021.03.25-11.34.02:994][609]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.03.25-11.34.02:994][609]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.03.25-11.34.16:469][482]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2021.03.25-11.35.08:823][145]Cmd: EDIT COPY
+[2021.03.25-11.35.09:035][158]Cmd: EDIT PASTE
+[2021.03.25-11.35.16:420][625]Cmd: DELETE
+[2021.03.25-11.35.16:420][625]Cmd: ACTOR DELETE
+[2021.03.25-11.35.16:431][625]LogEditorActor: Deleted Actor: PointLight
+[2021.03.25-11.35.16:467][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.03.25-11.35.16:509][625]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2021.03.25-11.35.20:106][871]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.25-11.35.23:412][ 96]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.25-11.35.27:109][342]Cmd: DELETE
+[2021.03.25-11.35.27:109][342]Cmd: ACTOR DELETE
+[2021.03.25-11.35.27:121][342]LogEditorActor: Deleted Actor: PointLight
+[2021.03.25-11.35.27:131][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.03.25-11.35.27:134][342]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2021.03.25-11.35.30:882][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/House" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Maps/House.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.25-11.35.30:894][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.03.25-11.35.31:252][614]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/House9FCF86424EB5725F9FB00588D49DC4D0.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Maps/House.umap'
+[2021.03.25-11.35.31:429][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/House_BuiltData" FILE="D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Maps/House_BuiltData.uasset" SILENT=true
+[2021.03.25-11.35.34:726][614]LogSavePackage: Moving 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Saved/House_BuiltData440BD353456CAF9D9BD3CF800D49C39B.tmp' to 'D:/Year 2/Collab/Kilncroft-Lane/Unreal Project/KilncroftLane/Content/Maps/House_BuiltData.uasset'
+[2021.03.25-11.35.34:790][614]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.25-11.35.34:791][614]LogContentValidation: Display: Validating World /Game/Maps/House.House
+[2021.03.25-11.35.34:791][614]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/House_BuiltData.House_BuiltData
