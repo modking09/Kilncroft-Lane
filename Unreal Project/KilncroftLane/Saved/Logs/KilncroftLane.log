@@ -3245,6 +3245,7 @@ Exception rethrown at [0]:
 [2021.03.28-19.57.37:607][254]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002680BF16400), frame # 187254
 [2021.03.28-19.57.43:482][254]LogExit: Object subsystem successfully closed.
 [2021.03.28-19.57.56:733][254]LogShaderCompilers: Display: Shaders left to compile 0
+<<<<<<< Updated upstream
 [2021.03.28-20.03.24:997][254]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (794)
 [2021.03.28-20.03.24:997][254]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (792)
 [2021.03.28-20.03.25:080][254]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (790)
@@ -3645,3 +3646,5 @@ Exception rethrown at [0]:
 [2021.03.28-20.04.27:305][254]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
 [2021.03.28-20.04.27:915][254]LogD3D11RHI: Shutdown
 [2021.03.28-20.04.27:915][254]LogD3D11RHI: CleanupD3DDevice
+=======
+>>>>>>> Stashed changes
